@@ -1,4 +1,4 @@
-# E1---Congenital-malformations
+# E1-Congenital-malformations
 Trabalho final da disciplina Ciência e Visualização de Dados em Saúde
 
 Projeto: Controle e estudo de doenças causadas por malformações congênitas
