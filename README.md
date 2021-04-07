@@ -84,5 +84,5 @@ Tarefas | maio | abril | março | junho | julho
 Descrição inicial do projeto            | X |   |   |   |
 Levantamento dos dados                  | X | X |   |   |
 Análise dos dados                       |   |   | X |   |
-Digitalização do projeto                |   |   | X | X | 
-Entrega e apresentação final do projeto |   |   |   | X |
+Digitalização do projeto                |   |   | X | X | X
+Entrega e apresentação final do projeto |   |   |   |   | X
