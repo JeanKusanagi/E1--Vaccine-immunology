@@ -23,7 +23,7 @@ Tatiana Aparecida de Almeida     | | Computação
 
     Descrição do tema do projeto, incluindo motivação e contexto gerador.
     
-   Tema do projeto: As malformações congênitas são defeitos estruturais, presentes ao nascimento, de causa genética e/ou ambiental. É uma expressão genérica,
+   <strong>Tema do projeto:</strong> As malformações congênitas são defeitos estruturais, presentes ao nascimento, de causa genética e/ou ambiental. É uma expressão genérica,
     ampla, que inclui toda anomalia de ordem estrutural, funcional ou metabólica. Elas estão associadas à elevada morbi-mortalidade infantil, sendo uma das
     maiores causas da taxa de mortalidade infantil. Este trabalho tem como objetivo estimar a prevalência ao nascimento das malformações congênitas e avaliar sua
     correlação com os fatores associados numa amostra de dados que modela o nascimento de crianças.
