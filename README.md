@@ -79,7 +79,7 @@ Python 3.8.3 | https://www.python.org/ | Linguagem de programação de propósit
 
     Proposta de cronograma. Procure estimar quantas semanas serão gastas para cada etapa do projeto.
     
-    Nome | RA | Especialização
+Tarefas | RA | Especialização
 ----- | ----- | -----
 Bruna Mezzari Carlos             | | Computação
 Jean Antonio Ribeiro             | 265739 | Computação
