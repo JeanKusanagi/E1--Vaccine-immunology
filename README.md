@@ -81,8 +81,8 @@ Python 3.8.3 | https://www.python.org/ | Linguagem de programação de propósit
     
 Tarefas | maio | abril | março | junho | julho
 ----- | ----- | ----- | ----- | ----- | -----
-Descrição inicial do projeto            | | | | |
-Levantamento dos dados                  | | | | |
-Análise dos dados                       | | | | |
-Digitalização do projeto                | | | | | 
-Entrega e apresentação final do projeto | | | | |
+Descrição inicial do projeto            | X |   |   |   |
+Levantamento dos dados                  | X | X |   |   |
+Análise dos dados                       |   |   | X |   |
+Digitalização do projeto                |   |   | X | X | 
+Entrega e apresentação final do projeto |   |   |   | X |
