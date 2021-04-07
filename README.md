@@ -21,9 +21,11 @@ Tatiana Aparecida de Almeida     | | Computação
 
     Descrição do tema do projeto, incluindo motivação e contexto gerador.
     
-   ## Tema do projeto: 
-   ## Motivação: 
-   ## Contexto gerador: Controle e estudo de doenças causadas por malformações congênitas.
+   Tema do projeto: 
+   
+   Motivação: 
+   
+   Contexto gerador: Controle e estudo de doenças causadas por malformações congênitas.
     
 # Vídeo do Projeto
 
