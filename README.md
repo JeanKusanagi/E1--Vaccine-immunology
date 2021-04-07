@@ -29,7 +29,7 @@ Tatiana Aparecida de Almeida     | | Computação
 
     Link para vídeo de apresentação da proposta do projeto (máximo 3 minutos).
 
-https://drive.google.com/file/d/1YJO4n3ys-MSM6XH-g4f1leWGtL7T3ceN/view?usp=sharing
+
 
 # Perguntas de Pesquisa
 
