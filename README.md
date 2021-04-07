@@ -29,8 +29,8 @@ Bases de Dados
 
     Elencar bases de dados candidatas a serem utilizadas no projeto.
     
-    https://bigdata.icict.fiocruz.br/
-    http://www2.datasus.gov.br/DATASUS/index.php?area=060702
+    #https://bigdata.icict.fiocruz.br/
+    #http://www2.datasus.gov.br/DATASUS/index.php?area=060702
 
 Metodologia
 
