@@ -18,10 +18,11 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
     
 Nome | RA | Especialização
 ----- | ----- | -----
-Matplotlib | https://matplotlib.org/ | Biblioteca do _Python_ para criação de gráficos e visualizações de dados. Foi utilizada na apresentação de resultados.
-Numpy | https://numpy.org/ | Biblioteca do _Python_ orientada a operação de vetores e matrizes multidimensionais. Foi utilizada em conjunto com o _pandas_ na manipulação de dados.
-Pandas | https://pandas.pydata.org/ | Biblioteca do _Python_ orientada a manipulação e análise de dados. Foi utilizada especialmente na extração e manipulação dos dados.
-Python 3.8.3 | https://www.python.org/ | Linguagem de programação de alto nível, interpretada, de propósito geral. Base da codificação do projeto (extração e transformação dos dados, criação da rede).
+Bruna Mezzari Carlos             | Computação
+Jean Antonio Ribeiro             | 265739 | Computação
+Kellen Natalice Vilharva         | Saúde
+Roberto Junio de Almeida Candian | https://www.python.org/ | Saúde
+Tatiana Aparecida de Almeida     | | Computação
 
 Descrição Resumida do Projeto
 
