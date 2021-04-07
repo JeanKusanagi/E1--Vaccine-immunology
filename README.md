@@ -18,10 +18,10 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
     
 Nome | RA | Especialização
 ----- | ----- | -----
-Bruna Mezzari Carlos             | Computação
+Bruna Mezzari Carlos             | | Computação
 Jean Antonio Ribeiro             | 265739 | Computação
-Kellen Natalice Vilharva         | Saúde
-Roberto Junio de Almeida Candian | https://www.python.org/ | Saúde
+Kellen Natalice Vilharva         | | Saúde
+Roberto Junio de Almeida Candian | | Saúde
 Tatiana Aparecida de Almeida     | | Computação
 
 Descrição Resumida do Projeto
