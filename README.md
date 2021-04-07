@@ -28,10 +28,9 @@ Tatiana Aparecida de Almeida     | | Computação
     maiores causas da taxa de mortalidade infantil. Este trabalho tem como objetivo estimar a prevalência ao nascimento das malformações congênitas e avaliar sua
     correlação com os fatores associados numa amostra de dados que modela o nascimento de crianças.
    
-   Motivação: As manifestações clínicas podem variar de quadros leves até muito graves, com alto risco de vida para as crianças acometidas. A malformação resulta
+   Motivação: As manifestações clínicas variam entre quadros leves e graves, com alto risco de vida para as crianças recém-nascidas. A malformação resulta
     de um defeito intrínseco tecidual e surge durante a formação inicial das estruturas. O desenvolvimento dos tecidos ou órgãos é interrompido, retardado ou
-    alterado, resultando em alterações persistentes. Os distúrbios cromossômicos, como a Síndrome de Down, pertencem a essa categoria.
-
+    alterado, resultando em alterações persistentes. A Síndrome de Down, por exmplo, é um exemplo de distúrbio cromossômico que pertencem a essa categoria. 
 Do ponto de vista biológico, as malformações congênitas representam um grupo de alterações do desenvolvimento embrionário, já que são muitos os agentes capazes de produzí-las. Esses podem ser ambientais (físicos, químicos, biológicos) ou genéticos (mutações gênicas, aberrações cromossômicas) e se inter-relacionarem formando um mecanismo de multifatorialidade.
 
 Pouco se sabe a respeito da etiologia da maioria das anomalias morfológicas
