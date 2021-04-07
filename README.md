@@ -54,6 +54,8 @@ Metodologia
 Ferramentas
 
     Ferramentas a serem utilizadas (com base na visão atual do grupo sobre o projeto).
+    
+    Python
 
 Cronograma
 
