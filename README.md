@@ -31,14 +31,18 @@ Tatiana Aparecida de Almeida     | | Computação
    Motivação: As manifestações clínicas variam entre quadros leves e graves, com alto risco de vida para as crianças recém-nascidas. A malformação resulta
     de um defeito intrínseco tecidual e surge durante a formação inicial das estruturas. O desenvolvimento dos tecidos ou órgãos é interrompido, retardado ou
     alterado, resultando em alterações persistentes. A Síndrome de Down, por exmplo, é um exemplo de distúrbio cromossômico que pertencem a essa categoria. 
-Do ponto de vista biológico, as malformações congênitas representam um grupo de alterações do desenvolvimento embrionário, já que são muitos os agentes capazes de produzí-las. Esses podem ser ambientais (físicos, químicos, biológicos) ou genéticos (mutações gênicas, aberrações cromossômicas) e se inter-relacionarem formando um mecanismo de multifatorialidade.
+    Do ponto de vista biológico, as malformações congênitas representam um grupo de alterações do desenvolvimento embrionário. Além disso, são muitos os agentes
+    capazes de produzir tais alterações. Esses podem ser do tipo ambiental (físicos, químicos, biológicos) ou genético (mutações gênicas, aberrações
+    cromossômicas) e se inter-relacionarem formando um mecanismo de multifatorialidade.
 
-Pouco se sabe a respeito da etiologia da maioria das anomalias morfológicas
-congênitas, sendo que as causas na maioria dos casos  são desconhecidas. Dentre
-as etiologias conhecidas, as de origem genética são as mais estudadas e abrangem as
-aberrações cromossômicas e as causadas por genes mutantes. 
-
-O impacto das anomalias congênitas, tanto pelo ponto de vista da morbidade como de mortalidade, costuma ser devastador nas famílias, especialmente naquelas que optam por proles menores e nas de baixa renda. Pois algumas crianças requerem intervenção cirúrgica imediata para sobreviverem e muitas necessitam de tratamento de reabilitação prolongado, às vezes por toda a vida. Possivelmente, crianças com anomalias detectadas durante o primeiro ano de vida possuem um significante aumento no risco de morrer e em apresentar déficits neurológico e psíquico, história de grande cirurgia, hospitalização prolongada e infecção crônica. O nascimento de uma criança malformada requer uma adaptação emocional e um investimento financeiro para os pais, para a família e para a sociedade.
+  Mesmo com os avanções tecnológicos, ainda se tem poucas informações à respeito da etiologia da maioria das anomalias morfológicas congênitas. Além do mais, 
+   na maioria dos casos, as causas são desconhecidas. Dentre as etiologias conhecidas, as de origem genética são as mais estudadas, incluindo as mutações
+   causadas por genes mutantes. O impacto das anomalias congênitas, tanto pelo ponto de vista da morbidade como de mortalidade, costuma ser devastador nas
+   famílias, especialmente naquelas que optam por proles menores e nas de baixa renda. Pois algumas crianças requerem intervenção cirúrgica imediata para
+   sobreviverem e muitas necessitam de tratamento de reabilitação prolongado, às vezes por toda a vida. Possivelmente, crianças com anomalias detectadas durante o
+   primeiro ano de vida possuem um significante aumento no risco de morrer e em apresentar déficits neurológico e psíquico, história de grande cirurgia,
+   hospitalização prolongada e infecção crônica. O nascimento de uma criança malformada requer uma adaptação emocional e um investimento financeiro para os pais,
+   para a família e para a sociedade.
    
    Contexto gerador: Controle e estudo de doenças causadas por malformações congênitas.
     
