@@ -103,7 +103,7 @@ Python 3.8.3 | https://www.python.org            | Linguagem de programação de
 
     Proposta de cronograma. Procure estimar quantas semanas serão gastas para cada etapa do projeto.
     
-Tarefas | maio | abril | março | junho | julho
+Tarefas | março | abril | maio | junho | julho
 ----- | ----- | ----- | ----- | ----- | -----
 Descrição inicial do projeto            | X |   |   |   |
 Levantamento dos dados                  | X | X |   |   |
