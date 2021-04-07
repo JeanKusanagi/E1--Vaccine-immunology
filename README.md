@@ -8,7 +8,7 @@ Apresentação
 O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação Ciência e Visualização de Dados em Saúde, oferecida no primeiro semestre de 2021, na Unicamp.
 
     Incluir nome RA e foco de especialização de cada membro do grupo. Os grupos devem ter no máximo 5 integrantes e devem contar com pelo menos um aluno da área da saúde e um aluno de área afim à Computação (Ex.: Computação, Elétrica...)
-    Nome                             | RA 	| Especialização
+    Nome                             | RA 	  | Especialização
     Bruna Mezzari Carlos             | 123456 | Computação
     Jean Antonio Ribeiro             | 265739 | Computação
     Kellen Natalice Vilharva         | 123456 | Saúde
