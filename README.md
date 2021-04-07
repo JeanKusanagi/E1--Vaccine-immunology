@@ -69,8 +69,6 @@ DATASUS | http://www2.datasus.gov.br/DATASUS/index.php?area=060702
     
    O projeto será elaborado com auxílio de gráficos, séries temporais e da linguagem de programação Python.
     
-    ## Ferramentas
-
 Ferramenta | Endereço na Web | Resumo descritivo e uso
 ----- | ----- | -----
 Matplotlib   | https://matplotlib.org            | Biblioteca do _Python_ para criação de gráficos e visualizações de dados.
