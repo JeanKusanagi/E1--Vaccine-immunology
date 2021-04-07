@@ -35,14 +35,11 @@ Tatiana Aparecida de Almeida     | | Computação
     disso, são muitos os agentes capazes de produzir tais alterações. Esses podem ser do tipo ambiental (físicos, químicos, biológicos) ou genético (mutações
     gênicas, aberrações cromossômicas) e se inter-relacionarem formando um mecanismo de multifatorialidade.
 
-  Mesmo com os avanções tecnológicos, ainda se tem poucas informações à respeito da etiologia da maioria das anomalias morfológicas congênitas. Além do mais, 
-   na maioria dos casos, as causas são desconhecidas. Dentre as etiologias conhecidas, as de origem genética são as mais estudadas, incluindo as mutações
+  Mesmo com os avanções tecnológicos, ainda se tem poucas informações à respeito da etiologia da maioria das anomalias morfológicas congênitas. Na maioria dos casos, as causas dessas anomalias são desconhecidas. Dentre as etiologias conhecidas, as de origem genética são as mais estudadas, incluindo as mutações
    causadas por genes mutantes. O impacto das anomalias congênitas, tanto pelo ponto de vista da morbidade como de mortalidade, costuma ser devastador nas
-   famílias, especialmente naquelas que optam por proles menores e nas de baixa renda. Pois algumas crianças requerem intervenção cirúrgica imediata para
-   sobreviverem e muitas necessitam de tratamento de reabilitação prolongado, às vezes por toda a vida. Possivelmente, crianças com anomalias detectadas durante o
-   primeiro ano de vida possuem um significante aumento no risco de morrer e em apresentar déficits neurológico e psíquico, história de grande cirurgia,
-   hospitalização prolongada e infecção crônica. O nascimento de uma criança malformada requer uma adaptação emocional e um investimento financeiro para os pais,
-   para a família e para a sociedade.
+   famílias, especialmente naquelas que optam por proles menores e nas de baixa renda. Nesses casos, algumas crianças requerem intervenção cirúrgica imediata para
+   sobreviverem e muitas delas necessitam de tratamento de reabilitação prolongado, às vezes, por toda a vida. Possivelmente, crianças com anomalias detectadas durante o primeiro ano de vida possuem um significante aumento no risco de morrer e em apresentar déficits neurológico e psíquico, história de grande cirurgia,
+   hospitalização prolongada e infecção crônica. Portanto, o nascimento de uma criança malformada requer uma adaptação emocional e um investimento financeiro para os pais, família e sociedade.
    
    <strong>Contexto gerador:</strong> Controle e estudo de doenças causadas por malformações congênitas.
     
