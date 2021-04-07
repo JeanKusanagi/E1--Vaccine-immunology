@@ -80,9 +80,9 @@ Python 3.8.3 | https://www.python.org/ | Linguagem de programação de propósit
     Proposta de cronograma. Procure estimar quantas semanas serão gastas para cada etapa do projeto.
     
 Tarefas | maio | abril | março | junho | julho
------ | ----- | -----
-Bruna Mezzari Carlos             | | Computação
-Jean Antonio Ribeiro             | | Computação
-Kellen Natalice Vilharva         | | Saúde
-Roberto Junio de Almeida Candian | | Saúde
-Tatiana Aparecida de Almeida     | | Computação
+----- | ----- | ----- | ----- | ----- | -----
+Bruna Mezzari Carlos             | | | | |
+Jean Antonio Ribeiro             | | | | |
+Kellen Natalice Vilharva         | | | | |
+Roberto Junio de Almeida Candian | | | | | 
+Tatiana Aparecida de Almeida     | | | | |
