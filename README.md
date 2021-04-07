@@ -57,7 +57,7 @@ Ferramentas
 
     Ferramentas a serem utilizadas (com base na visão atual do grupo sobre o projeto).
     
-    Python
+    O prijeto será elaborado com auxílio de gráficos, séries temporais e da linguagem de programação Python.
 
 Cronograma
 
