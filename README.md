@@ -35,14 +35,14 @@ Tatiana Aparecida de Almeida     | | Computação
 
     Perguntas de pesquisa que o projeto pretende responder ou hipóteses a serem avaliadas, enunciadas de maneira objetiva e verificável.
     
-    Quais os fatores estão relacionados as altas taxas de mortabilidade causada pelas malformações congênitas?
+   Quais os fatores estão relacionados as altas taxas de mortabilidade causada pelas malformações congênitas?
     
-    Qual a porcentagem de mortabilidade em crianças causada pelas malformações congênitas nos primeiros anos de vida?
+   Qual a porcentagem de mortabilidade em crianças causada pelas malformações congênitas nos primeiros anos de vida?
     
-    Quando e quais os tipos de decisões os pais devem tomar e como os profissionais de saúde devem influenciar na tomada de decisão 
+   Quando e quais os tipos de decisões os pais devem tomar e como os profissionais de saúde devem influenciar na tomada de decisão 
     ao longo do tempo para bebês com condições de risco de vida?
     
-    Existem fatores adicionais com potencial para influenciar na tomada de decisão dos pais ao longo da trajetória da 
+   Existem fatores adicionais com potencial para influenciar na tomada de decisão dos pais ao longo da trajetória da 
     doença do bebê (incluindo eventos de tratamento, percepções de desconforto infantil e esperança para o bebê, sofrimento psicológico 
     dos pais e as características demográficas do caso)?
 
@@ -57,13 +57,13 @@ Tatiana Aparecida de Almeida     | | Computação
 
     Proposta de metodologia incluindo especificação de quais técnicas pretende-se explorar, tais como: aprendizagem de máquina, análise de redes, análise estatística, ou integração de uma ou mais técnicas. Para a primeira entrega, descreva de maneira mais genérica que tipo de abordagem seu grupo pretende realizar.
     
-O projeto será elaborado a partir do modelo CRISP-DM. Com a utilização de dados fornecidos pelas bases de dados, a modelagem será realizada por meio de gráficos, correlação entre os dados e séries temporais. Também poderá serão ser utilizadas Árvore de Decisão e Métodos de Regressão para a predição de informações, ambas utilizando a linguagem de programação Python. 
+   O projeto será elaborado a partir do modelo CRISP-DM. Com a utilização de dados fornecidos pelas bases de dados, a modelagem será realizada por meio de gráficos, correlação entre os dados e séries temporais. Também poderá serão ser utilizadas Árvore de Decisão e Métodos de Regressão para a predição de informações, ambas utilizando a linguagem de programação Python. 
 
 # Ferramentas
 
     Ferramentas a serem utilizadas (com base na visão atual do grupo sobre o projeto).
     
-    O projeto será elaborado com auxílio de gráficos, séries temporais e da linguagem de programação Python.
+   O projeto será elaborado com auxílio de gráficos, séries temporais e da linguagem de programação Python.
     
     ## Ferramentas
 
