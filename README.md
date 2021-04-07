@@ -81,8 +81,8 @@ Python 3.8.3 | https://www.python.org/ | Linguagem de programação de propósit
     
 Tarefas | maio | abril | março | junho | julho
 ----- | ----- | ----- | ----- | ----- | -----
-Bruna Mezzari Carlos             | | | | |
-Jean Antonio Ribeiro             | | | | |
-Kellen Natalice Vilharva         | | | | |
-Roberto Junio de Almeida Candian | | | | | 
-Tatiana Aparecida de Almeida     | | | | |
+Descrição inicial do projeto            | | | | |
+Levantamento dos dados                  | | | | |
+Análise dos dados                       | | | | |
+Digitalização do projeto                | | | | | 
+Entrega e apresentação final do projeto | | | | |
