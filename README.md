@@ -97,7 +97,6 @@ Matplotlib   | https://matplotlib.org            | Biblioteca do _Python_ para c
 Numpy        | https://numpy.org                 | Biblioteca do _Python_ orientada a operação de vetores e matrizes multidimensionais.
 Pandas       | https://pandas.pydata.org         | Biblioteca do _Python_ orientada a manipulação e análise de dados.
 Python 3.8.3 | https://www.python.org            | Linguagem de programação de propósito geral. Utilizada para a predição dos dados.
------ | ----- | -----
 
 
 # Cronograma
