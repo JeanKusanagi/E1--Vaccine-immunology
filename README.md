@@ -92,8 +92,8 @@ DATASUS  | http://www2.datasus.gov.br/DATASUS/index.php?area=060702
     
 Ferramenta | Endereço na Web | Resumo descritivo e uso
 ----- | ----- | -----
-Matplotlib   | https://matplotlib.org            | Biblioteca do _Python_ para criação de gráficos e visualizações de dados.
 Google Colab | https://colab.research.google.com | Lista de células que podem conter textos explicativos ou códigos executáveis e suas respectivas saídas.
+Matplotlib   | https://matplotlib.org            | Biblioteca do _Python_ para criação de gráficos e visualizações de dados.
 Numpy        | https://numpy.org                 | Biblioteca do _Python_ orientada a operação de vetores e matrizes multidimensionais.
 Pandas       | https://pandas.pydata.org         | Biblioteca do _Python_ orientada a manipulação e análise de dados.
 Python 3.8.3 | https://www.python.org            | Linguagem de programação de propósito geral. Utilizada para a predição dos dados.
