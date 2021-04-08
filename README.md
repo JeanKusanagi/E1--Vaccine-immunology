@@ -15,7 +15,7 @@ Nome | RA | Especialização
 ----- | ----- | -----
 Bruna Mezzari Carlos             | 235624 | Computação
 Jean Antonio Ribeiro             | 265739 | Computação
-Kellen Natalice Vilharva         | | Saúde
+Kellen Natalice Vilharva         | | Saúde235493
 Roberto Junio de Almeida Candian | | Saúde
 Tatiana Aparecida de Almeida     | | Computação
 
