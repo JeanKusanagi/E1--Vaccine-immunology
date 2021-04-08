@@ -12,7 +12,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
     Incluir nome RA e foco de especialização de cada membro do grupo. Os grupos devem ter no máximo 5 integrantes e devem contar com pelo menos um aluno da área da saúde e um aluno de área afim à Computação (Ex.: Computação, Elétrica...)
     
 Nome | RA | Especialização
--------- | ----- | -----
+----- | ----- | -----
 Bruna Mezzari Carlos             | 235624 | Computação
 Jean Antonio Ribeiro             | 265739 | Computação
 Kellen Natalice Vilharva         | 235493 | Saúde
