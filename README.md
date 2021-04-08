@@ -91,7 +91,7 @@ DATASUS  | http://www2.datasus.gov.br/DATASUS/index.php?area=060702
    O projeto será elaborado com auxílio de gráficos, séries temporais e da linguagem de programação Python.
     
 Ferramenta | Endereço na Web | Resumo descritivo e uso
------ | ----- | -----
+------- | ----- | -----
 Google Colab | https://colab.research.google.com | Lista de células que podem conter textos explicativos ou códigos executáveis e suas respectivas saídas.
 Matplotlib   | https://matplotlib.org            | Biblioteca do _Python_ para criação de gráficos e visualizações de dados.
 Numpy        | https://numpy.org                 | Biblioteca do _Python_ orientada a operação de vetores e matrizes multidimensionais.
