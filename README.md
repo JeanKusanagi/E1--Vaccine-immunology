@@ -5,7 +5,6 @@ Projeto: Controle e estudo de doenças causadas por malformações congênitas
 
 Project: Control and study of diseases caused by congenital malformations
 
-Testando projeto
 
 # Apresentação
 
