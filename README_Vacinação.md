@@ -1,4 +1,4 @@
-# E1-HIV
+# E1-Vacinação
 Trabalho final da disciplina Ciência e Visualização de Dados em Saúde
 
 Projeto: Imunização da população como auxílio ao combate de doenças
