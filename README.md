@@ -1,9 +1,9 @@
-# E1-Congenital-malformations
+# E1-Estudo da evolução de cobertura vacinal no Brasil
 Trabalho final da disciplina Ciência e Visualização de Dados em Saúde
 
-Projeto: Controle e estudo de doenças causadas por malformações congênitas
+Projeto: Estudo da evolução de cobertura vacinal no Brasil
 
-Project: Control and study of diseases caused by congenital malformations
+Project: Study of the evolution of the vaccine coverage in Brazil
 
 
 # Apresentação
@@ -24,10 +24,7 @@ Tatiana Aparecida de Almeida     | | Computação
 
     Descrição do tema do projeto, incluindo motivação e contexto gerador.
     
-   <strong>Tema do projeto:</strong> As malformações congênitas são defeitos estruturais, presentes ao nascimento, de causa genética e/ou ambiental. É uma
-expressão genérica, ampla, que inclui toda anomalia de ordem estrutural, funcional ou metabólica. Elas estão associadas à elevada morbi-mortalidade infantil,
-sendo uma das maiores causas da taxa de mortalidade infantil. Este trabalho tem como objetivo estimar a prevalência ao nascimento das malformações congênitas e
-avaliar sua correlação com os fatores associados numa amostra de dados que modela o nascimento de crianças.
+   <strong>Tema do projeto:</strong> O projeto visa entender como a cobertura vacinal no Brasil evoluiu ao longo das últimas décadas, e quais os efeitos dessa evolução nos níveis de controle de determinadas doenças.
    
    <strong>Motivação:</strong> As manifestações clínicas variam entre quadros leves e graves, com alto risco de vida para as crianças recém-nascidas. A
 malformação resulta de um defeito intrínseco tecidual e surge durante a formação inicial das estruturas. O desenvolvimento dos tecidos ou órgãos é
@@ -57,16 +54,12 @@ os pais, família e sociedade.
 
     Perguntas de pesquisa que o projeto pretende responder ou hipóteses a serem avaliadas, enunciadas de maneira objetiva e verificável.
     
-   Quais os fatores estão relacionados as altas taxas de mortabilidade causada pelas malformações congênitas?
+Qual a porcentagem de crianças imunizadas na idade correta, ao longo dos anos e regiões do Brasil? Comparando com uma média global, como o Brasil se posiciona?
+
+Como a pandemia pode ter afetado na porcentagem de imunização durante o ano de 2020?
+
     
-   Qual a porcentagem de mortabilidade em crianças causada pelas malformações congênitas nos primeiros anos de vida?
-    
-   Quando e quais os tipos de decisões os pais devem tomar e como os profissionais de saúde devem influenciar na tomada de decisão 
-    ao longo do tempo para bebês com condições de risco de vida?
-    
-   Existem fatores adicionais com potencial para influenciar na tomada de decisão dos pais ao longo da trajetória da 
-    doença do bebê (incluindo eventos de tratamento, percepções de desconforto infantil e esperança para o bebê, sofrimento psicológico 
-    dos pais e as características demográficas do caso)?
+  
 
 # Bases de Dados
 
