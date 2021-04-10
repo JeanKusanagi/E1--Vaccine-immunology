@@ -1,9 +1,9 @@
 # E1-HIV
 Trabalho final da disciplina Ciência e Visualização de Dados em Saúde
 
-Projeto: Controle de doenças causadas pelo vírus HIV
+Projeto: Imunização da população como auxílio ao combate de doenças
 
-Project: Control of diseases caused by the HIV virus
+Project: Immunization of the population as an aid to fight diseases
 
 
 # Apresentação
@@ -30,7 +30,7 @@ Tatiana Aparecida de Almeida     | | Computação
    <strong>Motivação:</strong> .
 
    
-   <strong>Contexto gerador:</strong> Controle de doenças causadas pelo vírus HIV.
+   <strong>Contexto gerador:</strong> Estudo sobre a aplicação de vacinas para garantir imunização das pessoas.
     
 # Vídeo do Projeto
 
