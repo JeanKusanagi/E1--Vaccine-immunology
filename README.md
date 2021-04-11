@@ -52,14 +52,11 @@ Como a pandemia do COVID-19 e movimentos antivacina podem ter afetado a taxa de 
 
     Elencar bases de dados candidatas a serem utilizadas no projeto.
     
-Database | Link
------    | -----
-Bigdata  | https://bigdata.icict.fiocruz.br
-
-DATASUS  | http://tabnet.datasus.gov.br/cgi/dhdat.exe?bd_pni/cpnibr.def      
-                   
-
-THE GLOBAL HEALTH OBSERVATORY   |https://www.who.int/data/gho/data/themes/immunization
+|Database | Link|
+|-----    | -----|
+|Bigdata  | https://bigdata.icict.fiocruz.br |
+|DATASUS  | http://tabnet.datasus.gov.br/cgi/dhdat.exe?bd_pni/cpnibr.def |    
+|THE GLOBAL HEALTH OBSERVATORY | https://www.who.int/data/gho/data/themes/immunization |
         
 
 # Metodologia
