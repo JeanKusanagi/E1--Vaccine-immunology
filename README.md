@@ -14,7 +14,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
     
 Nome | RA | Especialização
 ----- | ----- | -----
-Bruna Mezzari Carlos             | 235624 | Computação
+Bruna Mezzari Carlos             | 235624 | Física Médica
 Jean Antonio Ribeiro             | 265739 | Computação
 Kellen Natalice Vilharva         | 235493 | Saúde
 Roberto Junio de Almeida Candian | 214572 | Saúde
@@ -42,11 +42,11 @@ Por meio da vacinação, a varíola, a poliomielite, o sarampo e a rubéola fora
 
     Perguntas de pesquisa que o projeto pretende responder ou hipóteses a serem avaliadas, enunciadas de maneira objetiva e verificável.
     
-Qual a porcentagem de crianças imunizadas, ao longo dos anos e regiões do Brasil? 
+Qual a cobertura vacinal das vacinas obrigatórias, ao longo dos anos e regiões do Brasil? 
 
-Qual a correlação entre incidência das doenças e a vacinação?
+Qual a correlação entre incidência das doenças e a taxa de vacinação?
 
-Como a pandemia do COVID-19 e movimentos antivacina podem ter afetado a taxa de imunização?
+Como a pandemia do COVID-19 e movimentos antivacina podem ter afetado as taxas de imunização?
 
 # Bases de Dados
 
