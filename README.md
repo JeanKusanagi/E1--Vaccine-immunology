@@ -1,9 +1,9 @@
 # E1-Vaccine-immunology
 Trabalho final da disciplina Ciência e Visualização de Dados em Saúde.
 
-Projeto - Estudo da evolução da cobertura vacinal para imunização e erradicação de doenças infecciosas.
+<strong>Projeto</strong> - Estudo da evolução da cobertura vacinal para imunização e erradicação de doenças infecciosas.
 
-Project - Study of the evolution of the vaccine coverage for immunization and eradication infectious diseases.
+<strong>Project</strong> - Study of the evolution of the vaccine coverage for immunization and eradication infectious diseases.
 
 
 # Apresentação
@@ -30,7 +30,9 @@ Tatiana Aparecida de Almeida     | 219136 | Computação
 
 Por meio da vacinação, a varíola, a poliomielite, o sarampo e a rubéola foram erradicadas nas últimas décadas no Brasil. Contudo, o sucesso das campanhas de vacinação pode ser uma das causas do surgimento de movimentos antivacina que podem levar a uma queda da cobertura vacinal. Adultos e possíveis idosos da geração atual, que foram devidamente vacinados durante a infância, muitas vezes não tiveram contato com a realidade dessas doenças e acabam por não perceberem a importância da imunização. Apesar da baixa incidência, doenças como o sarampo ainda apresentam riscos para a sociedade, como ficou evidente após surtos durante os anos de 2018 e 2019 no Brasil e em outros países. Além desses fatores, a pandemia do COVID-19 pode estar contribuindo para essa queda na cobertura de imunização, tendo em vista o risco de contrair o coronavírus SARS-CoV-2, pelas pessoas ficarem reclusas em casa, além de postos de vacinação com horários reduzidos ou até mesmo fechados durante o ano de 2020. Sendo assim, o país pode voltar a ser acometido por doenças imunopreveníveis que estavam controladas diante do comprometimento da cobertura vacinal. Portanto, a vacinação é um tema estratégico de extrema importância ao se tratar de saúde pública e bem estar da população, sendo uma das formas de prevenção mais seguras e eficazes para redução da incidência de doenças contagiosas além de reduzir a utilização do sistema de saúde.
    
-   <strong>Contexto gerador:</strong> Percepção da diminuição da cobertura vacinal ao longo dos últimos anos, cuja causa pode estar associada aos movimentos antivacina e à pandemia gerada pelo SARS-CoV-2. 
+   <strong>Contexto gerador:</strong> Percepção da diminuição da cobertura vacinal ao longo dos últimos anos, cuja causa pode estar associada aos movimentos antivacina e à pandemia gerada pelo SARS-CoV-2.
+   
+   <strong>Key words:</strong> 1. história da vacina 2. revolta da vacina  3. doenças emergentes
     
 # Vídeo do Projeto
 
