@@ -18,7 +18,7 @@ Bruna Mezzari Carlos             | 235624 | Física Médica
 Jean Antonio Ribeiro             | 265739 | Computação
 Kellen Natalice Vilharva         | 235493 | Saúde
 Roberto Junio de Almeida Candian | 214572 | Saúde
-Tatiana Aparecida de Almeida     | 219136 | Computação
+Tatiana Aparecida de Almeida     | 229136 | Computação
 
 # Descrição Resumida do Projeto
 
