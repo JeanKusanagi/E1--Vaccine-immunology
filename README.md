@@ -36,7 +36,7 @@ Por meio da vacinação, a varíola, a poliomielite, o sarampo e a rubéola fora
     
 # Vídeo do Projeto
 
-    Link para vídeo de apresentação da proposta do projeto (máximo 3 minutos).
+    https://youtu.be/riO6BU0K5MU
 
 
 
