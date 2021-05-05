@@ -50,7 +50,7 @@ Qual a cobertura vacinal das vacinas obrigatórias, ao longo dos anos e regiões
 
 Qual a correlação entre incidência das doenças e a taxa de vacinação?
 
-Como a pandemia do COVID-19 e movimentos antivacina podem ter afetado as taxas de imunização?
+!--Como a pandemia do COVID-19 e movimentos antivacina podem ter afetado as taxas de imunização?
 
 # Bases de Dados
 
