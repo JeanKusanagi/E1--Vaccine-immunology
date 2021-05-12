@@ -47,8 +47,7 @@ Por meio da vacinação, doenças como a varíola, a poliomielite, o sarampo e a
     Perguntas de pesquisa que o projeto pretende responder ou hipóteses a serem avaliadas, enunciadas de maneira objetiva e verificável.
     
 Qual a cobertura vacinal das vacinas obrigatórias, ao longo dos anos e regiões do Brasil? 
-
-Qual a correlação entre incidência das doenças e a taxa de vacinação?
+Quais fatores regionais ou sociais podem estar associados ao aumento ou diminuição da cobertura vacinal?
 
 <!--Como a pandemia do COVID-19 e movimentos antivacina podem ter afetado as taxas de imunização? -->
 
