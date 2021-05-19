@@ -1,0 +1,18 @@
+Nome do arquivo: 
+
+linha_coluna_filtro1_filtro2.csv
+
+Quando o arquivo não possuir filtros, está considerando os dados totais.
+
+Filtros possíveis:
+extrpobreza: leva em conta somente cidades de extrema pobreza (=s) ou retira os dados de cidades de extrema pobreza (=n)
+
+capitais: leva em conta somente os dados das capitais (=s) ou retira os dados das capitais (=n)
+
+amazlegal: leva em conta somente os dados de cidades da amazonia legal (=s) ou retira os dados (=n)
+
+amazlegal: leva em conta somente os dados de ciadades do semiarido (=s) ou retira os dados (=n)
+
+zdefronteira: leva em conta somente os dados de zonas de frontira (=s) ou retira os dados(=n)
+
+br,sul,sudeste... = dados de todo o país ou de cada região
