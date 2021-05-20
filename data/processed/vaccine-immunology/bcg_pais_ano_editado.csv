@@ -1,0 +1,5861 @@
+ParentLocation,Location,Period,Value
+Europe,Sweden,2019,25
+Eastern Mediterranean,Somalia,2019,37
+Western Pacific,Papua New Guinea,2019,52
+Eastern Mediterranean,Saudi Arabia,2019,52
+Africa,South Sudan,2019,52
+Africa,Nigeria,2019,67
+Africa,Angola,2019,69
+Africa,Ethiopia,2019,69
+Eastern Mediterranean,Yemen,2019,69
+Africa,Madagascar,2019,70
+Africa,Niger,2019,70
+Africa,Democratic Republic of the Congo,2019,73
+Africa,Guinea,2019,73
+Americas,Haiti,2019,73
+Africa,Central African Republic,2019,74
+Eastern Mediterranean,Libya,2019,74
+Africa,Chad,2019,75
+Western Pacific,Philippines,2019,75
+Americas,Mexico,2019,76
+Western Pacific,Micronesia (Federated States of),2019,77
+Western Pacific,Solomon Islands,2019,77
+Eastern Mediterranean,Afghanistan,2019,78
+Americas,El Salvador,2019,78
+Americas,Brazil,2019,79
+Western Pacific,Lao People's Democratic Republic,2019,79
+Americas,Bolivia (Plurinational State of),2019,80
+Africa,Cameroon,2019,80
+Africa,Congo,2019,80
+Americas,Peru,2019,81
+Africa,Mali,2019,83
+Africa,Liberia,2019,84
+Africa,South Africa,2019,84
+Eastern Mediterranean,Syrian Arab Republic,2019,84
+Europe,Ukraine,2019,84
+Africa,Equatorial Guinea,2019,85
+Americas,Ecuador,2019,86
+Americas,Guatemala,2019,86
+Africa,Guinea-Bissau,2019,86
+Eastern Mediterranean,Jordan,2019,86
+Africa,Sierra Leone,2019,86
+Europe,Kazakhstan,2019,87
+Americas,Paraguay,2019,87
+Americas,Costa Rica,2019,88
+Africa,Gambia,2019,88
+Americas,Honduras,2019,88
+Eastern Mediterranean,Pakistan,2019,88
+Africa,Uganda,2019,88
+Africa,Benin,2019,89
+Americas,Colombia,2019,89
+Western Pacific,Kiribati,2019,89
+Western Pacific,Marshall Islands,2019,89
+South-East Asia,Indonesia,2019,90
+Africa,Mauritania,2019,90
+Western Pacific,Samoa,2019,90
+Africa,Malawi,2019,91
+South-East Asia,Myanmar,2019,91
+Africa,United Republic of Tanzania,2019,91
+Americas,Venezuela (Bolivarian Republic of),2019,91
+South-East Asia,Bhutan,2019,92
+Europe,Estonia,2019,92
+Africa,Gabon,2019,92
+South-East Asia,India,2019,92
+Europe,Poland,2019,92
+Eastern Mediterranean,Sudan,2019,92
+Eastern Mediterranean,Tunisia,2019,92
+Americas,Argentina,2019,93
+Africa,Burundi,2019,93
+Africa,Côte d’Ivoire,2019,93
+Europe,Montenegro,2019,93
+Europe,The former Yugoslav Republic of Macedonia,2019,93
+Africa,Comoros,2019,94
+Africa,Mozambique,2019,94
+Africa,Namibia,2019,94
+Europe,Republic of Moldova,2019,94
+Eastern Mediterranean,United Arab Emirates,2019,94
+Americas,Belize,2019,95
+Europe,Bosnia and Herzegovina,2019,95
+Eastern Mediterranean,Djibouti,2019,95
+Africa,Kenya,2019,95
+Americas,Saint Lucia,2019,95
+Africa,Sao Tome and Principe,2019,95
+South-East Asia,Timor-Leste,2019,95
+Africa,Zambia,2019,95
+Africa,Zimbabwe,2019,95
+Europe,Azerbaijan,2019,96
+Europe,Bulgaria,2019,96
+South-East Asia,Democratic People's Republic of Korea,2019,96
+Eastern Mediterranean,Egypt,2019,96
+Europe,Georgia,2019,96
+Africa,Ghana,2019,96
+Eastern Mediterranean,Kuwait,2019,96
+Europe,Kyrgyzstan,2019,96
+Europe,Latvia,2019,96
+Africa,Lesotho,2019,96
+South-East Asia,Nepal,2019,96
+Europe,Romania,2019,96
+Europe,Russian Federation,2019,96
+Europe,Turkey,2019,96
+Western Pacific,Viet Nam,2019,96
+Europe,Belarus,2019,97
+Africa,Eritrea,2019,97
+Americas,Jamaica,2019,97
+Europe,Lithuania,2019,97
+Western Pacific,Vanuatu,2019,97
+Africa,Botswana,2019,98
+Africa,Burkina Faso,2019,98
+Africa,Cabo Verde,2019,98
+Western Pacific,Cambodia,2019,98
+Americas,Chile,2019,98
+Europe,Croatia,2019,98
+Americas,Dominica,2019,98
+Africa,Eswatini,2019,98
+Eastern Mediterranean,Iraq,2019,98
+Americas,Nicaragua,2019,98
+Western Pacific,Republic of Korea,2019,98
+Africa,Rwanda,2019,98
+Europe,Serbia,2019,98
+Africa,Seychelles,2019,98
+Western Pacific,Singapore,2019,98
+Europe,Tajikistan,2019,98
+Africa,Togo,2019,98
+Europe,Turkmenistan,2019,98
+Europe,Albania,2019,99
+Africa,Algeria,2019,99
+Europe,Armenia,2019,99
+South-East Asia,Bangladesh,2019,99
+Western Pacific,Brunei Darussalam,2019,99
+Western Pacific,China,2019,99
+Western Pacific,Cook Islands,2019,99
+Americas,Cuba,2019,99
+Americas,Dominican Republic,2019,99
+Western Pacific,Fiji,2019,99
+Americas,Guyana,2019,99
+Europe,Hungary,2019,99
+Eastern Mediterranean,Iran (Islamic Republic of),2019,99
+Western Pacific,Japan,2019,99
+Western Pacific,Malaysia,2019,99
+South-East Asia,Maldives,2019,99
+Africa,Mauritius,2019,99
+Western Pacific,Mongolia,2019,99
+Eastern Mediterranean,Morocco,2019,99
+Western Pacific,Nauru,2019,99
+Western Pacific,Niue,2019,99
+Eastern Mediterranean,Oman,2019,99
+Americas,Panama,2019,99
+Eastern Mediterranean,Qatar,2019,99
+Americas,Saint Kitts and Nevis,2019,99
+Americas,Saint Vincent and the Grenadines,2019,99
+Africa,Senegal,2019,99
+South-East Asia,Sri Lanka,2019,99
+South-East Asia,Thailand,2019,99
+Western Pacific,Tonga,2019,99
+Western Pacific,Tuvalu,2019,99
+Americas,Uruguay,2019,99
+Europe,Uzbekistan,2019,99
+Europe,Sweden,2018,26
+Eastern Mediterranean,Somalia,2018,37
+Africa,Chad,2018,50
+Western Pacific,Papua New Guinea,2018,52
+Africa,South Sudan,2018,52
+Western Pacific,Samoa,2018,62
+Eastern Mediterranean,Yemen,2018,64
+Africa,Nigeria,2018,67
+Africa,Madagascar,2018,70
+Africa,South Africa,2018,70
+Africa,Ethiopia,2018,71
+Africa,Angola,2018,72
+Africa,Democratic Republic of the Congo,2018,73
+Africa,Guinea,2018,73
+Africa,Central African Republic,2018,74
+Eastern Mediterranean,Libya,2018,74
+Western Pacific,Philippines,2018,75
+Eastern Mediterranean,Afghanistan,2018,78
+Western Pacific,Lao People's Democratic Republic,2018,79
+Eastern Mediterranean,Syrian Arab Republic,2018,79
+Western Pacific,Micronesia (Federated States of),2018,80
+Africa,Congo,2018,81
+Americas,El Salvador,2018,81
+Americas,Peru,2018,81
+Americas,Haiti,2018,83
+Africa,Mali,2018,83
+Africa,Senegal,2018,83
+Western Pacific,Solomon Islands,2018,83
+Africa,Cameroon,2018,84
+Africa,Equatorial Guinea,2018,85
+Africa,Gabon,2018,87
+Africa,Niger,2018,87
+Eastern Mediterranean,Pakistan,2018,87
+Americas,Guatemala,2018,88
+Africa,Sierra Leone,2018,88
+Eastern Mediterranean,Sudan,2018,88
+Africa,Uganda,2018,88
+Africa,Benin,2018,89
+Americas,Colombia,2018,89
+Western Pacific,Kiribati,2018,89
+Americas,Bolivia (Plurinational State of),2018,90
+Americas,Ecuador,2018,90
+Africa,Mauritania,2018,90
+South-East Asia,Myanmar,2018,90
+Europe,Ukraine,2018,90
+Africa,Burundi,2018,91
+Africa,Guinea-Bissau,2018,91
+Americas,Paraguay,2018,91
+Africa,United Republic of Tanzania,2018,91
+Africa,Zambia,2018,91
+Americas,Brazil,2018,92
+Americas,Costa Rica,2018,92
+Europe,Estonia,2018,92
+South-East Asia,India,2018,92
+South-East Asia,Indonesia,2018,92
+Africa,Liberia,2018,92
+Africa,Malawi,2018,92
+Europe,Poland,2018,92
+Americas,Venezuela (Bolivarian Republic of),2018,92
+Americas,Argentina,2018,93
+Western Pacific,Cambodia,2018,93
+Eastern Mediterranean,Djibouti,2018,93
+Americas,Jamaica,2018,93
+Europe,Montenegro,2018,93
+Europe,The former Yugoslav Republic of Macedonia,2018,93
+Eastern Mediterranean,Tunisia,2018,93
+Africa,Comoros,2018,94
+Africa,Gambia,2018,94
+Americas,Honduras,2018,94
+Eastern Mediterranean,Jordan,2018,94
+Africa,Mozambique,2018,94
+Africa,Namibia,2018,94
+Western Pacific,Vanuatu,2018,94
+Europe,Bosnia and Herzegovina,2018,95
+Africa,Côte d’Ivoire,2018,95
+Americas,Dominica,2018,95
+Eastern Mediterranean,Egypt,2018,95
+Eastern Mediterranean,Iraq,2018,95
+Europe,Kazakhstan,2018,95
+Africa,Kenya,2018,95
+Europe,Latvia,2018,95
+Europe,Russian Federation,2018,95
+South-East Asia,Timor-Leste,2018,95
+Eastern Mediterranean,United Arab Emirates,2018,95
+Western Pacific,Viet Nam,2018,95
+Africa,Zimbabwe,2018,95
+Europe,Bulgaria,2018,96
+Africa,Cabo Verde,2018,96
+Americas,Chile,2018,96
+South-East Asia,Democratic People's Republic of Korea,2018,96
+Eastern Mediterranean,Kuwait,2018,96
+Africa,Lesotho,2018,96
+Europe,Lithuania,2018,96
+Americas,Mexico,2018,96
+South-East Asia,Nepal,2018,96
+Europe,Republic of Moldova,2018,96
+Europe,Romania,2018,96
+Africa,Sao Tome and Principe,2018,96
+Europe,Turkey,2018,96
+Europe,Uzbekistan,2018,96
+Europe,Azerbaijan,2018,97
+Africa,Eritrea,2018,97
+Europe,Georgia,2018,97
+Europe,Kyrgyzstan,2018,97
+Africa,Rwanda,2018,97
+Americas,Saint Kitts and Nevis,2018,97
+Africa,Seychelles,2018,97
+Africa,Togo,2018,97
+Europe,Belarus,2018,98
+Africa,Botswana,2018,98
+Africa,Burkina Faso,2018,98
+Europe,Croatia,2018,98
+Africa,Eswatini,2018,98
+Africa,Ghana,2018,98
+Western Pacific,Marshall Islands,2018,98
+Americas,Nicaragua,2018,98
+Western Pacific,Republic of Korea,2018,98
+Eastern Mediterranean,Saudi Arabia,2018,98
+Europe,Serbia,2018,98
+Western Pacific,Singapore,2018,98
+Europe,Turkmenistan,2018,98
+Americas,Uruguay,2018,98
+Europe,Albania,2018,99
+Africa,Algeria,2018,99
+Europe,Armenia,2018,99
+South-East Asia,Bangladesh,2018,99
+Americas,Belize,2018,99
+South-East Asia,Bhutan,2018,99
+Western Pacific,Brunei Darussalam,2018,99
+Western Pacific,China,2018,99
+Western Pacific,Cook Islands,2018,99
+Americas,Cuba,2018,99
+Americas,Dominican Republic,2018,99
+Western Pacific,Fiji,2018,99
+Americas,Guyana,2018,99
+Europe,Hungary,2018,99
+Eastern Mediterranean,Iran (Islamic Republic of),2018,99
+Western Pacific,Japan,2018,99
+Western Pacific,Malaysia,2018,99
+South-East Asia,Maldives,2018,99
+Africa,Mauritius,2018,99
+Western Pacific,Mongolia,2018,99
+Eastern Mediterranean,Morocco,2018,99
+Western Pacific,Nauru,2018,99
+Western Pacific,Niue,2018,99
+Eastern Mediterranean,Oman,2018,99
+Americas,Panama,2018,99
+Eastern Mediterranean,Qatar,2018,99
+Americas,Saint Lucia,2018,99
+Americas,Saint Vincent and the Grenadines,2018,99
+South-East Asia,Sri Lanka,2018,99
+Europe,Tajikistan,2018,99
+South-East Asia,Thailand,2018,99
+Western Pacific,Tonga,2018,99
+Western Pacific,Tuvalu,2018,99
+Europe,Sweden,2017,25
+Eastern Mediterranean,Somalia,2017,37
+Africa,South Sudan,2017,52
+Africa,Chad,2017,59
+Western Pacific,Papua New Guinea,2017,62
+Eastern Mediterranean,Yemen,2017,66
+Africa,Nigeria,2017,67
+Africa,Angola,2017,69
+Africa,Madagascar,2017,70
+Africa,Democratic Republic of the Congo,2017,73
+Africa,Ethiopia,2017,73
+Africa,Guinea,2017,73
+Africa,Central African Republic,2017,74
+Africa,South Africa,2017,75
+Africa,Congo,2017,76
+Eastern Mediterranean,Afghanistan,2017,78
+Western Pacific,Solomon Islands,2017,78
+Eastern Mediterranean,Syrian Arab Republic,2017,78
+Americas,Guatemala,2017,81
+Western Pacific,Lao People's Democratic Republic,2017,81
+Western Pacific,Philippines,2017,82
+Americas,El Salvador,2017,83
+Americas,Haiti,2017,83
+Africa,Mali,2017,83
+Western Pacific,Micronesia (Federated States of),2017,83
+Europe,Montenegro,2017,83
+Western Pacific,Samoa,2017,83
+Americas,Peru,2017,84
+Europe,Ukraine,2017,84
+Africa,Equatorial Guinea,2017,85
+Eastern Mediterranean,Egypt,2017,86
+Eastern Mediterranean,Pakistan,2017,86
+Africa,Cameroon,2017,87
+Africa,Liberia,2017,87
+Americas,Ecuador,2017,88
+Americas,Saint Lucia,2017,88
+Africa,Benin,2017,89
+Africa,Kenya,2017,89
+Western Pacific,Kiribati,2017,89
+Africa,Malawi,2017,89
+Africa,Togo,2017,89
+Africa,Uganda,2017,89
+Americas,Belize,2017,90
+Americas,Costa Rica,2017,90
+Africa,Mauritania,2017,90
+Africa,Sierra Leone,2017,90
+Americas,Brazil,2017,91
+Americas,Colombia,2017,91
+Africa,Guinea-Bissau,2017,91
+South-East Asia,Myanmar,2017,91
+Africa,Burundi,2017,92
+Eastern Mediterranean,Djibouti,2017,92
+South-East Asia,India,2017,92
+Western Pacific,Marshall Islands,2017,92
+Africa,Niger,2017,92
+Europe,Poland,2017,92
+Americas,Bolivia (Plurinational State of),2017,93
+Africa,Côte d’Ivoire,2017,93
+Africa,Gabon,2017,93
+Americas,Honduras,2017,93
+South-East Asia,Indonesia,2017,93
+Americas,Jamaica,2017,93
+Western Pacific,Japan,2017,93
+Eastern Mediterranean,Tunisia,2017,93
+Europe,Turkey,2017,93
+Africa,United Republic of Tanzania,2017,93
+Africa,Comoros,2017,94
+Europe,Estonia,2017,94
+Africa,Gambia,2017,94
+Americas,Mexico,2017,94
+Africa,Mozambique,2017,94
+Africa,Namibia,2017,94
+Africa,Sao Tome and Principe,2017,94
+Americas,Venezuela (Bolivarian Republic of),2017,94
+Americas,Argentina,2017,95
+Europe,Kazakhstan,2017,95
+South-East Asia,Nepal,2017,95
+Europe,Russian Federation,2017,95
+South-East Asia,Timor-Leste,2017,95
+Eastern Mediterranean,United Arab Emirates,2017,95
+Western Pacific,Vanuatu,2017,95
+Africa,Zimbabwe,2017,95
+Europe,Bulgaria,2017,96
+Americas,Chile,2017,96
+Europe,Georgia,2017,96
+Eastern Mediterranean,Iraq,2017,96
+Europe,Latvia,2017,96
+Africa,Lesotho,2017,96
+Americas,Paraguay,2017,96
+Europe,Republic of Moldova,2017,96
+Europe,Azerbaijan,2017,97
+Europe,Bosnia and Herzegovina,2017,97
+Americas,Dominica,2017,97
+Africa,Eritrea,2017,97
+Americas,Guyana,2017,97
+Europe,Kyrgyzstan,2017,97
+Europe,Lithuania,2017,97
+Europe,The former Yugoslav Republic of Macedonia,2017,97
+Europe,Romania,2017,97
+Americas,Saint Kitts and Nevis,2017,97
+Eastern Mediterranean,Saudi Arabia,2017,97
+Europe,Serbia,2017,97
+Eastern Mediterranean,Sudan,2017,97
+Western Pacific,Viet Nam,2017,97
+Europe,Belarus,2017,98
+Africa,Botswana,2017,98
+Africa,Burkina Faso,2017,98
+Africa,Cabo Verde,2017,98
+Europe,Croatia,2017,98
+South-East Asia,Democratic People's Republic of Korea,2017,98
+Africa,Eswatini,2017,98
+Western Pacific,Malaysia,2017,98
+Americas,Nicaragua,2017,98
+Western Pacific,Republic of Korea,2017,98
+Africa,Rwanda,2017,98
+Europe,Tajikistan,2017,98
+Europe,Turkmenistan,2017,98
+Americas,Uruguay,2017,98
+Europe,Albania,2017,99
+Africa,Algeria,2017,99
+Europe,Armenia,2017,99
+South-East Asia,Bangladesh,2017,99
+South-East Asia,Bhutan,2017,99
+Western Pacific,Brunei Darussalam,2017,99
+Western Pacific,Cambodia,2017,99
+Western Pacific,China,2017,99
+Western Pacific,Cook Islands,2017,99
+Americas,Cuba,2017,99
+Americas,Dominican Republic,2017,99
+Western Pacific,Fiji,2017,99
+Africa,Ghana,2017,99
+Europe,Hungary,2017,99
+Eastern Mediterranean,Iran (Islamic Republic of),2017,99
+Eastern Mediterranean,Jordan,2017,99
+Eastern Mediterranean,Kuwait,2017,99
+Eastern Mediterranean,Libya,2017,99
+South-East Asia,Maldives,2017,99
+Africa,Mauritius,2017,99
+Western Pacific,Mongolia,2017,99
+Eastern Mediterranean,Morocco,2017,99
+Western Pacific,Nauru,2017,99
+Western Pacific,Niue,2017,99
+Eastern Mediterranean,Oman,2017,99
+Americas,Panama,2017,99
+Eastern Mediterranean,Qatar,2017,99
+Americas,Saint Vincent and the Grenadines,2017,99
+Africa,Senegal,2017,99
+Africa,Seychelles,2017,99
+Western Pacific,Singapore,2017,99
+South-East Asia,Sri Lanka,2017,99
+South-East Asia,Thailand,2017,99
+Western Pacific,Tonga,2017,99
+Western Pacific,Tuvalu,2017,99
+Europe,Uzbekistan,2017,99
+Africa,Zambia,2017,99
+Europe,Ireland,2016,18
+Europe,Sweden,2016,26
+Eastern Mediterranean,Somalia,2016,37
+Africa,Angola,2016,40
+Africa,South Sudan,2016,52
+Africa,Chad,2016,59
+Africa,Nigeria,2016,64
+Africa,Madagascar,2016,70
+Africa,Ethiopia,2016,72
+Western Pacific,Papua New Guinea,2016,72
+Eastern Mediterranean,Syrian Arab Republic,2016,72
+Africa,Democratic Republic of the Congo,2016,73
+Africa,Guinea,2016,73
+Eastern Mediterranean,Yemen,2016,73
+Africa,Central African Republic,2016,74
+Europe,Ukraine,2016,75
+Western Pacific,Samoa,2016,76
+Eastern Mediterranean,Afghanistan,2016,78
+Western Pacific,Lao People's Democratic Republic,2016,78
+Western Pacific,Kiribati,2016,79
+Africa,Congo,2016,80
+Western Pacific,Solomon Islands,2016,80
+Africa,Mali,2016,82
+Americas,Haiti,2016,83
+Africa,Cameroon,2016,84
+Americas,Ecuador,2016,84
+Europe,Romania,2016,84
+Africa,Equatorial Guinea,2016,85
+Western Pacific,Micronesia (Federated States of),2016,85
+Europe,Montenegro,2016,85
+Africa,Malawi,2016,86
+Africa,Mauritania,2016,86
+Eastern Mediterranean,Pakistan,2016,86
+South-East Asia,Timor-Leste,2016,86
+Americas,El Salvador,2016,87
+Americas,Guatemala,2016,87
+Africa,Benin,2016,88
+Americas,Colombia,2016,88
+South-East Asia,Myanmar,2016,88
+Americas,Costa Rica,2016,89
+South-East Asia,India,2016,89
+Africa,Namibia,2016,89
+Americas,Brazil,2016,90
+Eastern Mediterranean,Djibouti,2016,90
+South-East Asia,Indonesia,2016,90
+Eastern Mediterranean,Iraq,2016,90
+Americas,Peru,2016,90
+Western Pacific,Philippines,2016,90
+Africa,South Africa,2016,90
+Africa,Guinea-Bissau,2016,91
+Africa,Niger,2016,91
+Western Pacific,Tonga,2016,91
+Americas,Argentina,2016,92
+Western Pacific,Niue,2016,92
+Africa,Sao Tome and Principe,2016,92
+Africa,Sierra Leone,2016,92
+Africa,Burundi,2016,93
+South-East Asia,Nepal,2016,93
+Europe,Poland,2016,93
+Africa,Togo,2016,93
+Americas,Belize,2016,94
+Africa,Comoros,2016,94
+Africa,Gabon,2016,94
+Africa,Ghana,2016,94
+Americas,Honduras,2016,94
+Western Pacific,Marshall Islands,2016,94
+Africa,Mozambique,2016,94
+Americas,Paraguay,2016,94
+Africa,Uganda,2016,94
+Western Pacific,Vanuatu,2016,94
+Africa,Côte d’Ivoire,2016,95
+Europe,Estonia,2016,95
+Americas,Guyana,2016,95
+Europe,Kazakhstan,2016,95
+Africa,United Republic of Tanzania,2016,95
+Western Pacific,Viet Nam,2016,95
+Africa,Zimbabwe,2016,95
+Americas,Bolivia (Plurinational State of),2016,96
+Europe,Bulgaria,2016,96
+Africa,Cabo Verde,2016,96
+Eastern Mediterranean,Egypt,2016,96
+Americas,Jamaica,2016,96
+Eastern Mediterranean,Kuwait,2016,96
+Europe,Latvia,2016,96
+Africa,Lesotho,2016,96
+Europe,Russian Federation,2016,96
+Americas,Saint Kitts and Nevis,2016,96
+Americas,Saint Lucia,2016,96
+Eastern Mediterranean,Sudan,2016,96
+Europe,Turkey,2016,96
+Europe,Bosnia and Herzegovina,2016,97
+Americas,Chile,2016,97
+South-East Asia,Democratic People's Republic of Korea,2016,97
+Africa,Eritrea,2016,97
+Africa,Eswatini,2016,97
+Europe,Kyrgyzstan,2016,97
+Africa,Liberia,2016,97
+Eastern Mediterranean,Qatar,2016,97
+Europe,Republic of Moldova,2016,97
+Africa,Senegal,2016,97
+Americas,Venezuela (Bolivarian Republic of),2016,97
+Europe,Azerbaijan,2016,98
+Europe,Belarus,2016,98
+Africa,Botswana,2016,98
+Africa,Burkina Faso,2016,98
+Americas,Dominica,2016,98
+Africa,Gambia,2016,98
+Europe,Georgia,2016,98
+Western Pacific,Japan,2016,98
+Europe,Lithuania,2016,98
+Africa,Mauritius,2016,98
+Americas,Nicaragua,2016,98
+Western Pacific,Republic of Korea,2016,98
+Eastern Mediterranean,Saudi Arabia,2016,98
+Europe,Serbia,2016,98
+Europe,Tajikistan,2016,98
+Europe,Turkmenistan,2016,98
+Western Pacific,Tuvalu,2016,98
+Americas,Uruguay,2016,98
+Europe,Albania,2016,99
+Africa,Algeria,2016,99
+Europe,Armenia,2016,99
+South-East Asia,Bangladesh,2016,99
+South-East Asia,Bhutan,2016,99
+Western Pacific,Brunei Darussalam,2016,99
+Western Pacific,Cambodia,2016,99
+Western Pacific,China,2016,99
+Western Pacific,Cook Islands,2016,99
+Europe,Croatia,2016,99
+Americas,Cuba,2016,99
+Americas,Dominican Republic,2016,99
+Western Pacific,Fiji,2016,99
+Europe,Hungary,2016,99
+Eastern Mediterranean,Iran (Islamic Republic of),2016,99
+Eastern Mediterranean,Jordan,2016,99
+Africa,Kenya,2016,99
+Eastern Mediterranean,Libya,2016,99
+Western Pacific,Malaysia,2016,99
+South-East Asia,Maldives,2016,99
+Americas,Mexico,2016,99
+Western Pacific,Mongolia,2016,99
+Eastern Mediterranean,Morocco,2016,99
+Western Pacific,Nauru,2016,99
+Eastern Mediterranean,Oman,2016,99
+Americas,Panama,2016,99
+Europe,The former Yugoslav Republic of Macedonia,2016,99
+Africa,Rwanda,2016,99
+Americas,Saint Vincent and the Grenadines,2016,99
+Africa,Seychelles,2016,99
+Western Pacific,Singapore,2016,99
+South-East Asia,Sri Lanka,2016,99
+South-East Asia,Thailand,2016,99
+Eastern Mediterranean,Tunisia,2016,99
+Eastern Mediterranean,United Arab Emirates,2016,99
+Europe,Uzbekistan,2016,99
+Africa,Zambia,2016,99
+Europe,Sweden,2015,24
+Europe,Portugal,2015,32
+Eastern Mediterranean,Somalia,2015,37
+Europe,Ukraine,2015,39
+Eastern Mediterranean,Yemen,2015,47
+Africa,Nigeria,2015,53
+Africa,South Sudan,2015,55
+Africa,Angola,2015,64
+Eastern Mediterranean,Syrian Arab Republic,2015,66
+Western Pacific,Papua New Guinea,2015,67
+Africa,Chad,2015,70
+Africa,Ethiopia,2015,70
+Africa,Madagascar,2015,70
+Africa,Democratic Republic of the Congo,2015,72
+Africa,Guinea,2015,72
+Africa,Central African Republic,2015,74
+Eastern Mediterranean,Afghanistan,2015,76
+Western Pacific,Micronesia (Federated States of),2015,76
+Africa,Equatorial Guinea,2015,77
+Europe,Ireland,2015,77
+Africa,Mali,2015,78
+Western Pacific,Kiribati,2015,79
+Western Pacific,Solomon Islands,2015,79
+South-East Asia,Timor-Leste,2015,79
+Africa,Côte d’Ivoire,2015,80
+Western Pacific,Philippines,2015,80
+Africa,Cameroon,2015,83
+Americas,Costa Rica,2015,83
+Americas,Haiti,2015,83
+Western Pacific,Lao People's Democratic Republic,2015,83
+Western Pacific,Samoa,2015,83
+Africa,South Africa,2015,83
+Western Pacific,Japan,2015,84
+Africa,Congo,2015,85
+Africa,Mauritania,2015,85
+Africa,Benin,2015,86
+Eastern Mediterranean,Pakistan,2015,86
+South-East Asia,India,2015,87
+Africa,Kenya,2015,87
+Africa,Liberia,2015,87
+Americas,Ecuador,2015,88
+Europe,Montenegro,2015,88
+Eastern Mediterranean,Sudan,2015,88
+Americas,Guatemala,2015,89
+Americas,Colombia,2015,90
+South-East Asia,Indonesia,2015,90
+Africa,Malawi,2015,90
+Africa,Sierra Leone,2015,90
+Africa,Zimbabwe,2015,90
+Americas,Peru,2015,91
+Western Pacific,Tonga,2015,91
+Eastern Mediterranean,Djibouti,2015,92
+Africa,Guinea-Bissau,2015,92
+Africa,Burundi,2015,93
+Americas,Chile,2015,93
+Europe,Latvia,2015,93
+Africa,Togo,2015,93
+Africa,Cabo Verde,2015,94
+Africa,Comoros,2015,94
+Eastern Mediterranean,Iraq,2015,94
+Africa,Mozambique,2015,94
+South-East Asia,Myanmar,2015,94
+Africa,Namibia,2015,94
+South-East Asia,Nepal,2015,94
+Africa,Niger,2015,94
+Europe,Poland,2015,94
+Europe,The former Yugoslav Republic of Macedonia,2015,94
+Europe,Bosnia and Herzegovina,2015,95
+Europe,Estonia,2015,95
+Americas,Honduras,2015,95
+Europe,Kazakhstan,2015,95
+Africa,Lesotho,2015,95
+Americas,Saint Kitts and Nevis,2015,95
+Africa,Senegal,2015,95
+Africa,Uganda,2015,95
+Western Pacific,Vanuatu,2015,95
+Americas,Argentina,2015,96
+Europe,Bulgaria,2015,96
+Eastern Mediterranean,Egypt,2015,96
+Europe,Georgia,2015,96
+Americas,Paraguay,2015,96
+Europe,Russian Federation,2015,96
+Eastern Mediterranean,Tunisia,2015,96
+Europe,Turkey,2015,96
+Eastern Mediterranean,United Arab Emirates,2015,96
+Europe,Belarus,2015,97
+South-East Asia,Democratic People's Republic of Korea,2015,97
+Africa,Eritrea,2015,97
+Africa,Ghana,2015,97
+Europe,Kyrgyzstan,2015,97
+Europe,Lithuania,2015,97
+Eastern Mediterranean,Qatar,2015,97
+Western Pacific,Republic of Korea,2015,97
+Europe,Republic of Moldova,2015,97
+Africa,Sao Tome and Principe,2015,97
+Africa,United Republic of Tanzania,2015,97
+Western Pacific,Viet Nam,2015,97
+Africa,Zambia,2015,97
+Europe,Azerbaijan,2015,98
+Americas,Belize,2015,98
+Africa,Botswana,2015,98
+Africa,Burkina Faso,2015,98
+Europe,Croatia,2015,98
+Americas,Dominica,2015,98
+Africa,Eswatini,2015,98
+Africa,Gabon,2015,98
+Africa,Gambia,2015,98
+Eastern Mediterranean,Jordan,2015,98
+Africa,Mauritius,2015,98
+Americas,Mexico,2015,98
+Americas,Nicaragua,2015,98
+Europe,Romania,2015,98
+Eastern Mediterranean,Saudi Arabia,2015,98
+Europe,Serbia,2015,98
+Europe,Tajikistan,2015,98
+Americas,Uruguay,2015,98
+Europe,Albania,2015,99
+Africa,Algeria,2015,99
+Europe,Armenia,2015,99
+South-East Asia,Bangladesh,2015,99
+South-East Asia,Bhutan,2015,99
+Americas,Bolivia (Plurinational State of),2015,99
+Americas,Brazil,2015,99
+Western Pacific,Brunei Darussalam,2015,99
+Western Pacific,Cambodia,2015,99
+Western Pacific,China,2015,99
+Western Pacific,Cook Islands,2015,99
+Americas,Cuba,2015,99
+Americas,Dominican Republic,2015,99
+Americas,El Salvador,2015,99
+Western Pacific,Fiji,2015,99
+Americas,Guyana,2015,99
+Europe,Hungary,2015,99
+Eastern Mediterranean,Iran (Islamic Republic of),2015,99
+Americas,Jamaica,2015,99
+Eastern Mediterranean,Kuwait,2015,99
+Eastern Mediterranean,Libya,2015,99
+Western Pacific,Malaysia,2015,99
+South-East Asia,Maldives,2015,99
+Western Pacific,Marshall Islands,2015,99
+Western Pacific,Mongolia,2015,99
+Eastern Mediterranean,Morocco,2015,99
+Western Pacific,Nauru,2015,99
+Western Pacific,Niue,2015,99
+Eastern Mediterranean,Oman,2015,99
+Americas,Panama,2015,99
+Africa,Rwanda,2015,99
+Americas,Saint Lucia,2015,99
+Americas,Saint Vincent and the Grenadines,2015,99
+Africa,Seychelles,2015,99
+Western Pacific,Singapore,2015,99
+South-East Asia,Sri Lanka,2015,99
+South-East Asia,Thailand,2015,99
+Europe,Turkmenistan,2015,99
+Western Pacific,Tuvalu,2015,99
+Europe,Uzbekistan,2015,99
+Americas,Venezuela (Bolivarian Republic of),2015,99
+Europe,Sweden,2014,26
+Eastern Mediterranean,Somalia,2014,37
+Europe,Ukraine,2014,39
+Africa,Nigeria,2014,51
+Africa,South Sudan,2014,55
+Africa,Chad,2014,58
+Africa,Guinea,2014,66
+Africa,Ethiopia,2014,69
+Africa,Angola,2014,72
+Western Pacific,Kiribati,2014,72
+Africa,Liberia,2014,73
+Africa,Mali,2014,73
+Western Pacific,Micronesia (Federated States of),2014,73
+Eastern Mediterranean,Yemen,2014,73
+Eastern Mediterranean,Afghanistan,2014,74
+Africa,Central African Republic,2014,74
+Europe,Ireland,2014,74
+Africa,Madagascar,2014,75
+Africa,Democratic Republic of the Congo,2014,77
+Western Pacific,Philippines,2014,79
+South-East Asia,Timor-Leste,2014,79
+Americas,Costa Rica,2014,80
+Americas,Haiti,2014,81
+Western Pacific,Solomon Islands,2014,81
+Eastern Mediterranean,Syrian Arab Republic,2014,81
+Western Pacific,Lao People's Democratic Republic,2014,82
+Africa,Togo,2014,82
+Western Pacific,Papua New Guinea,2014,84
+Africa,Côte d’Ivoire,2014,85
+Americas,El Salvador,2014,85
+Africa,Equatorial Guinea,2014,85
+Eastern Mediterranean,Pakistan,2014,85
+Africa,Cameroon,2014,87
+Africa,Niger,2014,87
+Americas,Colombia,2014,89
+Americas,Ecuador,2014,89
+South-East Asia,India,2014,89
+Western Pacific,Marshall Islands,2014,89
+Americas,Saint Lucia,2014,89
+Western Pacific,Samoa,2014,89
+Africa,Comoros,2014,90
+South-East Asia,Indonesia,2014,90
+Americas,Jamaica,2014,90
+Eastern Mediterranean,Qatar,2014,90
+Africa,Sierra Leone,2014,90
+Eastern Mediterranean,United Arab Emirates,2014,90
+Africa,Benin,2014,91
+Africa,Gabon,2014,91
+Americas,Guatemala,2014,91
+Europe,Montenegro,2014,91
+Africa,Uganda,2014,91
+Africa,Burundi,2014,92
+Europe,Latvia,2014,92
+South-East Asia,Myanmar,2014,92
+Europe,Poland,2014,92
+Africa,Guinea-Bissau,2014,93
+Western Pacific,Japan,2014,93
+Africa,Mauritania,2014,93
+Africa,South Africa,2014,93
+Eastern Mediterranean,Tunisia,2014,93
+Americas,Bolivia (Plurinational State of),2014,94
+Africa,Kenya,2014,94
+Africa,Mozambique,2014,94
+Americas,Peru,2014,94
+Africa,Congo,2014,95
+Europe,Estonia,2014,95
+Eastern Mediterranean,Jordan,2014,95
+Europe,Kazakhstan,2014,95
+Africa,Sao Tome and Principe,2014,95
+Africa,Senegal,2014,95
+Eastern Mediterranean,Sudan,2014,95
+Europe,Turkey,2014,95
+Western Pacific,Vanuatu,2014,95
+Eastern Mediterranean,Egypt,2014,96
+Africa,Gambia,2014,96
+Europe,Georgia,2014,96
+Americas,Honduras,2014,96
+Americas,Mexico,2014,96
+Americas,Paraguay,2014,96
+Europe,Russian Federation,2014,96
+Western Pacific,Viet Nam,2014,96
+Europe,Bulgaria,2014,97
+Africa,Eritrea,2014,97
+Europe,Kyrgyzstan,2014,97
+Africa,Lesotho,2014,97
+Africa,Malawi,2014,97
+Africa,Mauritius,2014,97
+Africa,Namibia,2014,97
+Europe,Republic of Moldova,2014,97
+Americas,Venezuela (Bolivarian Republic of),2014,97
+Europe,Azerbaijan,2014,98
+Europe,Belarus,2014,98
+Americas,Belize,2014,98
+Europe,Bosnia and Herzegovina,2014,98
+Africa,Botswana,2014,98
+Africa,Burkina Faso,2014,98
+Western Pacific,Cambodia,2014,98
+Americas,Chile,2014,98
+Europe,Croatia,2014,98
+South-East Asia,Democratic People's Republic of Korea,2014,98
+Americas,Dominica,2014,98
+Europe,Lithuania,2014,98
+Americas,Nicaragua,2014,98
+Europe,Romania,2014,98
+Americas,Saint Vincent and the Grenadines,2014,98
+Eastern Mediterranean,Saudi Arabia,2014,98
+Europe,Serbia,2014,98
+Africa,Seychelles,2014,98
+Europe,Tajikistan,2014,98
+Europe,Albania,2014,99
+Africa,Algeria,2014,99
+Americas,Argentina,2014,99
+Europe,Armenia,2014,99
+South-East Asia,Bangladesh,2014,99
+South-East Asia,Bhutan,2014,99
+Americas,Brazil,2014,99
+Western Pacific,Brunei Darussalam,2014,99
+Africa,Cabo Verde,2014,99
+Western Pacific,China,2014,99
+Western Pacific,Cook Islands,2014,99
+Americas,Cuba,2014,99
+Eastern Mediterranean,Djibouti,2014,99
+Americas,Dominican Republic,2014,99
+Africa,Eswatini,2014,99
+Western Pacific,Fiji,2014,99
+Africa,Ghana,2014,99
+Americas,Guyana,2014,99
+Europe,Hungary,2014,99
+Eastern Mediterranean,Iran (Islamic Republic of),2014,99
+Eastern Mediterranean,Iraq,2014,99
+Eastern Mediterranean,Kuwait,2014,99
+Eastern Mediterranean,Libya,2014,99
+Western Pacific,Malaysia,2014,99
+South-East Asia,Maldives,2014,99
+Western Pacific,Mongolia,2014,99
+Eastern Mediterranean,Morocco,2014,99
+Western Pacific,Nauru,2014,99
+South-East Asia,Nepal,2014,99
+Western Pacific,Niue,2014,99
+Eastern Mediterranean,Oman,2014,99
+Americas,Panama,2014,99
+Europe,Portugal,2014,99
+Western Pacific,Republic of Korea,2014,99
+Europe,The former Yugoslav Republic of Macedonia,2014,99
+Africa,Rwanda,2014,99
+Americas,Saint Kitts and Nevis,2014,99
+Western Pacific,Singapore,2014,99
+South-East Asia,Sri Lanka,2014,99
+South-East Asia,Thailand,2014,99
+Western Pacific,Tonga,2014,99
+Europe,Turkmenistan,2014,99
+Western Pacific,Tuvalu,2014,99
+Africa,United Republic of Tanzania,2014,99
+Americas,Uruguay,2014,99
+Europe,Uzbekistan,2014,99
+Africa,Zambia,2014,99
+Africa,Zimbabwe,2014,99
+Europe,Sweden,2013,27
+Africa,Central African Republic,2013,37
+Eastern Mediterranean,Somalia,2013,37
+Africa,Niger,2013,43
+Africa,Nigeria,2013,51
+Africa,South Sudan,2013,58
+Africa,Chad,2013,60
+Africa,Ethiopia,2013,68
+Africa,Mali,2013,70
+Western Pacific,Micronesia (Federated States of),2013,70
+Africa,Angola,2013,71
+Africa,Guinea,2013,71
+Eastern Mediterranean,Yemen,2013,71
+Eastern Mediterranean,Afghanistan,2013,72
+Europe,Ireland,2013,76
+Africa,Madagascar,2013,77
+Americas,Costa Rica,2013,79
+Africa,Cameroon,2013,82
+Africa,Democratic Republic of the Congo,2013,82
+Africa,Equatorial Guinea,2013,82
+Americas,Haiti,2013,82
+Western Pacific,Lao People's Democratic Republic,2013,82
+Western Pacific,Solomon Islands,2013,82
+Eastern Mediterranean,Pakistan,2013,84
+Eastern Mediterranean,Syrian Arab Republic,2013,84
+Americas,Colombia,2013,85
+Africa,Comoros,2013,85
+Africa,Côte d’Ivoire,2013,85
+Eastern Mediterranean,Djibouti,2013,86
+Western Pacific,Kiribati,2013,86
+South-East Asia,Myanmar,2013,86
+South-East Asia,Timor-Leste,2013,86
+Africa,Liberia,2013,87
+Western Pacific,Philippines,2013,87
+Americas,Guatemala,2013,88
+Africa,South Africa,2013,88
+Western Pacific,Samoa,2013,89
+Americas,Ecuador,2013,90
+Americas,El Salvador,2013,90
+South-East Asia,Indonesia,2013,90
+South-East Asia,India,2013,91
+Americas,Mexico,2013,91
+Americas,Paraguay,2013,91
+Africa,Congo,2013,92
+Africa,Gabon,2013,92
+Africa,Kenya,2013,92
+Africa,Guinea-Bissau,2013,93
+Americas,Jamaica,2013,93
+Western Pacific,Japan,2013,93
+Western Pacific,Marshall Islands,2013,93
+Europe,Montenegro,2013,93
+Africa,Mozambique,2013,93
+Western Pacific,Papua New Guinea,2013,93
+Europe,Poland,2013,93
+Eastern Mediterranean,Sudan,2013,93
+Africa,Uganda,2013,93
+Western Pacific,Vanuatu,2013,93
+Americas,Bolivia (Plurinational State of),2013,94
+Africa,Cabo Verde,2013,94
+Europe,Latvia,2013,94
+Africa,Namibia,2013,94
+Americas,Saint Kitts and Nevis,2013,94
+Eastern Mediterranean,Tunisia,2013,94
+Eastern Mediterranean,United Arab Emirates,2013,94
+Africa,Benin,2013,95
+Africa,Burundi,2013,95
+Europe,Georgia,2013,95
+Europe,Kazakhstan,2013,95
+Africa,Mauritania,2013,95
+Americas,Panama,2013,95
+Americas,Peru,2013,95
+Europe,Ukraine,2013,95
+Americas,Venezuela (Bolivarian Republic of),2013,95
+Western Pacific,Viet Nam,2013,95
+Africa,Zambia,2013,95
+Africa,Zimbabwe,2013,95
+Africa,Burkina Faso,2013,96
+Western Pacific,Cambodia,2013,96
+Europe,Estonia,2013,96
+Africa,Malawi,2013,96
+Europe,Republic of Moldova,2013,96
+Europe,Russian Federation,2013,96
+Americas,Saint Vincent and the Grenadines,2013,96
+Europe,Turkey,2013,96
+South-East Asia,Bhutan,2013,97
+Europe,Bosnia and Herzegovina,2013,97
+Europe,Bulgaria,2013,97
+Americas,Dominica,2013,97
+Africa,Eritrea,2013,97
+Americas,Honduras,2013,97
+South-East Asia,Nepal,2013,97
+Europe,The former Yugoslav Republic of Macedonia,2013,97
+Africa,Sao Tome and Principe,2013,97
+Africa,Senegal,2013,97
+Europe,Serbia,2013,97
+Africa,Togo,2013,97
+Europe,Azerbaijan,2013,98
+Africa,Botswana,2013,98
+Americas,Chile,2013,98
+Western Pacific,Cook Islands,2013,98
+South-East Asia,Democratic People's Republic of Korea,2013,98
+Eastern Mediterranean,Egypt,2013,98
+Africa,Gambia,2013,98
+Africa,Ghana,2013,98
+Americas,Guyana,2013,98
+Eastern Mediterranean,Jordan,2013,98
+Europe,Kyrgyzstan,2013,98
+Africa,Lesotho,2013,98
+Europe,Lithuania,2013,98
+Americas,Nicaragua,2013,98
+Eastern Mediterranean,Qatar,2013,98
+Europe,Romania,2013,98
+Europe,Tajikistan,2013,98
+Europe,Turkmenistan,2013,98
+Americas,Uruguay,2013,98
+Europe,Albania,2013,99
+Africa,Algeria,2013,99
+Americas,Argentina,2013,99
+Europe,Armenia,2013,99
+South-East Asia,Bangladesh,2013,99
+Europe,Belarus,2013,99
+Americas,Belize,2013,99
+Americas,Brazil,2013,99
+Western Pacific,Brunei Darussalam,2013,99
+Western Pacific,China,2013,99
+Europe,Croatia,2013,99
+Americas,Cuba,2013,99
+Americas,Dominican Republic,2013,99
+Africa,Eswatini,2013,99
+Western Pacific,Fiji,2013,99
+Europe,Hungary,2013,99
+Eastern Mediterranean,Iran (Islamic Republic of),2013,99
+Eastern Mediterranean,Iraq,2013,99
+Eastern Mediterranean,Kuwait,2013,99
+Eastern Mediterranean,Libya,2013,99
+Western Pacific,Malaysia,2013,99
+South-East Asia,Maldives,2013,99
+Africa,Mauritius,2013,99
+Western Pacific,Mongolia,2013,99
+Eastern Mediterranean,Morocco,2013,99
+Western Pacific,Nauru,2013,99
+Western Pacific,Niue,2013,99
+Eastern Mediterranean,Oman,2013,99
+Europe,Portugal,2013,99
+Western Pacific,Republic of Korea,2013,99
+Africa,Rwanda,2013,99
+Americas,Saint Lucia,2013,99
+Eastern Mediterranean,Saudi Arabia,2013,99
+Africa,Seychelles,2013,99
+Africa,Sierra Leone,2013,99
+Western Pacific,Singapore,2013,99
+South-East Asia,Sri Lanka,2013,99
+South-East Asia,Thailand,2013,99
+Western Pacific,Tonga,2013,99
+Western Pacific,Tuvalu,2013,99
+Africa,United Republic of Tanzania,2013,99
+Europe,Uzbekistan,2013,99
+Europe,Sweden,2012,24
+Eastern Mediterranean,Somalia,2012,37
+Europe,Ireland,2012,42
+Africa,Nigeria,2012,51
+Africa,Chad,2012,62
+Eastern Mediterranean,Yemen,2012,64
+Africa,South Sudan,2012,65
+Africa,Angola,2012,73
+Africa,Central African Republic,2012,74
+Africa,Ethiopia,2012,74
+Africa,Guinea,2012,77
+Africa,Mali,2012,77
+Eastern Mediterranean,Afghanistan,2012,78
+Americas,Costa Rica,2012,78
+Africa,Equatorial Guinea,2012,78
+Africa,Madagascar,2012,78
+Western Pacific,Micronesia (Federated States of),2012,78
+Africa,Comoros,2012,79
+Africa,Cameroon,2012,81
+Western Pacific,Lao People's Democratic Republic,2012,81
+Americas,Haiti,2012,82
+Eastern Mediterranean,Syrian Arab Republic,2012,82
+Africa,Democratic Republic of the Congo,2012,83
+Eastern Mediterranean,Pakistan,2012,84
+Africa,Liberia,2012,85
+Africa,Niger,2012,85
+Western Pacific,Solomon Islands,2012,85
+Africa,South Africa,2012,86
+South-East Asia,Timor-Leste,2012,86
+Eastern Mediterranean,Djibouti,2012,87
+South-East Asia,Myanmar,2012,87
+South-East Asia,Indonesia,2012,88
+Americas,Colombia,2012,89
+Europe,Monaco,2012,89
+Western Pacific,Philippines,2012,89
+Americas,El Salvador,2012,90
+South-East Asia,India,2012,90
+Africa,Namibia,2012,90
+Western Pacific,Samoa,2012,90
+Europe,Slovakia,2012,90
+Western Pacific,Papua New Guinea,2012,91
+Americas,Chile,2012,92
+Africa,Congo,2012,92
+Africa,Mozambique,2012,92
+Eastern Mediterranean,Sudan,2012,92
+Western Pacific,Vanuatu,2012,92
+Africa,Zambia,2012,92
+Africa,Côte d’Ivoire,2012,93
+Africa,Lesotho,2012,93
+Americas,Paraguay,2012,93
+Americas,Ecuador,2012,94
+Americas,Guatemala,2012,94
+Africa,Guinea-Bissau,2012,94
+Europe,Latvia,2012,94
+Europe,Poland,2012,94
+Eastern Mediterranean,United Arab Emirates,2012,94
+South-East Asia,Bhutan,2012,95
+Eastern Mediterranean,Egypt,2012,95
+Europe,Georgia,2012,95
+Americas,Jamaica,2012,95
+Western Pacific,Japan,2012,95
+Europe,Kazakhstan,2012,95
+Western Pacific,Kiribati,2012,95
+Africa,Mauritania,2012,95
+Europe,Montenegro,2012,95
+Americas,Peru,2012,95
+Europe,The former Yugoslav Republic of Macedonia,2012,95
+Americas,Saint Kitts and Nevis,2012,95
+Western Pacific,Tonga,2012,95
+Africa,Uganda,2012,95
+Europe,Ukraine,2012,95
+Europe,Albania,2012,96
+Europe,Armenia,2012,96
+Africa,Benin,2012,96
+Europe,Bosnia and Herzegovina,2012,96
+Africa,Burkina Faso,2012,96
+Eastern Mediterranean,Jordan,2012,96
+South-East Asia,Nepal,2012,96
+Europe,Russian Federation,2012,96
+Eastern Mediterranean,Tunisia,2012,96
+Europe,Turkey,2012,96
+Americas,Venezuela (Bolivarian Republic of),2012,96
+Europe,Bulgaria,2012,97
+Africa,Eritrea,2012,97
+Europe,Estonia,2012,97
+Africa,Gabon,2012,97
+Africa,Kenya,2012,97
+Eastern Mediterranean,Kuwait,2012,97
+Western Pacific,Marshall Islands,2012,97
+Eastern Mediterranean,Qatar,2012,97
+Americas,Saint Vincent and the Grenadines,2012,97
+Africa,Senegal,2012,97
+Europe,Tajikistan,2012,97
+Africa,Togo,2012,97
+Europe,Azerbaijan,2012,98
+South-East Asia,Bangladesh,2012,98
+Europe,Belarus,2012,98
+Americas,Belize,2012,98
+Africa,Botswana,2012,98
+Africa,Burundi,2012,98
+Western Pacific,Cook Islands,2012,98
+South-East Asia,Democratic People's Republic of Korea,2012,98
+Americas,Dominica,2012,98
+Africa,Gambia,2012,98
+Africa,Ghana,2012,98
+Americas,Guyana,2012,98
+Americas,Honduras,2012,98
+Europe,Kyrgyzstan,2012,98
+Europe,Lithuania,2012,98
+Americas,Nicaragua,2012,98
+Americas,Panama,2012,98
+Europe,Serbia,2012,98
+Africa,Sierra Leone,2012,98
+Western Pacific,Viet Nam,2012,98
+Africa,Zimbabwe,2012,98
+Africa,Algeria,2012,99
+Americas,Argentina,2012,99
+Americas,Bolivia (Plurinational State of),2012,99
+Americas,Brazil,2012,99
+Western Pacific,Brunei Darussalam,2012,99
+Africa,Cabo Verde,2012,99
+Western Pacific,Cambodia,2012,99
+Western Pacific,China,2012,99
+Europe,Croatia,2012,99
+Americas,Cuba,2012,99
+Americas,Dominican Republic,2012,99
+Africa,Eswatini,2012,99
+Western Pacific,Fiji,2012,99
+Europe,Hungary,2012,99
+Eastern Mediterranean,Iran (Islamic Republic of),2012,99
+Eastern Mediterranean,Iraq,2012,99
+Eastern Mediterranean,Libya,2012,99
+Africa,Malawi,2012,99
+Western Pacific,Malaysia,2012,99
+South-East Asia,Maldives,2012,99
+Africa,Mauritius,2012,99
+Americas,Mexico,2012,99
+Western Pacific,Mongolia,2012,99
+Eastern Mediterranean,Morocco,2012,99
+Western Pacific,Nauru,2012,99
+Western Pacific,Niue,2012,99
+Eastern Mediterranean,Oman,2012,99
+Europe,Portugal,2012,99
+Western Pacific,Republic of Korea,2012,99
+Europe,Republic of Moldova,2012,99
+Europe,Romania,2012,99
+Africa,Rwanda,2012,99
+Americas,Saint Lucia,2012,99
+Africa,Sao Tome and Principe,2012,99
+Eastern Mediterranean,Saudi Arabia,2012,99
+Africa,Seychelles,2012,99
+Western Pacific,Singapore,2012,99
+South-East Asia,Sri Lanka,2012,99
+South-East Asia,Thailand,2012,99
+Europe,Turkmenistan,2012,99
+Western Pacific,Tuvalu,2012,99
+Africa,United Republic of Tanzania,2012,99
+Americas,Uruguay,2012,99
+Europe,Uzbekistan,2012,99
+Europe,Sweden,2011,23
+Eastern Mediterranean,Somalia,2011,39
+Europe,Ireland,2011,41
+Africa,Chad,2011,52
+Africa,Niger,2011,53
+Africa,Nigeria,2011,57
+Eastern Mediterranean,Yemen,2011,59
+Africa,Democratic Republic of the Congo,2011,66
+Eastern Mediterranean,Afghanistan,2011,71
+Africa,Angola,2011,74
+Africa,Central African Republic,2011,74
+Africa,Equatorial Guinea,2011,75
+Western Pacific,Micronesia (Federated States of),2011,75
+Africa,South Sudan,2011,75
+Africa,Côte d’Ivoire,2011,76
+Western Pacific,Lao People's Democratic Republic,2011,77
+Africa,Comoros,2011,78
+Americas,Costa Rica,2011,78
+South-East Asia,Timor-Leste,2011,79
+Africa,Cameroon,2011,80
+Africa,Ethiopia,2011,80
+Western Pacific,Marshall Islands,2011,80
+Africa,Guinea,2011,82
+Africa,Madagascar,2011,82
+Americas,Colombia,2011,83
+Americas,Haiti,2011,83
+Eastern Mediterranean,Pakistan,2011,83
+Africa,Mali,2011,84
+Africa,South Africa,2011,84
+Africa,Liberia,2011,85
+Western Pacific,Kiribati,2011,86
+Africa,Mauritania,2011,86
+Africa,Lesotho,2011,87
+Africa,Benin,2011,88
+Eastern Mediterranean,Djibouti,2011,89
+Europe,Monaco,2011,89
+Africa,Namibia,2011,89
+Africa,Burundi,2011,90
+Africa,Gambia,2011,90
+South-East Asia,India,2011,90
+Eastern Mediterranean,Syrian Arab Republic,2011,90
+Europe,Ukraine,2011,90
+Western Pacific,Vanuatu,2011,90
+Americas,Chile,2011,91
+Americas,Guatemala,2011,91
+Africa,Mozambique,2011,91
+Western Pacific,Papua New Guinea,2011,91
+Americas,Peru,2011,91
+Western Pacific,Philippines,2011,91
+Eastern Mediterranean,Tunisia,2011,91
+Africa,Guinea-Bissau,2011,92
+Eastern Mediterranean,Sudan,2011,92
+Africa,Zambia,2011,92
+Europe,Latvia,2011,93
+South-East Asia,Myanmar,2011,93
+Europe,Bosnia and Herzegovina,2011,94
+Africa,Gabon,2011,94
+Eastern Mediterranean,Iraq,2011,94
+Western Pacific,Japan,2011,94
+Americas,Paraguay,2011,94
+Europe,Poland,2011,94
+Europe,The former Yugoslav Republic of Macedonia,2011,94
+Western Pacific,Solomon Islands,2011,94
+South-East Asia,Bhutan,2011,95
+Africa,Congo,2011,95
+Americas,El Salvador,2011,95
+Americas,Jamaica,2011,95
+Eastern Mediterranean,Jordan,2011,95
+Europe,Russian Federation,2011,95
+Western Pacific,Samoa,2011,95
+Americas,Venezuela (Bolivarian Republic of),2011,95
+Europe,Armenia,2011,96
+Western Pacific,Brunei Darussalam,2011,96
+Europe,Georgia,2011,96
+Europe,Kazakhstan,2011,96
+Europe,Turkey,2011,96
+Eastern Mediterranean,United Arab Emirates,2011,96
+Europe,Albania,2011,97
+Africa,Eritrea,2011,97
+Americas,Guyana,2011,97
+Europe,Montenegro,2011,97
+South-East Asia,Nepal,2011,97
+Europe,Portugal,2011,97
+Eastern Mediterranean,Qatar,2011,97
+Africa,Senegal,2011,97
+Africa,Sierra Leone,2011,97
+Europe,Slovakia,2011,97
+Europe,Tajikistan,2011,97
+Africa,Togo,2011,97
+Africa,Uganda,2011,97
+Americas,Belize,2011,98
+Africa,Botswana,2011,98
+Europe,Bulgaria,2011,98
+Western Pacific,Cambodia,2011,98
+Western Pacific,Cook Islands,2011,98
+South-East Asia,Democratic People's Republic of Korea,2011,98
+Americas,Dominica,2011,98
+Americas,Ecuador,2011,98
+Eastern Mediterranean,Egypt,2011,98
+Africa,Eswatini,2011,98
+Africa,Ghana,2011,98
+South-East Asia,Indonesia,2011,98
+Europe,Kyrgyzstan,2011,98
+Europe,Lithuania,2011,98
+South-East Asia,Maldives,2011,98
+Americas,Nicaragua,2011,98
+Europe,Republic of Moldova,2011,98
+Eastern Mediterranean,Saudi Arabia,2011,98
+Europe,Turkmenistan,2011,98
+Western Pacific,Viet Nam,2011,98
+Africa,Zimbabwe,2011,98
+Africa,Algeria,2011,99
+Americas,Argentina,2011,99
+Europe,Azerbaijan,2011,99
+South-East Asia,Bangladesh,2011,99
+Europe,Belarus,2011,99
+Americas,Bolivia (Plurinational State of),2011,99
+Americas,Brazil,2011,99
+Africa,Burkina Faso,2011,99
+Africa,Cabo Verde,2011,99
+Western Pacific,China,2011,99
+Europe,Croatia,2011,99
+Americas,Cuba,2011,99
+Americas,Dominican Republic,2011,99
+Europe,Estonia,2011,99
+Western Pacific,Fiji,2011,99
+Americas,Honduras,2011,99
+Europe,Hungary,2011,99
+Eastern Mediterranean,Iran (Islamic Republic of),2011,99
+Africa,Kenya,2011,99
+Eastern Mediterranean,Kuwait,2011,99
+Eastern Mediterranean,Libya,2011,99
+Africa,Malawi,2011,99
+Western Pacific,Malaysia,2011,99
+Africa,Mauritius,2011,99
+Americas,Mexico,2011,99
+Western Pacific,Mongolia,2011,99
+Eastern Mediterranean,Morocco,2011,99
+Western Pacific,Nauru,2011,99
+Western Pacific,Niue,2011,99
+Eastern Mediterranean,Oman,2011,99
+Americas,Panama,2011,99
+Western Pacific,Republic of Korea,2011,99
+Europe,Romania,2011,99
+Africa,Rwanda,2011,99
+Americas,Saint Kitts and Nevis,2011,99
+Americas,Saint Lucia,2011,99
+Americas,Saint Vincent and the Grenadines,2011,99
+Africa,Sao Tome and Principe,2011,99
+Europe,Serbia,2011,99
+Africa,Seychelles,2011,99
+Western Pacific,Singapore,2011,99
+South-East Asia,Sri Lanka,2011,99
+South-East Asia,Thailand,2011,99
+Western Pacific,Tonga,2011,99
+Western Pacific,Tuvalu,2011,99
+Africa,United Republic of Tanzania,2011,99
+Americas,Uruguay,2011,99
+Europe,Uzbekistan,2011,99
+Europe,Sweden,2010,23
+Europe,Ireland,2010,30
+Eastern Mediterranean,Somalia,2010,41
+Africa,Chad,2010,58
+Africa,Nigeria,2010,62
+Eastern Mediterranean,Yemen,2010,65
+Eastern Mediterranean,Afghanistan,2010,68
+Western Pacific,Micronesia (Federated States of),2010,70
+Africa,Equatorial Guinea,2010,71
+Western Pacific,Lao People's Democratic Republic,2010,72
+Africa,Liberia,2010,73
+Africa,Central African Republic,2010,74
+Eastern Mediterranean,Pakistan,2010,74
+Africa,Comoros,2010,76
+Africa,Ethiopia,2010,76
+Africa,Madagascar,2010,76
+Americas,Costa Rica,2010,77
+Africa,Angola,2010,79
+Africa,Côte d’Ivoire,2010,79
+South-East Asia,Timor-Leste,2010,79
+Africa,Niger,2010,81
+Africa,South Africa,2010,81
+Americas,Haiti,2010,82
+Africa,Mali,2010,82
+Africa,Cameroon,2010,83
+Western Pacific,Philippines,2010,83
+Americas,Colombia,2010,84
+Africa,Democratic Republic of the Congo,2010,85
+Africa,Mauritania,2010,85
+Africa,Uganda,2010,86
+Western Pacific,Kiribati,2010,87
+Western Pacific,Samoa,2010,87
+South-East Asia,Indonesia,2010,88
+Africa,Namibia,2010,88
+Western Pacific,Papua New Guinea,2010,88
+Western Pacific,Vanuatu,2010,88
+South-East Asia,India,2010,89
+Europe,Monaco,2010,89
+Africa,Benin,2010,90
+Eastern Mediterranean,Djibouti,2010,90
+Eastern Mediterranean,Iraq,2010,90
+Africa,Lesotho,2010,90
+Africa,Mozambique,2010,90
+Americas,Saint Vincent and the Grenadines,2010,90
+Eastern Mediterranean,Sudan,2010,90
+Americas,Saint Kitts and Nevis,2010,91
+Western Pacific,Solomon Islands,2010,91
+Africa,Gambia,2010,92
+Europe,Latvia,2010,92
+Europe,Ukraine,2010,92
+Americas,Venezuela (Bolivarian Republic of),2010,92
+Africa,Zambia,2010,92
+Africa,Burundi,2010,93
+Africa,Guinea,2010,93
+Africa,Guinea-Bissau,2010,93
+South-East Asia,Myanmar,2010,93
+Americas,Paraguay,2010,93
+Europe,Poland,2010,93
+Africa,Gabon,2010,94
+South-East Asia,Nepal,2010,94
+Western Pacific,Viet Nam,2010,94
+Europe,Armenia,2010,95
+Western Pacific,Brunei Darussalam,2010,95
+Western Pacific,Cambodia,2010,95
+Americas,Chile,2010,95
+Africa,Congo,2010,95
+Americas,Jamaica,2010,95
+Eastern Mediterranean,Jordan,2010,95
+Europe,Montenegro,2010,95
+Americas,Peru,2010,95
+South-East Asia,Bhutan,2010,96
+Europe,Bosnia and Herzegovina,2010,96
+Americas,El Salvador,2010,96
+Africa,Eritrea,2010,96
+Europe,Georgia,2010,96
+Europe,Kazakhstan,2010,96
+Europe,Portugal,2010,96
+Western Pacific,Republic of Korea,2010,96
+Europe,The former Yugoslav Republic of Macedonia,2010,96
+Europe,Russian Federation,2010,96
+Europe,Estonia,2010,97
+Africa,Malawi,2010,97
+South-East Asia,Maldives,2010,97
+Americas,Saint Lucia,2010,97
+Africa,Senegal,2010,97
+Africa,Sierra Leone,2010,97
+Eastern Mediterranean,Syrian Arab Republic,2010,97
+Africa,Togo,2010,97
+Europe,Turkey,2010,97
+Europe,Azerbaijan,2010,98
+South-East Asia,Bangladesh,2010,98
+Americas,Belize,2010,98
+Americas,Bolivia (Plurinational State of),2010,98
+Africa,Botswana,2010,98
+Europe,Bulgaria,2010,98
+South-East Asia,Democratic People's Republic of Korea,2010,98
+Americas,Dominican Republic,2010,98
+Americas,Ecuador,2010,98
+Eastern Mediterranean,Egypt,2010,98
+Africa,Eswatini,2010,98
+Americas,Guyana,2010,98
+Eastern Mediterranean,Kuwait,2010,98
+Europe,Kyrgyzstan,2010,98
+Americas,Mexico,2010,98
+Americas,Nicaragua,2010,98
+Europe,Republic of Moldova,2010,98
+Eastern Mediterranean,Saudi Arabia,2010,98
+Europe,Slovakia,2010,98
+Europe,Tajikistan,2010,98
+Eastern Mediterranean,Tunisia,2010,98
+Eastern Mediterranean,United Arab Emirates,2010,98
+Europe,Albania,2010,99
+Africa,Algeria,2010,99
+Americas,Argentina,2010,99
+Europe,Belarus,2010,99
+Americas,Brazil,2010,99
+Africa,Burkina Faso,2010,99
+Africa,Cabo Verde,2010,99
+Western Pacific,China,2010,99
+Western Pacific,Cook Islands,2010,99
+Europe,Croatia,2010,99
+Americas,Cuba,2010,99
+Americas,Dominica,2010,99
+Western Pacific,Fiji,2010,99
+Africa,Ghana,2010,99
+Americas,Guatemala,2010,99
+Americas,Honduras,2010,99
+Europe,Hungary,2010,99
+Eastern Mediterranean,Iran (Islamic Republic of),2010,99
+Western Pacific,Japan,2010,99
+Africa,Kenya,2010,99
+Eastern Mediterranean,Libya,2010,99
+Europe,Lithuania,2010,99
+Western Pacific,Malaysia,2010,99
+Western Pacific,Marshall Islands,2010,99
+Africa,Mauritius,2010,99
+Western Pacific,Mongolia,2010,99
+Eastern Mediterranean,Morocco,2010,99
+Western Pacific,Nauru,2010,99
+Western Pacific,Niue,2010,99
+Eastern Mediterranean,Oman,2010,99
+Americas,Panama,2010,99
+Eastern Mediterranean,Qatar,2010,99
+Europe,Romania,2010,99
+Africa,Rwanda,2010,99
+Africa,Sao Tome and Principe,2010,99
+Europe,Serbia,2010,99
+Africa,Seychelles,2010,99
+Western Pacific,Singapore,2010,99
+South-East Asia,Sri Lanka,2010,99
+South-East Asia,Thailand,2010,99
+Western Pacific,Tonga,2010,99
+Europe,Turkmenistan,2010,99
+Western Pacific,Tuvalu,2010,99
+Africa,United Republic of Tanzania,2010,99
+Americas,Uruguay,2010,99
+Europe,Uzbekistan,2010,99
+Africa,Zimbabwe,2010,99
+Europe,Sweden,2009,21
+Eastern Mediterranean,Somalia,2009,29
+Europe,Ireland,2009,30
+Africa,Chad,2009,46
+Eastern Mediterranean,Yemen,2009,58
+Eastern Mediterranean,Afghanistan,2009,64
+Western Pacific,Lao People's Democratic Republic,2009,67
+Africa,Angola,2009,70
+Africa,Equatorial Guinea,2009,71
+Africa,Central African Republic,2009,74
+Africa,Ethiopia,2009,74
+Eastern Mediterranean,Pakistan,2009,74
+South-East Asia,Timor-Leste,2009,74
+Western Pacific,Micronesia (Federated States of),2009,75
+Western Pacific,Kiribati,2009,76
+Africa,Nigeria,2009,76
+South-East Asia,Indonesia,2009,78
+Africa,Madagascar,2009,78
+Africa,Comoros,2009,80
+Americas,Haiti,2009,80
+Americas,Saint Vincent and the Grenadines,2009,80
+Africa,Cameroon,2009,81
+Americas,Costa Rica,2009,81
+Africa,Mauritania,2009,81
+Africa,South Africa,2009,82
+Eastern Mediterranean,Sudan,2009,82
+Europe,Tajikistan,2009,82
+Africa,Mali,2009,84
+Africa,Democratic Republic of the Congo,2009,85
+Africa,Namibia,2009,85
+Africa,Niger,2009,86
+Western Pacific,Vanuatu,2009,86
+Africa,Liberia,2009,87
+South-East Asia,India,2009,88
+Europe,Monaco,2009,89
+Western Pacific,Papua New Guinea,2009,89
+Americas,Colombia,2009,90
+Africa,Congo,2009,90
+Eastern Mediterranean,Djibouti,2009,90
+Africa,Mozambique,2009,90
+Western Pacific,Philippines,2009,90
+Africa,Uganda,2009,90
+Africa,Zimbabwe,2009,90
+Africa,Guinea,2009,91
+Americas,Paraguay,2009,91
+Africa,Togo,2009,91
+Americas,Venezuela (Bolivarian Republic of),2009,91
+Eastern Mediterranean,Iraq,2009,92
+Africa,Lesotho,2009,92
+Western Pacific,Samoa,2009,92
+Western Pacific,Solomon Islands,2009,92
+Africa,Zambia,2009,92
+Africa,Benin,2009,93
+Americas,Bolivia (Plurinational State of),2009,93
+Africa,Gabon,2009,93
+Americas,Guatemala,2009,93
+South-East Asia,Myanmar,2009,93
+Americas,Saint Kitts and Nevis,2009,93
+Africa,United Republic of Tanzania,2009,93
+South-East Asia,Bhutan,2009,94
+Africa,Gambia,2009,94
+Africa,Guinea-Bissau,2009,94
+Americas,Jamaica,2009,94
+Western Pacific,Japan,2009,94
+South-East Asia,Nepal,2009,94
+Europe,Poland,2009,94
+Europe,Ukraine,2009,94
+Europe,Azerbaijan,2009,95
+Americas,Chile,2009,95
+Africa,Côte d’Ivoire,2009,95
+Europe,Georgia,2009,95
+Eastern Mediterranean,Jordan,2009,95
+Africa,Malawi,2009,95
+Africa,Mauritius,2009,95
+Europe,Montenegro,2009,95
+Eastern Mediterranean,Syrian Arab Republic,2009,95
+Western Pacific,Cambodia,2009,96
+Americas,Dominican Republic,2009,96
+Africa,Eritrea,2009,96
+Europe,Kazakhstan,2009,96
+Europe,Latvia,2009,96
+Western Pacific,Republic of Korea,2009,96
+Europe,Republic of Moldova,2009,96
+Europe,Russian Federation,2009,96
+Africa,Seychelles,2009,96
+Africa,Sierra Leone,2009,96
+Europe,Turkey,2009,96
+Europe,Albania,2009,97
+Europe,Bosnia and Herzegovina,2009,97
+Europe,Estonia,2009,97
+Africa,Eswatini,2009,97
+Americas,Peru,2009,97
+Americas,Saint Lucia,2009,97
+Africa,Senegal,2009,97
+Europe,Slovakia,2009,97
+Western Pacific,Viet Nam,2009,97
+Europe,Belarus,2009,98
+Europe,Bulgaria,2009,98
+Africa,Burundi,2009,98
+Europe,Czechia,2009,98
+South-East Asia,Democratic People's Republic of Korea,2009,98
+Eastern Mediterranean,Egypt,2009,98
+Americas,Guyana,2009,98
+Europe,Kyrgyzstan,2009,98
+Western Pacific,Marshall Islands,2009,98
+Western Pacific,Mongolia,2009,98
+Americas,Nicaragua,2009,98
+Europe,Portugal,2009,98
+Eastern Mediterranean,Qatar,2009,98
+Europe,The former Yugoslav Republic of Macedonia,2009,98
+Eastern Mediterranean,Saudi Arabia,2009,98
+Europe,Serbia,2009,98
+Eastern Mediterranean,Tunisia,2009,98
+Eastern Mediterranean,United Arab Emirates,2009,98
+Africa,Algeria,2009,99
+Americas,Argentina,2009,99
+Europe,Armenia,2009,99
+South-East Asia,Bangladesh,2009,99
+Americas,Belize,2009,99
+Africa,Botswana,2009,99
+Americas,Brazil,2009,99
+Western Pacific,Brunei Darussalam,2009,99
+Africa,Burkina Faso,2009,99
+Africa,Cabo Verde,2009,99
+Western Pacific,China,2009,99
+Western Pacific,Cook Islands,2009,99
+Europe,Croatia,2009,99
+Americas,Cuba,2009,99
+Americas,Dominica,2009,99
+Americas,Ecuador,2009,99
+Americas,El Salvador,2009,99
+Western Pacific,Fiji,2009,99
+Africa,Ghana,2009,99
+Americas,Honduras,2009,99
+Europe,Hungary,2009,99
+Eastern Mediterranean,Iran (Islamic Republic of),2009,99
+Africa,Kenya,2009,99
+Eastern Mediterranean,Kuwait,2009,99
+Eastern Mediterranean,Libya,2009,99
+Europe,Lithuania,2009,99
+Western Pacific,Malaysia,2009,99
+South-East Asia,Maldives,2009,99
+Americas,Mexico,2009,99
+Eastern Mediterranean,Morocco,2009,99
+Western Pacific,Nauru,2009,99
+Western Pacific,Niue,2009,99
+Eastern Mediterranean,Oman,2009,99
+Americas,Panama,2009,99
+Europe,Romania,2009,99
+Africa,Rwanda,2009,99
+Africa,Sao Tome and Principe,2009,99
+Western Pacific,Singapore,2009,99
+South-East Asia,Sri Lanka,2009,99
+South-East Asia,Thailand,2009,99
+Western Pacific,Tonga,2009,99
+Europe,Turkmenistan,2009,99
+Western Pacific,Tuvalu,2009,99
+Americas,Uruguay,2009,99
+Europe,Uzbekistan,2009,99
+Europe,Sweden,2008,23
+Africa,Chad,2008,30
+Europe,Ireland,2008,34
+Eastern Mediterranean,Somalia,2008,36
+Eastern Mediterranean,Yemen,2008,60
+Africa,Nigeria,2008,65
+Eastern Mediterranean,Afghanistan,2008,66
+Western Pacific,Lao People's Democratic Republic,2008,68
+Africa,Equatorial Guinea,2008,71
+Africa,Ethiopia,2008,71
+Africa,Angola,2008,73
+Africa,Central African Republic,2008,74
+Eastern Mediterranean,Pakistan,2008,75
+Africa,Democratic Republic of the Congo,2008,78
+Americas,Haiti,2008,78
+Africa,Niger,2008,78
+Western Pacific,Micronesia (Federated States of),2008,79
+South-East Asia,Indonesia,2008,80
+Western Pacific,Papua New Guinea,2008,80
+Africa,Comoros,2008,81
+Western Pacific,Kiribati,2008,83
+Africa,Madagascar,2008,83
+Africa,South Africa,2008,84
+Africa,Liberia,2008,85
+South-East Asia,Timor-Leste,2008,85
+Western Pacific,Vanuatu,2008,85
+South-East Asia,India,2008,86
+Africa,Mali,2008,86
+Africa,Uganda,2008,86
+Africa,Guinea,2008,87
+Eastern Mediterranean,Iraq,2008,87
+South-East Asia,Nepal,2008,87
+Americas,Saint Vincent and the Grenadines,2008,87
+South-East Asia,Myanmar,2008,88
+Africa,Namibia,2008,88
+Eastern Mediterranean,Sudan,2008,88
+Africa,Mauritania,2008,89
+Europe,Monaco,2008,89
+Europe,Tajikistan,2008,89
+Africa,United Republic of Tanzania,2008,89
+Americas,Bolivia (Plurinational State of),2008,90
+Americas,Costa Rica,2008,90
+Eastern Mediterranean,Djibouti,2008,90
+Western Pacific,Japan,2008,90
+Africa,Mozambique,2008,90
+Americas,Venezuela (Bolivarian Republic of),2008,90
+Africa,Cameroon,2008,91
+Africa,Côte d’Ivoire,2008,91
+Africa,Sierra Leone,2008,91
+Africa,Zambia,2008,91
+Africa,Zimbabwe,2008,91
+Europe,Azerbaijan,2008,92
+Americas,Dominican Republic,2008,92
+Americas,Jamaica,2008,92
+Western Pacific,Solomon Islands,2008,92
+Africa,Togo,2008,92
+Western Pacific,Viet Nam,2008,92
+Americas,Colombia,2008,93
+Africa,Congo,2008,93
+Africa,Gabon,2008,93
+Africa,Guinea-Bissau,2008,93
+Western Pacific,Philippines,2008,93
+Europe,Poland,2008,93
+Africa,Rwanda,2008,93
+Eastern Mediterranean,Syrian Arab Republic,2008,93
+Americas,Paraguay,2008,94
+Europe,The former Yugoslav Republic of Macedonia,2008,94
+Africa,Eritrea,2008,95
+Africa,Gambia,2008,95
+Europe,Georgia,2008,95
+Eastern Mediterranean,Jordan,2008,95
+Europe,Latvia,2008,95
+Africa,Lesotho,2008,95
+Western Pacific,Marshall Islands,2008,95
+Americas,Saint Kitts and Nevis,2008,95
+Europe,Ukraine,2008,95
+Africa,Benin,2008,96
+Europe,Bosnia and Herzegovina,2008,96
+Africa,Eswatini,2008,96
+Americas,Guyana,2008,96
+Africa,Mauritius,2008,96
+Western Pacific,Republic of Korea,2008,96
+Europe,Russian Federation,2008,96
+Europe,Turkey,2008,96
+Europe,Uzbekistan,2008,96
+Western Pacific,China,2008,97
+South-East Asia,Democratic People's Republic of Korea,2008,97
+Europe,Kazakhstan,2008,97
+Africa,Malawi,2008,97
+Americas,Peru,2008,97
+Eastern Mediterranean,Qatar,2008,97
+Europe,Armenia,2008,98
+Europe,Belarus,2008,98
+Americas,Belize,2008,98
+Europe,Bulgaria,2008,98
+Western Pacific,Cambodia,2008,98
+Americas,Dominica,2008,98
+Americas,Ecuador,2008,98
+Eastern Mediterranean,Egypt,2008,98
+Europe,Estonia,2008,98
+Africa,Kenya,2008,98
+South-East Asia,Maldives,2008,98
+Western Pacific,Mongolia,2008,98
+Europe,Montenegro,2008,98
+Americas,Nicaragua,2008,98
+Americas,Panama,2008,98
+Europe,Portugal,2008,98
+Europe,Republic of Moldova,2008,98
+Western Pacific,Samoa,2008,98
+Eastern Mediterranean,Saudi Arabia,2008,98
+Africa,Senegal,2008,98
+Europe,Slovakia,2008,98
+Eastern Mediterranean,United Arab Emirates,2008,98
+Europe,Albania,2008,99
+Africa,Algeria,2008,99
+Americas,Argentina,2008,99
+South-East Asia,Bangladesh,2008,99
+South-East Asia,Bhutan,2008,99
+Africa,Botswana,2008,99
+Americas,Brazil,2008,99
+Western Pacific,Brunei Darussalam,2008,99
+Africa,Burkina Faso,2008,99
+Africa,Burundi,2008,99
+Africa,Cabo Verde,2008,99
+Americas,Chile,2008,99
+Western Pacific,Cook Islands,2008,99
+Europe,Croatia,2008,99
+Americas,Cuba,2008,99
+Europe,Czechia,2008,99
+Americas,El Salvador,2008,99
+Western Pacific,Fiji,2008,99
+Africa,Ghana,2008,99
+Americas,Guatemala,2008,99
+Americas,Honduras,2008,99
+Europe,Hungary,2008,99
+Eastern Mediterranean,Iran (Islamic Republic of),2008,99
+Eastern Mediterranean,Kuwait,2008,99
+Europe,Kyrgyzstan,2008,99
+Eastern Mediterranean,Libya,2008,99
+Europe,Lithuania,2008,99
+Western Pacific,Malaysia,2008,99
+Americas,Mexico,2008,99
+Eastern Mediterranean,Morocco,2008,99
+Western Pacific,Nauru,2008,99
+Western Pacific,Niue,2008,99
+Eastern Mediterranean,Oman,2008,99
+Europe,Romania,2008,99
+Americas,Saint Lucia,2008,99
+Africa,Sao Tome and Principe,2008,99
+Europe,Serbia,2008,99
+Africa,Seychelles,2008,99
+Western Pacific,Singapore,2008,99
+South-East Asia,Sri Lanka,2008,99
+South-East Asia,Thailand,2008,99
+Western Pacific,Tonga,2008,99
+Eastern Mediterranean,Tunisia,2008,99
+Europe,Turkmenistan,2008,99
+Western Pacific,Tuvalu,2008,99
+Americas,Uruguay,2008,99
+Europe,Sweden,2007,23
+Europe,Ireland,2007,33
+Eastern Mediterranean,Somalia,2007,38
+Africa,Chad,2007,44
+Africa,Nigeria,2007,53
+Western Pacific,Lao People's Democratic Republic,2007,56
+Eastern Mediterranean,Afghanistan,2007,60
+Eastern Mediterranean,Yemen,2007,64
+Africa,Ethiopia,2007,69
+Africa,Equatorial Guinea,2007,72
+Africa,Niger,2007,73
+Africa,Central African Republic,2007,74
+South-East Asia,Timor-Leste,2007,74
+Africa,Angola,2007,75
+Africa,Comoros,2007,77
+Africa,Liberia,2007,77
+Eastern Mediterranean,Pakistan,2007,77
+Europe,France,2007,78
+Americas,Haiti,2007,78
+Africa,South Africa,2007,79
+Africa,Democratic Republic of the Congo,2007,80
+Western Pacific,Papua New Guinea,2007,81
+Western Pacific,Micronesia (Federated States of),2007,82
+Africa,Sierra Leone,2007,82
+Americas,Venezuela (Bolivarian Republic of),2007,82
+South-East Asia,Indonesia,2007,83
+Eastern Mediterranean,Sudan,2007,83
+Europe,Tajikistan,2007,83
+Western Pacific,Vanuatu,2007,83
+Africa,Guinea,2007,84
+Africa,Congo,2007,86
+Africa,Mali,2007,86
+Americas,Bolivia (Plurinational State of),2007,87
+South-East Asia,India,2007,87
+Americas,Jamaica,2007,87
+Africa,Uganda,2007,87
+Africa,Zimbabwe,2007,87
+Europe,Azerbaijan,2007,88
+Americas,Guatemala,2007,88
+Africa,Cameroon,2007,89
+Europe,Monaco,2007,89
+South-East Asia,Myanmar,2007,89
+South-East Asia,Nepal,2007,89
+Africa,Rwanda,2007,89
+Africa,United Republic of Tanzania,2007,89
+Western Pacific,Cambodia,2007,90
+Eastern Mediterranean,Djibouti,2007,90
+Americas,Dominica,2007,90
+Eastern Mediterranean,Jordan,2007,90
+Western Pacific,Kiribati,2007,90
+Africa,Mozambique,2007,90
+Western Pacific,Philippines,2007,90
+Americas,Costa Rica,2007,91
+Western Pacific,Samoa,2007,91
+Africa,Togo,2007,91
+Africa,Zambia,2007,91
+Americas,Dominican Republic,2007,92
+Africa,Gabon,2007,92
+Africa,Guinea-Bissau,2007,92
+Eastern Mediterranean,Iraq,2007,92
+Africa,Kenya,2007,92
+Western Pacific,Marshall Islands,2007,92
+Africa,Mauritania,2007,92
+Americas,Colombia,2007,93
+Europe,Poland,2007,93
+Americas,Saint Vincent and the Grenadines,2007,93
+Eastern Mediterranean,Syrian Arab Republic,2007,93
+Europe,Armenia,2007,94
+South-East Asia,Bhutan,2007,94
+Western Pacific,China,2007,94
+Africa,Côte d’Ivoire,2007,94
+Western Pacific,Japan,2007,94
+Eastern Mediterranean,Kuwait,2007,94
+Africa,Madagascar,2007,94
+Europe,Turkey,2007,94
+Western Pacific,Viet Nam,2007,94
+Africa,Eswatini,2007,95
+Europe,Latvia,2007,95
+Africa,Lesotho,2007,95
+Africa,Malawi,2007,95
+Africa,Namibia,2007,95
+Europe,The former Yugoslav Republic of Macedonia,2007,95
+Western Pacific,Brunei Darussalam,2007,96
+South-East Asia,Democratic People's Republic of Korea,2007,96
+Europe,Georgia,2007,96
+Eastern Mediterranean,Morocco,2007,96
+Americas,Peru,2007,96
+Eastern Mediterranean,Qatar,2007,96
+Western Pacific,Republic of Korea,2007,96
+Eastern Mediterranean,Saudi Arabia,2007,96
+Africa,Senegal,2007,96
+Africa,Benin,2007,97
+Africa,Burundi,2007,97
+Africa,Gambia,2007,97
+Americas,Guyana,2007,97
+Americas,Panama,2007,97
+Europe,Russian Federation,2007,97
+Americas,Saint Kitts and Nevis,2007,97
+Europe,Albania,2007,98
+South-East Asia,Bangladesh,2007,98
+Europe,Belarus,2007,98
+Europe,Bosnia and Herzegovina,2007,98
+Europe,Bulgaria,2007,98
+Americas,Chile,2007,98
+Eastern Mediterranean,Egypt,2007,98
+Europe,Estonia,2007,98
+Europe,Kyrgyzstan,2007,98
+South-East Asia,Maldives,2007,98
+Africa,Mauritius,2007,98
+Europe,Montenegro,2007,98
+Americas,Nicaragua,2007,98
+Americas,Paraguay,2007,98
+Europe,Portugal,2007,98
+Europe,Republic of Moldova,2007,98
+Africa,Sao Tome and Principe,2007,98
+Europe,Serbia,2007,98
+Europe,Slovakia,2007,98
+Western Pacific,Solomon Islands,2007,98
+Europe,Ukraine,2007,98
+Eastern Mediterranean,United Arab Emirates,2007,98
+Africa,Algeria,2007,99
+Americas,Argentina,2007,99
+Americas,Belize,2007,99
+Africa,Botswana,2007,99
+Americas,Brazil,2007,99
+Africa,Burkina Faso,2007,99
+Africa,Cabo Verde,2007,99
+Western Pacific,Cook Islands,2007,99
+Europe,Croatia,2007,99
+Americas,Cuba,2007,99
+Europe,Czechia,2007,99
+Americas,Ecuador,2007,99
+Americas,El Salvador,2007,99
+Africa,Eritrea,2007,99
+Western Pacific,Fiji,2007,99
+Africa,Ghana,2007,99
+Americas,Honduras,2007,99
+Europe,Hungary,2007,99
+Eastern Mediterranean,Iran (Islamic Republic of),2007,99
+Europe,Kazakhstan,2007,99
+Eastern Mediterranean,Libya,2007,99
+Europe,Lithuania,2007,99
+Western Pacific,Malaysia,2007,99
+Americas,Mexico,2007,99
+Western Pacific,Mongolia,2007,99
+Western Pacific,Nauru,2007,99
+Western Pacific,Niue,2007,99
+Eastern Mediterranean,Oman,2007,99
+Europe,Romania,2007,99
+Americas,Saint Lucia,2007,99
+Africa,Seychelles,2007,99
+Western Pacific,Singapore,2007,99
+South-East Asia,Sri Lanka,2007,99
+South-East Asia,Thailand,2007,99
+Western Pacific,Tonga,2007,99
+Eastern Mediterranean,Tunisia,2007,99
+Europe,Turkmenistan,2007,99
+Western Pacific,Tuvalu,2007,99
+Americas,Uruguay,2007,99
+Europe,Uzbekistan,2007,99
+Europe,Sweden,2006,21
+Europe,Ireland,2006,31
+Eastern Mediterranean,Somalia,2006,40
+Africa,Nigeria,2006,52
+Africa,Angola,2006,54
+Western Pacific,Micronesia (Federated States of),2006,55
+Africa,Chad,2006,56
+Eastern Mediterranean,Afghanistan,2006,60
+Western Pacific,Lao People's Democratic Republic,2006,61
+Africa,Ethiopia,2006,66
+Eastern Mediterranean,Yemen,2006,67
+Africa,Niger,2006,69
+Africa,Democratic Republic of the Congo,2006,72
+Africa,Equatorial Guinea,2006,72
+Africa,Central African Republic,2006,74
+South-East Asia,Timor-Leste,2006,74
+Americas,Haiti,2006,75
+Africa,Côte d’Ivoire,2006,77
+Africa,Liberia,2006,77
+Eastern Mediterranean,Pakistan,2006,77
+Eastern Mediterranean,Sudan,2006,77
+Africa,South Africa,2006,79
+Africa,Guinea,2006,81
+Western Pacific,Vanuatu,2006,81
+Europe,France,2006,83
+Africa,Sierra Leone,2006,83
+Africa,Uganda,2006,83
+Americas,Venezuela (Bolivarian Republic of),2006,83
+Africa,Comoros,2006,84
+Africa,Congo,2006,84
+Eastern Mediterranean,Kuwait,2006,84
+Western Pacific,Samoa,2006,84
+Africa,Zimbabwe,2006,84
+South-East Asia,Myanmar,2006,85
+Europe,Azerbaijan,2006,86
+South-East Asia,India,2006,86
+Africa,Mali,2006,86
+Africa,Mauritania,2006,86
+Americas,Bolivia (Plurinational State of),2006,87
+Western Pacific,Cambodia,2006,87
+Americas,Costa Rica,2006,87
+Eastern Mediterranean,Djibouti,2006,88
+South-East Asia,Indonesia,2006,88
+Africa,Namibia,2006,88
+Europe,Turkey,2006,88
+Eastern Mediterranean,Iraq,2006,89
+Europe,Monaco,2006,89
+Africa,Guinea-Bissau,2006,90
+Americas,Jamaica,2006,90
+Africa,Mozambique,2006,90
+Western Pacific,Papua New Guinea,2006,90
+Africa,United Republic of Tanzania,2006,90
+Europe,Armenia,2006,91
+Western Pacific,Kiribati,2006,91
+Western Pacific,Philippines,2006,91
+Eastern Mediterranean,Syrian Arab Republic,2006,91
+South-East Asia,Bhutan,2006,92
+Western Pacific,China,2006,92
+Africa,Gabon,2006,92
+Africa,Kenya,2006,92
+Western Pacific,Marshall Islands,2006,92
+Europe,The former Yugoslav Republic of Macedonia,2006,92
+Africa,Zambia,2006,92
+Africa,Benin,2006,93
+Americas,El Salvador,2006,93
+South-East Asia,Nepal,2006,93
+Europe,Tajikistan,2006,93
+Africa,Eswatini,2006,94
+Europe,Poland,2006,94
+Americas,Saint Lucia,2006,94
+Africa,Senegal,2006,94
+Americas,Dominican Republic,2006,95
+Europe,Georgia,2006,95
+Eastern Mediterranean,Jordan,2006,95
+Europe,Latvia,2006,95
+Africa,Lesotho,2006,95
+Africa,Madagascar,2006,95
+Eastern Mediterranean,Morocco,2006,95
+Eastern Mediterranean,Saudi Arabia,2006,95
+Western Pacific,Viet Nam,2006,95
+Africa,Cameroon,2006,96
+Americas,Colombia,2006,96
+South-East Asia,Democratic People's Republic of Korea,2006,96
+Americas,Guatemala,2006,96
+Americas,Guyana,2006,96
+Americas,Peru,2006,96
+Africa,Togo,2006,96
+Europe,Albania,2006,97
+South-East Asia,Bangladesh,2006,97
+Americas,Belize,2006,97
+Europe,Bosnia and Herzegovina,2006,97
+Africa,Gambia,2006,97
+Americas,Honduras,2006,97
+Africa,Mauritius,2006,97
+Europe,Russian Federation,2006,97
+Europe,Ukraine,2006,97
+Europe,Bulgaria,2006,98
+Africa,Burundi,2006,98
+Americas,Chile,2006,98
+Europe,Finland,2006,98
+Western Pacific,Malaysia,2006,98
+Western Pacific,Mongolia,2006,98
+Europe,Montenegro,2006,98
+Americas,Nicaragua,2006,98
+Americas,Panama,2006,98
+Western Pacific,Republic of Korea,2006,98
+Africa,Rwanda,2006,98
+Africa,Sao Tome and Principe,2006,98
+Western Pacific,Singapore,2006,98
+Europe,Slovakia,2006,98
+Eastern Mediterranean,United Arab Emirates,2006,98
+Africa,Algeria,2006,99
+Americas,Argentina,2006,99
+Europe,Belarus,2006,99
+Africa,Botswana,2006,99
+Americas,Brazil,2006,99
+Western Pacific,Brunei Darussalam,2006,99
+Africa,Burkina Faso,2006,99
+Africa,Cabo Verde,2006,99
+Western Pacific,Cook Islands,2006,99
+Europe,Croatia,2006,99
+Americas,Cuba,2006,99
+Europe,Czechia,2006,99
+Americas,Dominica,2006,99
+Americas,Ecuador,2006,99
+Eastern Mediterranean,Egypt,2006,99
+Africa,Eritrea,2006,99
+Europe,Estonia,2006,99
+Western Pacific,Fiji,2006,99
+Africa,Ghana,2006,99
+Europe,Hungary,2006,99
+Eastern Mediterranean,Iran (Islamic Republic of),2006,99
+Europe,Kazakhstan,2006,99
+Europe,Kyrgyzstan,2006,99
+Eastern Mediterranean,Libya,2006,99
+Europe,Lithuania,2006,99
+Africa,Malawi,2006,99
+South-East Asia,Maldives,2006,99
+Americas,Mexico,2006,99
+Western Pacific,Nauru,2006,99
+Western Pacific,Niue,2006,99
+Eastern Mediterranean,Oman,2006,99
+Americas,Paraguay,2006,99
+Europe,Portugal,2006,99
+Eastern Mediterranean,Qatar,2006,99
+Europe,Republic of Moldova,2006,99
+Europe,Romania,2006,99
+Americas,Saint Kitts and Nevis,2006,99
+Americas,Saint Vincent and the Grenadines,2006,99
+Europe,Serbia,2006,99
+Africa,Seychelles,2006,99
+Western Pacific,Solomon Islands,2006,99
+South-East Asia,Sri Lanka,2006,99
+South-East Asia,Thailand,2006,99
+Western Pacific,Tonga,2006,99
+Eastern Mediterranean,Tunisia,2006,99
+Europe,Turkmenistan,2006,99
+Western Pacific,Tuvalu,2006,99
+Americas,Uruguay,2006,99
+Europe,Uzbekistan,2006,99
+Europe,Sweden,2005,20
+Europe,Ireland,2005,31
+Africa,Chad,2005,41
+Africa,Nigeria,2005,49
+Eastern Mediterranean,Somalia,2005,50
+Africa,Angola,2005,51
+Eastern Mediterranean,Afghanistan,2005,57
+Africa,Ethiopia,2005,64
+Africa,Niger,2005,64
+Western Pacific,Lao People's Democratic Republic,2005,65
+Eastern Mediterranean,Yemen,2005,66
+Europe,Kazakhstan,2005,69
+Western Pacific,Micronesia (Federated States of),2005,70
+South-East Asia,Timor-Leste,2005,70
+Africa,Democratic Republic of the Congo,2005,72
+Africa,Equatorial Guinea,2005,72
+Eastern Mediterranean,Sudan,2005,72
+Africa,Congo,2005,73
+Africa,Central African Republic,2005,74
+Americas,Haiti,2005,75
+Africa,Liberia,2005,76
+South-East Asia,Myanmar,2005,76
+Africa,South Africa,2005,76
+Eastern Mediterranean,Pakistan,2005,78
+Africa,Comoros,2005,80
+Eastern Mediterranean,Djibouti,2005,80
+Africa,Guinea,2005,80
+Africa,Zimbabwe,2005,80
+Europe,France,2005,81
+Western Pacific,Vanuatu,2005,81
+Europe,Azerbaijan,2005,82
+Africa,Mali,2005,83
+Americas,El Salvador,2005,84
+Africa,Côte d’Ivoire,2005,85
+Africa,Kenya,2005,85
+Africa,Sierra Leone,2005,85
+Western Pacific,China,2005,86
+South-East Asia,India,2005,86
+South-East Asia,Indonesia,2005,86
+Western Pacific,Samoa,2005,86
+Western Pacific,Cambodia,2005,87
+South-East Asia,Nepal,2005,87
+Africa,Benin,2005,88
+Americas,Bolivia (Plurinational State of),2005,88
+Americas,Costa Rica,2005,88
+Americas,Nicaragua,2005,88
+Europe,Turkey,2005,88
+Africa,Burundi,2005,89
+Africa,Guinea-Bissau,2005,89
+Eastern Mediterranean,Jordan,2005,89
+Europe,Monaco,2005,89
+Europe,Portugal,2005,89
+Africa,Cameroon,2005,90
+Africa,Mozambique,2005,90
+Western Pacific,Nauru,2005,90
+Western Pacific,Papua New Guinea,2005,90
+Eastern Mediterranean,Syrian Arab Republic,2005,90
+Africa,Uganda,2005,90
+Africa,Mauritania,2005,91
+Western Pacific,Philippines,2005,91
+Africa,Rwanda,2005,91
+Africa,United Republic of Tanzania,2005,91
+South-East Asia,Bhutan,2005,92
+Africa,Gabon,2005,92
+Eastern Mediterranean,Iraq,2005,92
+Africa,Madagascar,2005,92
+Africa,Senegal,2005,92
+Africa,Zambia,2005,92
+Africa,Eswatini,2005,93
+Western Pacific,Kiribati,2005,93
+Western Pacific,Marshall Islands,2005,93
+Europe,Uzbekistan,2005,93
+Europe,Armenia,2005,94
+Western Pacific,Brunei Darussalam,2005,94
+Americas,Colombia,2005,94
+South-East Asia,Democratic People's Republic of Korea,2005,94
+Europe,Poland,2005,94
+Europe,Bosnia and Herzegovina,2005,95
+Americas,Chile,2005,95
+Europe,Georgia,2005,95
+Americas,Jamaica,2005,95
+Eastern Mediterranean,Morocco,2005,95
+Africa,Namibia,2005,95
+Americas,Peru,2005,95
+Americas,Saint Vincent and the Grenadines,2005,95
+Americas,Venezuela (Bolivarian Republic of),2005,95
+Western Pacific,Viet Nam,2005,95
+Americas,Belize,2005,96
+Americas,Dominican Republic,2005,96
+Americas,Guatemala,2005,96
+Americas,Guyana,2005,96
+Europe,Kyrgyzstan,2005,96
+Africa,Lesotho,2005,96
+Eastern Mediterranean,Saudi Arabia,2005,96
+Western Pacific,Solomon Islands,2005,96
+Africa,Togo,2005,96
+Europe,Ukraine,2005,96
+South-East Asia,Bangladesh,2005,97
+Europe,Latvia,2005,97
+South-East Asia,Maldives,2005,97
+Western Pacific,Niue,2005,97
+Western Pacific,Republic of Korea,2005,97
+Europe,Republic of Moldova,2005,97
+Europe,Russian Federation,2005,97
+Americas,Saint Lucia,2005,97
+Europe,Tajikistan,2005,97
+Europe,Albania,2005,98
+Africa,Algeria,2005,98
+Europe,Bulgaria,2005,98
+Europe,Croatia,2005,98
+Americas,Dominica,2005,98
+Eastern Mediterranean,Egypt,2005,98
+Western Pacific,Fiji,2005,98
+Europe,Finland,2005,98
+Americas,Honduras,2005,98
+Western Pacific,Malaysia,2005,98
+Eastern Mediterranean,Oman,2005,98
+Americas,Paraguay,2005,98
+Europe,Romania,2005,98
+Africa,Sao Tome and Principe,2005,98
+Europe,Serbia,2005,98
+Western Pacific,Singapore,2005,98
+Europe,Slovakia,2005,98
+Eastern Mediterranean,Tunisia,2005,98
+Eastern Mediterranean,United Arab Emirates,2005,98
+Americas,Argentina,2005,99
+Europe,Belarus,2005,99
+Africa,Botswana,2005,99
+Americas,Brazil,2005,99
+Africa,Burkina Faso,2005,99
+Africa,Cabo Verde,2005,99
+Western Pacific,Cook Islands,2005,99
+Americas,Cuba,2005,99
+Europe,Czechia,2005,99
+Americas,Ecuador,2005,99
+Africa,Eritrea,2005,99
+Europe,Estonia,2005,99
+Africa,Gambia,2005,99
+Africa,Ghana,2005,99
+Europe,Hungary,2005,99
+Eastern Mediterranean,Iran (Islamic Republic of),2005,99
+Eastern Mediterranean,Libya,2005,99
+Europe,Lithuania,2005,99
+Africa,Malawi,2005,99
+Africa,Mauritius,2005,99
+Americas,Mexico,2005,99
+Western Pacific,Mongolia,2005,99
+Americas,Panama,2005,99
+Eastern Mediterranean,Qatar,2005,99
+Europe,The former Yugoslav Republic of Macedonia,2005,99
+Americas,Saint Kitts and Nevis,2005,99
+Africa,Seychelles,2005,99
+South-East Asia,Sri Lanka,2005,99
+South-East Asia,Thailand,2005,99
+Western Pacific,Tonga,2005,99
+Europe,Turkmenistan,2005,99
+Western Pacific,Tuvalu,2005,99
+Americas,Uruguay,2005,99
+Europe,Sweden,2004,18
+Europe,Ireland,2004,30
+Africa,Chad,2004,41
+Africa,Nigeria,2004,45
+Eastern Mediterranean,Somalia,2004,50
+Eastern Mediterranean,Afghanistan,2004,51
+Eastern Mediterranean,Jordan,2004,58
+Africa,Ethiopia,2004,60
+Western Pacific,Lao People's Democratic Republic,2004,60
+Africa,Liberia,2004,60
+Africa,Niger,2004,61
+Western Pacific,Micronesia (Federated States of),2004,62
+Africa,Angola,2004,63
+Eastern Mediterranean,Yemen,2004,64
+Europe,Kazakhstan,2004,65
+Eastern Mediterranean,Sudan,2004,66
+Africa,Democratic Republic of the Congo,2004,68
+Africa,Côte d’Ivoire,2004,71
+Eastern Mediterranean,Djibouti,2004,71
+Africa,Equatorial Guinea,2004,72
+South-East Asia,Timor-Leste,2004,72
+Africa,Central African Republic,2004,73
+Americas,Haiti,2004,74
+Africa,Mali,2004,76
+Africa,Zimbabwe,2004,76
+Eastern Mediterranean,Pakistan,2004,78
+Africa,South Africa,2004,78
+Africa,Comoros,2004,79
+Africa,Guinea,2004,79
+South-East Asia,India,2004,80
+Western Pacific,Vanuatu,2004,80
+Europe,Azerbaijan,2004,82
+Africa,Cameroon,2004,83
+Europe,Portugal,2004,83
+Africa,Congo,2004,85
+Europe,France,2004,85
+South-East Asia,Indonesia,2004,85
+Africa,Madagascar,2004,85
+South-East Asia,Myanmar,2004,85
+South-East Asia,Nepal,2004,85
+Europe,Turkey,2004,85
+Americas,Bolivia (Plurinational State of),2004,86
+Western Pacific,China,2004,86
+Africa,Rwanda,2004,86
+Africa,Sierra Leone,2004,86
+Africa,Guinea-Bissau,2004,87
+Africa,Kenya,2004,87
+Americas,Nicaragua,2004,88
+Africa,Uganda,2004,88
+Africa,Benin,2004,89
+Europe,Monaco,2004,89
+Western Pacific,Papua New Guinea,2004,89
+Americas,Saint Kitts and Nevis,2004,89
+Americas,Costa Rica,2004,90
+Americas,Jamaica,2004,90
+Africa,Mozambique,2004,90
+Eastern Mediterranean,Syrian Arab Republic,2004,90
+Africa,Burundi,2004,91
+Africa,Gabon,2004,91
+Europe,Georgia,2004,91
+Western Pacific,Marshall Islands,2004,91
+Western Pacific,Philippines,2004,91
+Africa,Togo,2004,91
+Africa,United Republic of Tanzania,2004,91
+South-East Asia,Bhutan,2004,92
+Americas,Colombia,2004,92
+Africa,Eswatini,2004,92
+Africa,Ghana,2004,92
+Western Pacific,Nauru,2004,93
+Western Pacific,Republic of Korea,2004,93
+Western Pacific,Samoa,2004,93
+Africa,Zambia,2004,93
+Americas,El Salvador,2004,94
+Americas,Guyana,2004,94
+Eastern Mediterranean,Iraq,2004,94
+Western Pacific,Kiribati,2004,94
+Africa,Mauritania,2004,94
+Africa,Namibia,2004,94
+Europe,Poland,2004,94
+Europe,The former Yugoslav Republic of Macedonia,2004,94
+Europe,Bosnia and Herzegovina,2004,95
+Western Pacific,Cambodia,2004,95
+Americas,Chile,2004,95
+South-East Asia,Democratic People's Republic of Korea,2004,95
+Eastern Mediterranean,Morocco,2004,95
+Americas,Peru,2004,95
+Eastern Mediterranean,Saudi Arabia,2004,95
+Africa,Senegal,2004,95
+Europe,Tajikistan,2004,95
+Europe,Armenia,2004,96
+South-East Asia,Bangladesh,2004,96
+Africa,Lesotho,2004,96
+Western Pacific,Niue,2004,96
+Europe,Russian Federation,2004,96
+Europe,Slovenia,2004,96
+Americas,Venezuela (Bolivarian Republic of),2004,96
+Western Pacific,Viet Nam,2004,96
+Europe,Albania,2004,97
+Americas,Dominican Republic,2004,97
+Africa,Malawi,2004,97
+Americas,Paraguay,2004,97
+Europe,Serbia,2004,97
+Eastern Mediterranean,Tunisia,2004,97
+Africa,Algeria,2004,98
+Europe,Bulgaria,2004,98
+Europe,Croatia,2004,98
+Eastern Mediterranean,Egypt,2004,98
+Western Pacific,Fiji,2004,98
+Europe,Finland,2004,98
+Americas,Guatemala,2004,98
+Americas,Honduras,2004,98
+Europe,Kyrgyzstan,2004,98
+Europe,Latvia,2004,98
+South-East Asia,Maldives,2004,98
+Western Pacific,Mongolia,2004,98
+Europe,Slovakia,2004,98
+Europe,Ukraine,2004,98
+Eastern Mediterranean,United Arab Emirates,2004,98
+Americas,Argentina,2004,99
+Europe,Belarus,2004,99
+Americas,Belize,2004,99
+Africa,Botswana,2004,99
+Americas,Brazil,2004,99
+Western Pacific,Brunei Darussalam,2004,99
+Africa,Burkina Faso,2004,99
+Africa,Cabo Verde,2004,99
+Western Pacific,Cook Islands,2004,99
+Americas,Cuba,2004,99
+Europe,Czechia,2004,99
+Americas,Dominica,2004,99
+Americas,Ecuador,2004,99
+Africa,Eritrea,2004,99
+Europe,Estonia,2004,99
+Africa,Gambia,2004,99
+Europe,Hungary,2004,99
+Eastern Mediterranean,Iran (Islamic Republic of),2004,99
+Eastern Mediterranean,Libya,2004,99
+Europe,Lithuania,2004,99
+Western Pacific,Malaysia,2004,99
+Africa,Mauritius,2004,99
+Americas,Mexico,2004,99
+Eastern Mediterranean,Oman,2004,99
+Americas,Panama,2004,99
+Eastern Mediterranean,Qatar,2004,99
+Europe,Republic of Moldova,2004,99
+Europe,Romania,2004,99
+Americas,Saint Lucia,2004,99
+Americas,Saint Vincent and the Grenadines,2004,99
+Africa,Sao Tome and Principe,2004,99
+Africa,Seychelles,2004,99
+Western Pacific,Singapore,2004,99
+Western Pacific,Solomon Islands,2004,99
+South-East Asia,Sri Lanka,2004,99
+South-East Asia,Thailand,2004,99
+Western Pacific,Tonga,2004,99
+Europe,Turkmenistan,2004,99
+Western Pacific,Tuvalu,2004,99
+Americas,Uruguay,2004,99
+Europe,Uzbekistan,2004,99
+Europe,Sweden,2003,17
+Africa,Chad,2003,40
+Africa,Nigeria,2003,42
+Eastern Mediterranean,Afghanistan,2003,44
+Africa,Angola,2003,54
+Africa,Niger,2003,58
+Africa,Ethiopia,2003,59
+Africa,Congo,2003,60
+Africa,Democratic Republic of the Congo,2003,61
+Eastern Mediterranean,Djibouti,2003,63
+Africa,Liberia,2003,64
+Western Pacific,Micronesia (Federated States of),2003,64
+Western Pacific,Lao People's Democratic Republic,2003,65
+Eastern Mediterranean,Somalia,2003,65
+Eastern Mediterranean,Yemen,2003,66
+Eastern Mediterranean,Jordan,2003,67
+Eastern Mediterranean,Sudan,2003,69
+Africa,Central African Republic,2003,72
+Africa,Equatorial Guinea,2003,72
+South-East Asia,Timor-Leste,2003,72
+Western Pacific,Samoa,2003,73
+Americas,Haiti,2003,74
+Africa,Mali,2003,74
+Western Pacific,Cambodia,2003,76
+South-East Asia,India,2003,77
+Africa,Madagascar,2003,77
+Africa,Senegal,2003,77
+Africa,Côte d’Ivoire,2003,78
+Africa,Zimbabwe,2003,78
+Africa,Comoros,2003,79
+Africa,Togo,2003,79
+Africa,Guinea,2003,80
+South-East Asia,Myanmar,2003,80
+Eastern Mediterranean,Pakistan,2003,80
+Western Pacific,Vanuatu,2003,80
+Europe,Portugal,2003,81
+Africa,South Africa,2003,81
+Africa,Cameroon,2003,82
+Europe,Azerbaijan,2003,83
+Africa,Burkina Faso,2003,83
+South-East Asia,Indonesia,2003,83
+Europe,France,2003,84
+Africa,Guinea-Bissau,2003,84
+Western Pacific,China,2003,85
+Western Pacific,Philippines,2003,86
+Americas,Costa Rica,2003,87
+Europe,Georgia,2003,87
+Africa,Kenya,2003,87
+Western Pacific,Republic of Korea,2003,87
+Americas,Saint Vincent and the Grenadines,2003,87
+Africa,Uganda,2003,87
+South-East Asia,Democratic People's Republic of Korea,2003,88
+Americas,Jamaica,2003,88
+Americas,Paraguay,2003,88
+Africa,Rwanda,2003,88
+Europe,Turkey,2003,88
+Europe,Monaco,2003,89
+Western Pacific,Papua New Guinea,2003,89
+Africa,Sierra Leone,2003,89
+Africa,Benin,2003,90
+Africa,Burundi,2003,90
+Europe,Ireland,2003,90
+Africa,Mozambique,2003,90
+Eastern Mediterranean,Syrian Arab Republic,2003,90
+Americas,El Salvador,2003,91
+Africa,Eswatini,2003,91
+Africa,Gabon,2003,91
+Americas,Honduras,2003,91
+Western Pacific,Kiribati,2003,91
+Africa,Malawi,2003,91
+South-East Asia,Nepal,2003,91
+Africa,United Republic of Tanzania,2003,91
+Americas,Venezuela (Bolivarian Republic of),2003,91
+Europe,Armenia,2003,92
+Africa,Ghana,2003,92
+Eastern Mediterranean,Morocco,2003,92
+Africa,Namibia,2003,92
+South-East Asia,Bangladesh,2003,93
+South-East Asia,Bhutan,2003,93
+Western Pacific,Marshall Islands,2003,93
+Europe,Poland,2003,93
+Western Pacific,Solomon Islands,2003,93
+Eastern Mediterranean,Tunisia,2003,93
+Africa,Zambia,2003,93
+Europe,Bosnia and Herzegovina,2003,94
+Eastern Mediterranean,Iraq,2003,94
+Americas,Nicaragua,2003,94
+Americas,Peru,2003,94
+Eastern Mediterranean,Saudi Arabia,2003,94
+Europe,Serbia,2003,94
+Europe,Albania,2003,95
+Western Pacific,Brunei Darussalam,2003,95
+Americas,Chile,2003,95
+Americas,Dominican Republic,2003,95
+Americas,Guyana,2003,95
+Europe,The former Yugoslav Republic of Macedonia,2003,95
+Americas,Saint Lucia,2003,95
+Americas,Bolivia (Plurinational State of),2003,96
+Africa,Lesotho,2003,96
+Africa,Mauritania,2003,96
+Americas,Colombia,2003,97
+Africa,Eritrea,2003,97
+Western Pacific,Fiji,2003,97
+Americas,Guatemala,2003,97
+Europe,Latvia,2003,97
+Western Pacific,Nauru,2003,97
+Europe,Russian Federation,2003,97
+Europe,Slovenia,2003,97
+Western Pacific,Viet Nam,2003,97
+Africa,Algeria,2003,98
+Europe,Bulgaria,2003,98
+Africa,Cabo Verde,2003,98
+Europe,Croatia,2003,98
+Europe,Czechia,2003,98
+Eastern Mediterranean,Egypt,2003,98
+Europe,Finland,2003,98
+South-East Asia,Maldives,2003,98
+Western Pacific,Mongolia,2003,98
+Eastern Mediterranean,Oman,2003,98
+Europe,Slovakia,2003,98
+Europe,Tajikistan,2003,98
+Europe,Ukraine,2003,98
+Eastern Mediterranean,United Arab Emirates,2003,98
+Americas,Argentina,2003,99
+Europe,Belarus,2003,99
+Americas,Belize,2003,99
+Africa,Botswana,2003,99
+Americas,Brazil,2003,99
+Western Pacific,Cook Islands,2003,99
+Americas,Cuba,2003,99
+Americas,Dominica,2003,99
+Americas,Ecuador,2003,99
+Europe,Estonia,2003,99
+Africa,Gambia,2003,99
+Europe,Hungary,2003,99
+Eastern Mediterranean,Iran (Islamic Republic of),2003,99
+Europe,Kazakhstan,2003,99
+Europe,Kyrgyzstan,2003,99
+Eastern Mediterranean,Libya,2003,99
+Europe,Lithuania,2003,99
+Western Pacific,Malaysia,2003,99
+Africa,Mauritius,2003,99
+Americas,Mexico,2003,99
+Western Pacific,Niue,2003,99
+Americas,Panama,2003,99
+Eastern Mediterranean,Qatar,2003,99
+Europe,Republic of Moldova,2003,99
+Europe,Romania,2003,99
+Americas,Saint Kitts and Nevis,2003,99
+Africa,Sao Tome and Principe,2003,99
+Africa,Seychelles,2003,99
+Western Pacific,Singapore,2003,99
+South-East Asia,Sri Lanka,2003,99
+South-East Asia,Thailand,2003,99
+Western Pacific,Tonga,2003,99
+Europe,Turkmenistan,2003,99
+Western Pacific,Tuvalu,2003,99
+Americas,Uruguay,2003,99
+Europe,Uzbekistan,2003,99
+Europe,Sweden,2002,16
+Eastern Mediterranean,Jordan,2002,29
+Africa,Nigeria,2002,38
+Eastern Mediterranean,Afghanistan,2002,46
+Africa,Chad,2002,46
+Africa,Democratic Republic of the Congo,2002,50
+Africa,Congo,2002,51
+Eastern Mediterranean,Djibouti,2002,52
+Western Pacific,Micronesia (Federated States of),2002,52
+Africa,Niger,2002,56
+Africa,Ethiopia,2002,58
+Eastern Mediterranean,Somalia,2002,60
+Western Pacific,Cambodia,2002,63
+Western Pacific,Lao People's Democratic Republic,2002,65
+Eastern Mediterranean,Sudan,2002,65
+Africa,Liberia,2002,69
+Africa,Senegal,2002,70
+Africa,Central African Republic,2002,71
+Africa,Equatorial Guinea,2002,72
+Americas,Haiti,2002,73
+Africa,Madagascar,2002,73
+Eastern Mediterranean,Yemen,2002,73
+South-East Asia,India,2002,75
+South-East Asia,Timor-Leste,2002,75
+Africa,Angola,2002,76
+Africa,Sierra Leone,2002,76
+Africa,Malawi,2002,78
+Africa,Cameroon,2002,79
+Africa,Côte d’Ivoire,2002,79
+Africa,Guinea,2002,80
+Western Pacific,Vanuatu,2002,80
+Africa,Zimbabwe,2002,80
+Africa,Namibia,2002,81
+Europe,Portugal,2002,81
+Africa,Rwanda,2002,81
+Africa,Togo,2002,81
+Europe,Azerbaijan,2002,82
+Africa,Guinea-Bissau,2002,82
+South-East Asia,Indonesia,2002,82
+Africa,Mali,2002,82
+South-East Asia,Myanmar,2002,82
+Eastern Mediterranean,Pakistan,2002,82
+South-East Asia,Bhutan,2002,83
+Americas,Paraguay,2002,83
+Western Pacific,Papua New Guinea,2002,84
+Africa,South Africa,2002,84
+Western Pacific,China,2002,85
+Europe,France,2002,85
+South-East Asia,Nepal,2002,85
+Western Pacific,Philippines,2002,85
+Africa,Uganda,2002,85
+Americas,Colombia,2002,87
+Africa,Mauritius,2002,87
+Africa,Mozambique,2002,87
+Western Pacific,Solomon Islands,2002,87
+Africa,Burundi,2002,88
+Western Pacific,Kiribati,2002,88
+Africa,United Republic of Tanzania,2002,88
+Western Pacific,Republic of Korea,2002,89
+Europe,Turkey,2002,89
+Africa,Benin,2002,90
+Africa,Burkina Faso,2002,90
+Africa,Comoros,2002,90
+Africa,Eswatini,2002,90
+Africa,Gabon,2002,90
+Europe,Ireland,2002,90
+Americas,Jamaica,2002,90
+Africa,Lesotho,2002,90
+Western Pacific,Marshall Islands,2002,90
+Eastern Mediterranean,Syrian Arab Republic,2002,90
+Americas,Venezuela (Bolivarian Republic of),2002,90
+Europe,Bosnia and Herzegovina,2002,91
+Americas,Costa Rica,2002,91
+Europe,Georgia,2002,91
+Americas,Guyana,2002,91
+Africa,Kenya,2002,91
+Europe,The former Yugoslav Republic of Macedonia,2002,91
+Americas,Saint Vincent and the Grenadines,2002,91
+Europe,Serbia,2002,91
+Eastern Mediterranean,Tunisia,2002,91
+Americas,El Salvador,2002,92
+Africa,Ghana,2002,92
+Europe,Monaco,2002,92
+Eastern Mediterranean,Morocco,2002,92
+Americas,Peru,2002,92
+Americas,Bolivia (Plurinational State of),2002,93
+Americas,Nicaragua,2002,93
+Europe,Albania,2002,94
+Africa,Eritrea,2002,94
+Americas,Honduras,2002,94
+Eastern Mediterranean,Iraq,2002,94
+Africa,Zambia,2002,94
+Americas,Argentina,2002,95
+South-East Asia,Bangladesh,2002,95
+Western Pacific,Brunei Darussalam,2002,95
+Europe,Poland,2002,95
+Americas,Saint Lucia,2002,95
+Western Pacific,Tonga,2002,95
+Americas,Belize,2002,96
+Americas,Chile,2002,96
+South-East Asia,Democratic People's Republic of Korea,2002,96
+Americas,Guatemala,2002,96
+Africa,Sao Tome and Principe,2002,96
+Europe,Armenia,2002,97
+Africa,Cabo Verde,2002,97
+Europe,Czechia,2002,97
+Americas,Dominican Republic,2002,97
+Western Pacific,Fiji,2002,97
+Eastern Mediterranean,Iran (Islamic Republic of),2002,97
+Europe,Russian Federation,2002,97
+Europe,Slovenia,2002,97
+Europe,Tajikistan,2002,97
+Western Pacific,Viet Nam,2002,97
+Africa,Algeria,2002,98
+Europe,Bulgaria,2002,98
+Western Pacific,Cook Islands,2002,98
+Eastern Mediterranean,Egypt,2002,98
+Western Pacific,Malaysia,2002,98
+Western Pacific,Mongolia,2002,98
+Eastern Mediterranean,Oman,2002,98
+Western Pacific,Samoa,2002,98
+Eastern Mediterranean,Saudi Arabia,2002,98
+Western Pacific,Singapore,2002,98
+Europe,Slovakia,2002,98
+Europe,Ukraine,2002,98
+Eastern Mediterranean,United Arab Emirates,2002,98
+Europe,Belarus,2002,99
+Africa,Botswana,2002,99
+Americas,Brazil,2002,99
+Europe,Croatia,2002,99
+Americas,Cuba,2002,99
+Americas,Dominica,2002,99
+Americas,Ecuador,2002,99
+Europe,Estonia,2002,99
+Europe,Finland,2002,99
+Africa,Gambia,2002,99
+Europe,Hungary,2002,99
+Europe,Kazakhstan,2002,99
+Europe,Kyrgyzstan,2002,99
+Europe,Latvia,2002,99
+Eastern Mediterranean,Libya,2002,99
+Europe,Lithuania,2002,99
+South-East Asia,Maldives,2002,99
+Africa,Mauritania,2002,99
+Americas,Mexico,2002,99
+Western Pacific,Nauru,2002,99
+Western Pacific,Niue,2002,99
+Americas,Panama,2002,99
+Eastern Mediterranean,Qatar,2002,99
+Europe,Republic of Moldova,2002,99
+Europe,Romania,2002,99
+Americas,Saint Kitts and Nevis,2002,99
+Africa,Seychelles,2002,99
+South-East Asia,Sri Lanka,2002,99
+South-East Asia,Thailand,2002,99
+Europe,Turkmenistan,2002,99
+Western Pacific,Tuvalu,2002,99
+Americas,Uruguay,2002,99
+Europe,Uzbekistan,2002,99
+Europe,Sweden,2001,16
+Eastern Mediterranean,Djibouti,2001,38
+Western Pacific,Micronesia (Federated States of),2001,39
+Africa,Nigeria,2001,41
+Eastern Mediterranean,Afghanistan,2001,43
+Africa,Democratic Republic of the Congo,2001,43
+Africa,Chad,2001,52
+Africa,Congo,2001,53
+Africa,Niger,2001,53
+Africa,Ethiopia,2001,57
+Western Pacific,Lao People's Democratic Republic,2001,60
+Africa,Sierra Leone,2001,63
+Western Pacific,Cambodia,2001,64
+Eastern Mediterranean,Sudan,2001,67
+Africa,Namibia,2001,69
+Africa,Angola,2001,70
+Africa,Central African Republic,2001,70
+Eastern Mediterranean,Somalia,2001,70
+Americas,Haiti,2001,72
+Africa,Equatorial Guinea,2001,73
+Africa,Liberia,2001,73
+Africa,Madagascar,2001,73
+Africa,Rwanda,2001,74
+South-East Asia,India,2001,75
+Africa,Mali,2001,75
+South-East Asia,Myanmar,2001,75
+Eastern Mediterranean,Pakistan,2001,78
+Eastern Mediterranean,Yemen,2001,78
+Africa,Cameroon,2001,79
+Africa,Guinea-Bissau,2001,79
+Western Pacific,Vanuatu,2001,79
+Africa,Burkina Faso,2001,80
+Africa,Côte d’Ivoire,2001,80
+South-East Asia,Indonesia,2001,80
+South-East Asia,Bhutan,2001,81
+Africa,Guinea,2001,81
+Western Pacific,Papua New Guinea,2001,81
+Western Pacific,Republic of Korea,2001,81
+South-East Asia,Democratic People's Republic of Korea,2001,82
+Europe,Portugal,2001,82
+Africa,Zimbabwe,2001,82
+Europe,Azerbaijan,2001,83
+Africa,Lesotho,2001,83
+Africa,Togo,2001,83
+Africa,Uganda,2001,83
+Europe,France,2001,84
+South-East Asia,Nepal,2001,84
+Western Pacific,China,2001,85
+Western Pacific,Kiribati,2001,85
+Africa,Mozambique,2001,86
+Americas,Paraguay,2001,86
+Africa,South Africa,2001,86
+Africa,Burundi,2001,87
+Americas,Colombia,2001,87
+Americas,Costa Rica,2001,87
+Americas,Peru,2001,87
+Europe,Serbia,2001,88
+Africa,Eswatini,2001,89
+Europe,Ireland,2001,89
+Africa,Mauritius,2001,89
+Africa,Senegal,2001,89
+Americas,Bolivia (Plurinational State of),2001,90
+Africa,Comoros,2001,90
+Africa,Gabon,2001,90
+Africa,Benin,2001,91
+Africa,Eritrea,2001,91
+Eastern Mediterranean,Iran (Islamic Republic of),2001,91
+Eastern Mediterranean,Syrian Arab Republic,2001,91
+Western Pacific,Tonga,2001,91
+Eastern Mediterranean,Tunisia,2001,91
+Africa,United Republic of Tanzania,2001,91
+Americas,Argentina,2001,92
+Americas,El Salvador,2001,92
+Western Pacific,Philippines,2001,92
+Africa,Sao Tome and Principe,2001,92
+Europe,Albania,2001,93
+Americas,Guatemala,2001,93
+Eastern Mediterranean,Iraq,2001,93
+Africa,Malawi,2001,93
+Eastern Mediterranean,Morocco,2001,93
+Europe,Slovakia,2001,93
+Americas,Venezuela (Bolivarian Republic of),2001,93
+Europe,Georgia,2001,94
+Africa,Ghana,2001,94
+Africa,Kenya,2001,94
+Europe,Monaco,2001,94
+Eastern Mediterranean,Saudi Arabia,2001,94
+Western Pacific,Solomon Islands,2001,94
+Africa,Zambia,2001,94
+South-East Asia,Bangladesh,2001,95
+Europe,Bosnia and Herzegovina,2001,95
+Americas,Guyana,2001,95
+Europe,Kazakhstan,2001,95
+Africa,Mauritania,2001,95
+Europe,Poland,2001,95
+Americas,Saint Kitts and Nevis,2001,95
+Europe,Turkey,2001,95
+Europe,Armenia,2001,96
+Africa,Cabo Verde,2001,96
+Americas,Jamaica,2001,96
+Europe,Russian Federation,2001,96
+Europe,Tajikistan,2001,96
+Africa,Algeria,2001,97
+Europe,Croatia,2001,97
+Western Pacific,Fiji,2001,97
+Americas,Nicaragua,2001,97
+Europe,The former Yugoslav Republic of Macedonia,2001,97
+Western Pacific,Viet Nam,2001,97
+Americas,Belize,2001,98
+Europe,Bulgaria,2001,98
+Americas,Chile,2001,98
+Western Pacific,Cook Islands,2001,98
+Europe,Czechia,2001,98
+Americas,Dominican Republic,2001,98
+Eastern Mediterranean,Egypt,2001,98
+Western Pacific,Malaysia,2001,98
+South-East Asia,Maldives,2001,98
+Western Pacific,Mongolia,2001,98
+Eastern Mediterranean,Oman,2001,98
+Western Pacific,Samoa,2001,98
+Western Pacific,Singapore,2001,98
+Europe,Slovenia,2001,98
+South-East Asia,Sri Lanka,2001,98
+Europe,Ukraine,2001,98
+Eastern Mediterranean,United Arab Emirates,2001,98
+Europe,Uzbekistan,2001,98
+Europe,Belarus,2001,99
+Africa,Botswana,2001,99
+Americas,Brazil,2001,99
+Western Pacific,Brunei Darussalam,2001,99
+Americas,Cuba,2001,99
+Americas,Dominica,2001,99
+Americas,Ecuador,2001,99
+Europe,Estonia,2001,99
+Europe,Finland,2001,99
+Africa,Gambia,2001,99
+Americas,Honduras,2001,99
+Europe,Hungary,2001,99
+Europe,Kyrgyzstan,2001,99
+Europe,Latvia,2001,99
+Eastern Mediterranean,Libya,2001,99
+Europe,Lithuania,2001,99
+Western Pacific,Marshall Islands,2001,99
+Americas,Mexico,2001,99
+Western Pacific,Nauru,2001,99
+Western Pacific,Niue,2001,99
+Americas,Panama,2001,99
+Eastern Mediterranean,Qatar,2001,99
+Europe,Republic of Moldova,2001,99
+Europe,Romania,2001,99
+Americas,Saint Lucia,2001,99
+Americas,Saint Vincent and the Grenadines,2001,99
+Africa,Seychelles,2001,99
+South-East Asia,Thailand,2001,99
+Europe,Turkmenistan,2001,99
+Western Pacific,Tuvalu,2001,99
+Americas,Uruguay,2001,99
+Europe,Sweden,2000,16
+Western Pacific,Micronesia (Federated States of),2000,24
+Eastern Mediterranean,Afghanistan,2000,30
+Eastern Mediterranean,Djibouti,2000,34
+Africa,Nigeria,2000,44
+Africa,Chad,2000,49
+Africa,Congo,2000,50
+Africa,Niger,2000,50
+Africa,Angola,2000,53
+Africa,Ethiopia,2000,56
+Eastern Mediterranean,Sudan,2000,56
+Africa,Democratic Republic of the Congo,2000,57
+Africa,Central African Republic,2000,66
+Western Pacific,Lao People's Democratic Republic,2000,69
+Africa,Mali,2000,69
+Eastern Mediterranean,Somalia,2000,69
+Americas,Haiti,2000,72
+Africa,Madagascar,2000,72
+Africa,Equatorial Guinea,2000,73
+Western Pacific,Republic of Korea,2000,73
+South-East Asia,India,2000,74
+Eastern Mediterranean,Pakistan,2000,74
+Africa,Sierra Leone,2000,74
+Africa,Guinea-Bissau,2000,77
+Africa,Namibia,2000,77
+Africa,Cameroon,2000,78
+South-East Asia,Democratic People's Republic of Korea,2000,78
+Africa,Liberia,2000,78
+Africa,Mauritania,2000,78
+Western Pacific,Vanuatu,2000,79
+Africa,Côte d’Ivoire,2000,80
+Western Pacific,Kiribati,2000,80
+Europe,Azerbaijan,2000,81
+Africa,Burkina Faso,2000,81
+Western Pacific,Cambodia,2000,81
+Africa,Guinea,2000,81
+South-East Asia,Indonesia,2000,81
+Africa,Rwanda,2000,81
+Africa,Sao Tome and Principe,2000,81
+Europe,Portugal,2000,82
+Africa,Uganda,2000,82
+Eastern Mediterranean,Yemen,2000,82
+Europe,France,2000,83
+Africa,Malawi,2000,83
+Western Pacific,China,2000,84
+Africa,Mozambique,2000,84
+South-East Asia,Nepal,2000,84
+Africa,Togo,2000,84
+Africa,Zimbabwe,2000,84
+Africa,Burundi,2000,85
+Americas,Paraguay,2000,85
+Europe,Serbia,2000,85
+Africa,United Republic of Tanzania,2000,86
+Africa,Eswatini,2000,88
+Africa,Lesotho,2000,88
+Africa,Mauritius,2000,88
+South-East Asia,Myanmar,2000,88
+Western Pacific,Papua New Guinea,2000,88
+Africa,Eritrea,2000,89
+Africa,Gabon,2000,89
+Europe,Ireland,2000,89
+Western Pacific,Marshall Islands,2000,89
+Africa,Senegal,2000,89
+Africa,South Africa,2000,89
+Africa,Comoros,2000,90
+Americas,Dominican Republic,2000,90
+Americas,Colombia,2000,91
+Africa,Kenya,2000,91
+Americas,Saint Lucia,2000,91
+Eastern Mediterranean,Syrian Arab Republic,2000,91
+Africa,Benin,2000,92
+Americas,Bolivia (Plurinational State of),2000,92
+Americas,Costa Rica,2000,92
+Western Pacific,Philippines,2000,92
+Europe,Albania,2000,93
+Europe,Bosnia and Herzegovina,2000,93
+Americas,Chile,2000,93
+Americas,Guyana,2000,93
+Eastern Mediterranean,Iraq,2000,93
+Western Pacific,Nauru,2000,93
+Americas,Peru,2000,93
+South-East Asia,Bangladesh,2000,94
+Americas,Jamaica,2000,94
+Eastern Mediterranean,Saudi Arabia,2000,94
+Europe,Slovakia,2000,94
+Africa,Zambia,2000,94
+Americas,Argentina,2000,95
+Europe,Georgia,2000,95
+Americas,Guatemala,2000,95
+Eastern Mediterranean,Tunisia,2000,95
+Americas,Belize,2000,96
+Africa,Cabo Verde,2000,96
+Western Pacific,Fiji,2000,96
+Europe,Kyrgyzstan,2000,96
+Americas,Nicaragua,2000,96
+Europe,Poland,2000,96
+Europe,Russian Federation,2000,96
+Europe,Turkey,2000,96
+Africa,Algeria,2000,97
+Europe,Armenia,2000,97
+South-East Asia,Bhutan,2000,97
+Europe,Monaco,2000,97
+Western Pacific,Mongolia,2000,97
+Eastern Mediterranean,Morocco,2000,97
+Europe,The former Yugoslav Republic of Macedonia,2000,97
+Western Pacific,Samoa,2000,97
+Europe,Bulgaria,2000,98
+Europe,Croatia,2000,98
+Europe,Czechia,2000,98
+Eastern Mediterranean,Egypt,2000,98
+Europe,Kazakhstan,2000,98
+Eastern Mediterranean,Libya,2000,98
+Eastern Mediterranean,Oman,2000,98
+Europe,Slovenia,2000,98
+South-East Asia,Sri Lanka,2000,98
+Europe,Tajikistan,2000,98
+Europe,Ukraine,2000,98
+Eastern Mediterranean,United Arab Emirates,2000,98
+Europe,Uzbekistan,2000,98
+Western Pacific,Viet Nam,2000,98
+Europe,Belarus,2000,99
+Africa,Botswana,2000,99
+Americas,Brazil,2000,99
+Western Pacific,Brunei Darussalam,2000,99
+Western Pacific,Cook Islands,2000,99
+Americas,Cuba,2000,99
+Americas,Dominica,2000,99
+Americas,Ecuador,2000,99
+Americas,El Salvador,2000,99
+Europe,Estonia,2000,99
+Europe,Finland,2000,99
+Africa,Gambia,2000,99
+Africa,Ghana,2000,99
+Americas,Honduras,2000,99
+Europe,Hungary,2000,99
+Eastern Mediterranean,Iran (Islamic Republic of),2000,99
+Europe,Latvia,2000,99
+Europe,Lithuania,2000,99
+Western Pacific,Malaysia,2000,99
+South-East Asia,Maldives,2000,99
+Americas,Mexico,2000,99
+Western Pacific,Niue,2000,99
+Americas,Panama,2000,99
+Eastern Mediterranean,Qatar,2000,99
+Europe,Republic of Moldova,2000,99
+Europe,Romania,2000,99
+Americas,Saint Kitts and Nevis,2000,99
+Americas,Saint Vincent and the Grenadines,2000,99
+Africa,Seychelles,2000,99
+Western Pacific,Singapore,2000,99
+Western Pacific,Solomon Islands,2000,99
+South-East Asia,Thailand,2000,99
+Western Pacific,Tonga,2000,99
+Europe,Turkmenistan,2000,99
+Western Pacific,Tuvalu,2000,99
+Americas,Uruguay,2000,99
+Americas,Venezuela (Bolivarian Republic of),2000,99
+Europe,Sweden,1999,16
+Eastern Mediterranean,Djibouti,1999,26
+Africa,Democratic Republic of the Congo,1999,30
+Eastern Mediterranean,Afghanistan,1999,38
+Africa,Congo,1999,39
+Western Pacific,Micronesia (Federated States of),1999,39
+Africa,Chad,1999,45
+Africa,Nigeria,1999,46
+Africa,Niger,1999,47
+Africa,Angola,1999,49
+Africa,Ethiopia,1999,54
+Africa,Central African Republic,1999,62
+Western Pacific,Lao People's Democratic Republic,1999,63
+Eastern Mediterranean,Sudan,1999,66
+Western Pacific,Kiribati,1999,70
+Eastern Mediterranean,Pakistan,1999,70
+Americas,Haiti,1999,71
+Eastern Mediterranean,Somalia,1999,71
+Africa,Madagascar,1999,72
+South-East Asia,Democratic People's Republic of Korea,1999,73
+Africa,Equatorial Guinea,1999,73
+Africa,Sierra Leone,1999,73
+Africa,Côte d’Ivoire,1999,74
+Africa,Guinea-Bissau,1999,74
+South-East Asia,India,1999,74
+Western Pacific,Republic of Korea,1999,74
+Africa,Mauritania,1999,75
+Africa,Burkina Faso,1999,77
+Western Pacific,Cambodia,1999,78
+Africa,Cameroon,1999,78
+Africa,Mali,1999,78
+Western Pacific,Vanuatu,1999,79
+Eastern Mediterranean,Yemen,1999,79
+Americas,Colombia,1999,80
+Africa,Namibia,1999,80
+Africa,Uganda,1999,80
+Western Pacific,Marshall Islands,1999,81
+Africa,Sao Tome and Principe,1999,81
+Africa,Togo,1999,81
+Europe,Azerbaijan,1999,82
+Africa,Guinea,1999,82
+Africa,Liberia,1999,82
+Western Pacific,Papua New Guinea,1999,82
+Europe,Serbia,1999,82
+Europe,France,1999,83
+South-East Asia,Indonesia,1999,83
+Africa,Mozambique,1999,83
+Africa,Burundi,1999,84
+Western Pacific,China,1999,84
+Americas,Paraguay,1999,85
+Europe,Portugal,1999,85
+Africa,Mauritius,1999,86
+Africa,Zimbabwe,1999,86
+Africa,Benin,1999,87
+Africa,Comoros,1999,87
+Africa,Eswatini,1999,87
+Africa,Malawi,1999,87
+Africa,United Republic of Tanzania,1999,87
+Africa,Kenya,1999,88
+Americas,Costa Rica,1999,89
+Africa,Gabon,1999,89
+Europe,Ireland,1999,89
+Americas,Jamaica,1999,89
+South-East Asia,Bhutan,1999,90
+South-East Asia,Myanmar,1999,90
+Africa,Senegal,1999,90
+Americas,Guyana,1999,91
+Eastern Mediterranean,Syrian Arab Republic,1999,91
+South-East Asia,Bangladesh,1999,92
+Africa,Lesotho,1999,92
+Western Pacific,Philippines,1999,92
+Eastern Mediterranean,Saudi Arabia,1999,92
+Africa,South Africa,1999,92
+Europe,Albania,1999,93
+Europe,Armenia,1999,93
+Americas,Guatemala,1999,93
+Americas,Honduras,1999,93
+Eastern Mediterranean,Iraq,1999,93
+Eastern Mediterranean,Morocco,1999,93
+South-East Asia,Nepal,1999,93
+Europe,Turkey,1999,93
+Africa,Rwanda,1999,94
+Eastern Mediterranean,Tunisia,1999,94
+Americas,Bolivia (Plurinational State of),1999,95
+Africa,Cabo Verde,1999,95
+Americas,Chile,1999,95
+Europe,Georgia,1999,95
+Western Pacific,Nauru,1999,95
+Western Pacific,Viet Nam,1999,95
+Africa,Zambia,1999,95
+Americas,Argentina,1999,96
+Americas,Belize,1999,96
+Europe,Croatia,1999,96
+Western Pacific,Fiji,1999,96
+Europe,Poland,1999,96
+Europe,Russian Federation,1999,96
+Europe,Slovakia,1999,96
+Europe,Slovenia,1999,96
+Africa,Algeria,1999,97
+Western Pacific,Cook Islands,1999,97
+Eastern Mediterranean,Libya,1999,97
+Western Pacific,Mongolia,1999,97
+Americas,Peru,1999,97
+Europe,The former Yugoslav Republic of Macedonia,1999,97
+South-East Asia,Sri Lanka,1999,97
+Western Pacific,Brunei Darussalam,1999,98
+Europe,Czechia,1999,98
+Eastern Mediterranean,Egypt,1999,98
+Africa,Eritrea,1999,98
+Africa,Gambia,1999,98
+Africa,Ghana,1999,98
+South-East Asia,Maldives,1999,98
+Eastern Mediterranean,Oman,1999,98
+Europe,Tajikistan,1999,98
+South-East Asia,Thailand,1999,98
+Eastern Mediterranean,United Arab Emirates,1999,98
+Europe,Uzbekistan,1999,98
+Americas,Venezuela (Bolivarian Republic of),1999,98
+Europe,Belarus,1999,99
+Europe,Bosnia and Herzegovina,1999,99
+Africa,Botswana,1999,99
+Americas,Brazil,1999,99
+Europe,Bulgaria,1999,99
+Americas,Cuba,1999,99
+Americas,Dominica,1999,99
+Americas,Dominican Republic,1999,99
+Americas,Ecuador,1999,99
+Americas,El Salvador,1999,99
+Europe,Estonia,1999,99
+Europe,Finland,1999,99
+Europe,Hungary,1999,99
+Eastern Mediterranean,Iran (Islamic Republic of),1999,99
+Europe,Kazakhstan,1999,99
+Europe,Kyrgyzstan,1999,99
+Europe,Latvia,1999,99
+Europe,Lithuania,1999,99
+Western Pacific,Malaysia,1999,99
+Americas,Mexico,1999,99
+Europe,Monaco,1999,99
+Americas,Nicaragua,1999,99
+Western Pacific,Niue,1999,99
+Americas,Panama,1999,99
+Eastern Mediterranean,Qatar,1999,99
+Europe,Republic of Moldova,1999,99
+Europe,Romania,1999,99
+Americas,Saint Kitts and Nevis,1999,99
+Americas,Saint Lucia,1999,99
+Americas,Saint Vincent and the Grenadines,1999,99
+Western Pacific,Samoa,1999,99
+Africa,Seychelles,1999,99
+Western Pacific,Singapore,1999,99
+Western Pacific,Solomon Islands,1999,99
+Western Pacific,Tonga,1999,99
+Europe,Turkmenistan,1999,99
+Western Pacific,Tuvalu,1999,99
+Europe,Ukraine,1999,99
+Americas,Uruguay,1999,99
+Europe,Sweden,1998,16
+Africa,Democratic Republic of the Congo,1998,25
+Africa,Congo,1998,34
+Eastern Mediterranean,Afghanistan,1998,35
+Eastern Mediterranean,Djibouti,1998,35
+Africa,Chad,1998,45
+Africa,Niger,1998,48
+Africa,Nigeria,1998,49
+Western Pacific,Micronesia (Federated States of),1998,52
+Africa,Ethiopia,1998,54
+Eastern Mediterranean,Somalia,1998,54
+Western Pacific,Lao People's Democratic Republic,1998,56
+Africa,Angola,1998,60
+Eastern Mediterranean,Sudan,1998,61
+Eastern Mediterranean,Pakistan,1998,66
+Eastern Mediterranean,Yemen,1998,66
+Western Pacific,Cambodia,1998,69
+South-East Asia,Democratic People's Republic of Korea,1998,69
+Africa,Central African Republic,1998,70
+Africa,Madagascar,1998,70
+Africa,Togo,1998,70
+Africa,Côte d’Ivoire,1998,71
+Americas,Haiti,1998,72
+South-East Asia,India,1998,73
+Western Pacific,Solomon Islands,1998,74
+Western Pacific,Republic of Korea,1998,75
+Africa,Uganda,1998,75
+Africa,Guinea,1998,76
+Africa,Mauritania,1998,77
+Africa,Guinea-Bissau,1998,78
+Western Pacific,Vanuatu,1998,78
+Europe,Azerbaijan,1998,79
+Africa,Burkina Faso,1998,79
+Africa,Mali,1998,79
+Africa,Cameroon,1998,80
+Africa,Sao Tome and Principe,1998,80
+Europe,France,1998,81
+Western Pacific,Marshall Islands,1998,81
+Africa,Mozambique,1998,81
+South-East Asia,Nepal,1998,81
+Africa,Senegal,1998,81
+Americas,Venezuela (Bolivarian Republic of),1998,82
+Africa,Benin,1998,83
+Western Pacific,China,1998,83
+Africa,United Republic of Tanzania,1998,83
+Africa,Comoros,1998,84
+South-East Asia,Indonesia,1998,84
+Americas,Paraguay,1998,84
+Americas,Bolivia (Plurinational State of),1998,85
+Americas,Colombia,1998,85
+Americas,Jamaica,1998,85
+Africa,Namibia,1998,85
+Americas,Saint Lucia,1998,85
+Africa,Burundi,1998,86
+Americas,Dominican Republic,1998,86
+Africa,Eswatini,1998,86
+Western Pacific,Papua New Guinea,1998,86
+Europe,Albania,1998,87
+Americas,Costa Rica,1998,87
+Africa,Mauritius,1998,87
+Europe,Portugal,1998,88
+Africa,Zimbabwe,1998,88
+Americas,Guatemala,1998,89
+Europe,Ireland,1998,89
+Western Pacific,Nauru,1998,89
+Europe,Serbia,1998,89
+Africa,Gabon,1998,90
+Africa,Ghana,1998,90
+Eastern Mediterranean,Morocco,1998,90
+Europe,The former Yugoslav Republic of Macedonia,1998,90
+South-East Asia,Sri Lanka,1998,90
+South-East Asia,Bangladesh,1998,91
+Eastern Mediterranean,Syrian Arab Republic,1998,91
+Europe,Turkey,1998,91
+Europe,Bosnia and Herzegovina,1998,92
+Americas,Chile,1998,92
+Americas,Guyana,1998,92
+Americas,Nicaragua,1998,92
+Western Pacific,Philippines,1998,92
+Eastern Mediterranean,Saudi Arabia,1998,92
+Americas,Belize,1998,93
+Africa,Lesotho,1998,93
+Europe,Slovakia,1998,93
+Eastern Mediterranean,Tunisia,1998,93
+Western Pacific,Viet Nam,1998,93
+South-East Asia,Bhutan,1998,94
+Africa,Cabo Verde,1998,94
+Europe,Georgia,1998,94
+Eastern Mediterranean,Iraq,1998,94
+Europe,Kyrgyzstan,1998,94
+Africa,South Africa,1998,94
+Africa,Algeria,1998,95
+Europe,Armenia,1998,95
+Western Pacific,Fiji,1998,95
+Western Pacific,Mongolia,1998,95
+South-East Asia,Myanmar,1998,95
+Europe,Russian Federation,1998,95
+Africa,Rwanda,1998,95
+Africa,Zambia,1998,95
+Western Pacific,Brunei Darussalam,1998,96
+Africa,Eritrea,1998,96
+Americas,Honduras,1998,96
+Eastern Mediterranean,Oman,1998,96
+Americas,Peru,1998,96
+Europe,Poland,1998,96
+Europe,Croatia,1998,97
+Western Pacific,Kiribati,1998,97
+Eastern Mediterranean,Libya,1998,97
+Europe,Ukraine,1998,97
+Europe,Uzbekistan,1998,97
+Americas,Argentina,1998,98
+Europe,Bulgaria,1998,98
+Western Pacific,Cook Islands,1998,98
+Europe,Czechia,1998,98
+Americas,Ecuador,1998,98
+Western Pacific,Malaysia,1998,98
+Europe,Republic of Moldova,1998,98
+Western Pacific,Singapore,1998,98
+Europe,Slovenia,1998,98
+Europe,Tajikistan,1998,98
+Europe,Turkmenistan,1998,98
+Eastern Mediterranean,United Arab Emirates,1998,98
+Europe,Belarus,1998,99
+Africa,Botswana,1998,99
+Americas,Brazil,1998,99
+Americas,Cuba,1998,99
+Americas,Dominica,1998,99
+Eastern Mediterranean,Egypt,1998,99
+Americas,El Salvador,1998,99
+Africa,Equatorial Guinea,1998,99
+Europe,Estonia,1998,99
+Europe,Finland,1998,99
+Africa,Gambia,1998,99
+Europe,Hungary,1998,99
+Eastern Mediterranean,Iran (Islamic Republic of),1998,99
+Europe,Kazakhstan,1998,99
+Africa,Kenya,1998,99
+Europe,Latvia,1998,99
+Europe,Lithuania,1998,99
+Africa,Malawi,1998,99
+South-East Asia,Maldives,1998,99
+Americas,Mexico,1998,99
+Europe,Monaco,1998,99
+Western Pacific,Niue,1998,99
+Americas,Panama,1998,99
+Eastern Mediterranean,Qatar,1998,99
+Europe,Romania,1998,99
+Americas,Saint Kitts and Nevis,1998,99
+Americas,Saint Vincent and the Grenadines,1998,99
+Western Pacific,Samoa,1998,99
+Africa,Seychelles,1998,99
+South-East Asia,Thailand,1998,99
+Western Pacific,Tonga,1998,99
+Western Pacific,Tuvalu,1998,99
+Americas,Uruguay,1998,99
+Europe,Sweden,1997,15
+Africa,Democratic Republic of the Congo,1997,25
+Africa,Congo,1997,29
+Africa,Nigeria,1997,29
+Eastern Mediterranean,Somalia,1997,37
+Eastern Mediterranean,Afghanistan,1997,43
+Eastern Mediterranean,Djibouti,1997,43
+Africa,Chad,1997,45
+Western Pacific,Micronesia (Federated States of),1997,48
+Africa,Niger,1997,48
+Africa,Ethiopia,1997,54
+Eastern Mediterranean,Yemen,1997,54
+Africa,Comoros,1997,55
+Western Pacific,Lao People's Democratic Republic,1997,58
+Eastern Mediterranean,Pakistan,1997,62
+South-East Asia,Democratic People's Republic of Korea,1997,64
+Africa,Namibia,1997,65
+Western Pacific,Cambodia,1997,67
+Africa,Madagascar,1997,67
+Africa,Angola,1997,70
+Africa,Sao Tome and Principe,1997,70
+Eastern Mediterranean,Sudan,1997,70
+Europe,Armenia,1997,72
+Americas,Haiti,1997,72
+South-East Asia,India,1997,72
+Africa,Côte d’Ivoire,1997,73
+Western Pacific,Solomon Islands,1997,73
+Africa,Burkina Faso,1997,75
+Africa,Cameroon,1997,75
+Europe,Georgia,1997,76
+Africa,Guinea,1997,76
+Africa,Togo,1997,76
+Europe,Azerbaijan,1997,77
+Africa,Benin,1997,78
+Africa,Central African Republic,1997,78
+Africa,Mauritania,1997,78
+Western Pacific,Nauru,1997,78
+Western Pacific,Vanuatu,1997,78
+Africa,Mozambique,1997,80
+Africa,Senegal,1997,81
+Americas,Costa Rica,1997,82
+Europe,France,1997,82
+Africa,Guinea-Bissau,1997,82
+Africa,Uganda,1997,82
+Western Pacific,China,1997,83
+Africa,Eritrea,1997,83
+Americas,Paraguay,1997,83
+Africa,Mali,1997,84
+Americas,Belize,1997,85
+Western Pacific,Cook Islands,1997,85
+Africa,Eswatini,1997,85
+South-East Asia,Indonesia,1997,85
+Africa,United Republic of Tanzania,1997,85
+South-East Asia,Nepal,1997,86
+Africa,Burundi,1997,87
+Africa,Mauritius,1997,87
+Europe,Portugal,1997,87
+Americas,Bolivia (Plurinational State of),1997,88
+Americas,Dominican Republic,1997,88
+Africa,Ghana,1997,88
+Americas,Guatemala,1997,88
+Western Pacific,Papua New Guinea,1997,88
+Europe,Ireland,1997,89
+Europe,Turkey,1997,89
+Americas,Venezuela (Bolivarian Republic of),1997,89
+Africa,Gabon,1997,90
+Eastern Mediterranean,Iran (Islamic Republic of),1997,91
+Western Pacific,Philippines,1997,91
+Western Pacific,Republic of Korea,1997,91
+Eastern Mediterranean,Saudi Arabia,1997,91
+Eastern Mediterranean,Syrian Arab Republic,1997,91
+South-East Asia,Bangladesh,1997,92
+South-East Asia,Bhutan,1997,92
+Americas,Chile,1997,92
+Africa,Zimbabwe,1997,92
+Africa,Cabo Verde,1997,93
+Europe,Albania,1997,94
+Africa,Algeria,1997,94
+Americas,Guyana,1997,94
+Africa,Lesotho,1997,94
+Western Pacific,Marshall Islands,1997,94
+Eastern Mediterranean,Morocco,1997,94
+South-East Asia,Myanmar,1997,94
+Europe,Russian Federation,1997,94
+Americas,El Salvador,1997,95
+Western Pacific,Fiji,1997,95
+Eastern Mediterranean,Iraq,1997,95
+Europe,Monaco,1997,95
+Americas,Nicaragua,1997,95
+Europe,Slovakia,1997,95
+Africa,Zambia,1997,95
+Africa,Kenya,1997,96
+Western Pacific,Mongolia,1997,96
+Eastern Mediterranean,Oman,1997,96
+Europe,Poland,1997,96
+Africa,Rwanda,1997,96
+Europe,Serbia,1997,96
+South-East Asia,Sri Lanka,1997,96
+Western Pacific,Viet Nam,1997,96
+Europe,Bosnia and Herzegovina,1997,97
+Europe,Bulgaria,1997,97
+Americas,Colombia,1997,97
+Europe,Czechia,1997,97
+Americas,Jamaica,1997,97
+Europe,Kyrgyzstan,1997,97
+Eastern Mediterranean,Libya,1997,97
+Europe,Republic of Moldova,1997,97
+Europe,The former Yugoslav Republic of Macedonia,1997,97
+Europe,Slovenia,1997,97
+Africa,South Africa,1997,97
+Eastern Mediterranean,Tunisia,1997,97
+Europe,Turkmenistan,1997,97
+Europe,Ukraine,1997,97
+Europe,Uzbekistan,1997,97
+Europe,Belarus,1997,98
+Africa,Botswana,1997,98
+Europe,Croatia,1997,98
+Eastern Mediterranean,Egypt,1997,98
+Europe,Lithuania,1997,98
+Western Pacific,Malaysia,1997,98
+Americas,Peru,1997,98
+Americas,Saint Vincent and the Grenadines,1997,98
+Western Pacific,Singapore,1997,98
+Eastern Mediterranean,United Arab Emirates,1997,98
+Americas,Argentina,1997,99
+Americas,Brazil,1997,99
+Western Pacific,Brunei Darussalam,1997,99
+Americas,Cuba,1997,99
+Americas,Dominica,1997,99
+Americas,Ecuador,1997,99
+Africa,Equatorial Guinea,1997,99
+Europe,Estonia,1997,99
+Europe,Finland,1997,99
+Africa,Gambia,1997,99
+Americas,Honduras,1997,99
+Europe,Hungary,1997,99
+Europe,Kazakhstan,1997,99
+Western Pacific,Kiribati,1997,99
+Europe,Latvia,1997,99
+Africa,Malawi,1997,99
+South-East Asia,Maldives,1997,99
+Americas,Mexico,1997,99
+Western Pacific,Niue,1997,99
+Americas,Panama,1997,99
+Eastern Mediterranean,Qatar,1997,99
+Europe,Romania,1997,99
+Americas,Saint Kitts and Nevis,1997,99
+Americas,Saint Lucia,1997,99
+Western Pacific,Samoa,1997,99
+Africa,Seychelles,1997,99
+Europe,Tajikistan,1997,99
+South-East Asia,Thailand,1997,99
+Western Pacific,Tonga,1997,99
+Western Pacific,Tuvalu,1997,99
+Americas,Uruguay,1997,99
+Europe,Sweden,1996,14
+Africa,Democratic Republic of the Congo,1996,25
+Africa,Chad,1996,39
+Africa,Nigeria,1996,43
+Eastern Mediterranean,Somalia,1996,43
+Eastern Mediterranean,Afghanistan,1996,47
+Western Pacific,Micronesia (Federated States of),1996,49
+Africa,Congo,1996,51
+Eastern Mediterranean,Djibouti,1996,51
+Africa,Niger,1996,53
+Africa,Comoros,1996,55
+Africa,Ethiopia,1996,57
+Eastern Mediterranean,Yemen,1996,58
+Eastern Mediterranean,Pakistan,1996,59
+Western Pacific,Lao People's Democratic Republic,1996,61
+Africa,Angola,1996,65
+Africa,Madagascar,1996,67
+Western Pacific,Cambodia,1996,68
+Africa,Côte d’Ivoire,1996,68
+Africa,Guinea-Bissau,1996,68
+Africa,Cameroon,1996,69
+Europe,Georgia,1996,70
+Eastern Mediterranean,Sudan,1996,71
+Americas,Haiti,1996,72
+Western Pacific,Vanuatu,1996,72
+Africa,Burkina Faso,1996,73
+South-East Asia,Democratic People's Republic of Korea,1996,73
+Africa,Eritrea,1996,75
+Europe,Azerbaijan,1996,76
+Americas,Guatemala,1996,76
+Africa,Guinea,1996,77
+Africa,Mozambique,1996,78
+Western Pacific,Nauru,1996,78
+Americas,Dominican Republic,1996,79
+South-East Asia,India,1996,79
+Africa,Mauritania,1996,79
+Africa,Namibia,1996,79
+Africa,Togo,1996,79
+Africa,Benin,1996,80
+Europe,Bosnia and Herzegovina,1996,80
+Africa,Mali,1996,80
+Western Pacific,Papua New Guinea,1996,80
+Africa,United Republic of Tanzania,1996,80
+South-East Asia,Nepal,1996,81
+Africa,Senegal,1996,81
+Europe,Armenia,1996,82
+Europe,France,1996,82
+Africa,Uganda,1996,82
+Americas,Paraguay,1996,83
+Western Pacific,China,1996,84
+Africa,Eswatini,1996,85
+Africa,Sao Tome and Principe,1996,85
+Africa,Central African Republic,1996,86
+Africa,Mauritius,1996,86
+Western Pacific,Philippines,1996,86
+Africa,Ghana,1996,87
+South-East Asia,Indonesia,1996,87
+Europe,Portugal,1996,87
+Americas,Guyana,1996,88
+Europe,Ireland,1996,88
+South-East Asia,Sri Lanka,1996,88
+Americas,Saint Lucia,1996,89
+Europe,Turkey,1996,89
+South-East Asia,Bangladesh,1996,90
+Americas,Belize,1996,90
+Africa,Burundi,1996,90
+Western Pacific,Cook Islands,1996,90
+Africa,Gabon,1996,90
+Western Pacific,Mongolia,1996,90
+Americas,Venezuela (Bolivarian Republic of),1996,90
+Eastern Mediterranean,Saudi Arabia,1996,91
+Eastern Mediterranean,Syrian Arab Republic,1996,91
+Americas,Costa Rica,1996,92
+South-East Asia,Myanmar,1996,92
+Western Pacific,Republic of Korea,1996,92
+Europe,Kazakhstan,1996,93
+Europe,Monaco,1996,93
+Europe,Russian Federation,1996,93
+Africa,Rwanda,1996,93
+Europe,Turkmenistan,1996,93
+Europe,Albania,1996,94
+Africa,Algeria,1996,94
+Africa,Cabo Verde,1996,94
+Americas,Nicaragua,1996,94
+Eastern Mediterranean,Egypt,1996,95
+Africa,Lesotho,1996,95
+Africa,Malawi,1996,95
+Africa,South Africa,1996,95
+Western Pacific,Viet Nam,1996,95
+Europe,Czechia,1996,96
+Eastern Mediterranean,Iran (Islamic Republic of),1996,96
+Eastern Mediterranean,Iraq,1996,96
+Africa,Kenya,1996,96
+Europe,Malta,1996,96
+Eastern Mediterranean,Morocco,1996,96
+Eastern Mediterranean,Oman,1996,96
+Americas,Saint Kitts and Nevis,1996,96
+Europe,Slovakia,1996,96
+Western Pacific,Solomon Islands,1996,96
+Europe,Uzbekistan,1996,96
+Africa,Zambia,1996,96
+Africa,Zimbabwe,1996,96
+Europe,Belarus,1996,97
+Africa,Botswana,1996,97
+Eastern Mediterranean,Libya,1996,97
+Europe,Poland,1996,97
+Europe,Republic of Moldova,1996,97
+Europe,Serbia,1996,97
+Eastern Mediterranean,Tunisia,1996,97
+Europe,Ukraine,1996,97
+South-East Asia,Bhutan,1996,98
+Americas,Bolivia (Plurinational State of),1996,98
+Europe,Bulgaria,1996,98
+Americas,El Salvador,1996,98
+Americas,Jamaica,1996,98
+Europe,Lithuania,1996,98
+Western Pacific,Malaysia,1996,98
+Western Pacific,Marshall Islands,1996,98
+Eastern Mediterranean,Qatar,1996,98
+Europe,The former Yugoslav Republic of Macedonia,1996,98
+Western Pacific,Samoa,1996,98
+Western Pacific,Singapore,1996,98
+Europe,Slovenia,1996,98
+South-East Asia,Thailand,1996,98
+Eastern Mediterranean,United Arab Emirates,1996,98
+Americas,Argentina,1996,99
+Americas,Brazil,1996,99
+Western Pacific,Brunei Darussalam,1996,99
+Americas,Chile,1996,99
+Americas,Colombia,1996,99
+Europe,Croatia,1996,99
+Americas,Cuba,1996,99
+Americas,Dominica,1996,99
+Americas,Ecuador,1996,99
+Africa,Equatorial Guinea,1996,99
+Europe,Estonia,1996,99
+Western Pacific,Fiji,1996,99
+Europe,Finland,1996,99
+Africa,Gambia,1996,99
+Americas,Honduras,1996,99
+Europe,Hungary,1996,99
+Western Pacific,Kiribati,1996,99
+Europe,Kyrgyzstan,1996,99
+Europe,Latvia,1996,99
+South-East Asia,Maldives,1996,99
+Americas,Mexico,1996,99
+Western Pacific,Niue,1996,99
+Americas,Panama,1996,99
+Americas,Peru,1996,99
+Europe,Romania,1996,99
+Americas,Saint Vincent and the Grenadines,1996,99
+Africa,Seychelles,1996,99
+Europe,Tajikistan,1996,99
+Western Pacific,Tonga,1996,99
+Western Pacific,Tuvalu,1996,99
+Americas,Uruguay,1996,99
+Europe,Sweden,1995,14
+Eastern Mediterranean,Afghanistan,1995,31
+Africa,Democratic Republic of the Congo,1995,34
+Africa,Nigeria,1995,42
+Africa,Chad,1995,43
+Eastern Mediterranean,Somalia,1995,46
+Western Pacific,Kiribati,1995,47
+Western Pacific,Micronesia (Federated States of),1995,50
+Eastern Mediterranean,Djibouti,1995,51
+Africa,Niger,1995,53
+Africa,Congo,1995,58
+Africa,Angola,1995,60
+Eastern Mediterranean,Yemen,1995,60
+Africa,Ethiopia,1995,61
+Africa,Cameroon,1995,62
+Western Pacific,Lao People's Democratic Republic,1995,62
+Eastern Mediterranean,Sudan,1995,63
+Europe,Bosnia and Herzegovina,1995,64
+Western Pacific,Vanuatu,1995,67
+Africa,Eritrea,1995,68
+Western Pacific,Cambodia,1995,69
+Africa,Côte d’Ivoire,1995,69
+Europe,Georgia,1995,70
+Western Pacific,Marshall Islands,1995,71
+Africa,Burkina Faso,1995,72
+Africa,Madagascar,1995,72
+Eastern Mediterranean,Pakistan,1995,73
+Americas,Haiti,1995,74
+Europe,Azerbaijan,1995,76
+Africa,Mali,1995,76
+South-East Asia,Nepal,1995,76
+South-East Asia,Indonesia,1995,77
+Western Pacific,Solomon Islands,1995,77
+Africa,Guinea,1995,78
+Africa,Mozambique,1995,78
+Western Pacific,Nauru,1995,78
+Western Pacific,China,1995,79
+Americas,Guatemala,1995,79
+Africa,Mauritania,1995,80
+South-East Asia,India,1995,81
+South-East Asia,Democratic People's Republic of Korea,1995,82
+Americas,Paraguay,1995,82
+Western Pacific,Philippines,1995,82
+Europe,France,1995,83
+Africa,Togo,1995,83
+Africa,Uganda,1995,83
+Europe,Armenia,1995,84
+Africa,Benin,1995,85
+Africa,Mauritius,1995,86
+Americas,Bolivia (Plurinational State of),1995,87
+Africa,Ghana,1995,87
+Europe,Ireland,1995,87
+Western Pacific,Tuvalu,1995,88
+Africa,Rwanda,1995,89
+Americas,Dominican Republic,1995,90
+Africa,Gabon,1995,90
+Europe,Kazakhstan,1995,90
+Europe,Monaco,1995,90
+South-East Asia,Myanmar,1995,90
+South-East Asia,Sri Lanka,1995,90
+Europe,Turkey,1995,90
+Western Pacific,Papua New Guinea,1995,91
+Africa,Senegal,1995,91
+Eastern Mediterranean,Syrian Arab Republic,1995,91
+Americas,Venezuela (Bolivarian Republic of),1995,91
+Americas,Belize,1995,92
+Africa,Burundi,1995,92
+Africa,Guinea-Bissau,1995,92
+Europe,Malta,1995,92
+Africa,Namibia,1995,92
+Western Pacific,Niue,1995,92
+Europe,Russian Federation,1995,92
+Europe,Slovakia,1995,92
+Africa,Algeria,1995,93
+South-East Asia,Bangladesh,1995,93
+Eastern Mediterranean,Egypt,1995,93
+Americas,Guyana,1995,93
+Americas,Nicaragua,1995,93
+Western Pacific,Republic of Korea,1995,93
+Europe,Turkmenistan,1995,93
+Africa,Cabo Verde,1995,94
+Africa,Central African Republic,1995,94
+Western Pacific,Mongolia,1995,94
+Americas,Peru,1995,94
+Europe,Portugal,1995,94
+Americas,Saint Kitts and Nevis,1995,94
+Eastern Mediterranean,Saudi Arabia,1995,94
+Africa,Comoros,1995,95
+Europe,Czechia,1995,95
+Europe,Republic of Moldova,1995,95
+Europe,The former Yugoslav Republic of Macedonia,1995,95
+Africa,Sao Tome and Principe,1995,95
+Africa,South Africa,1995,95
+Europe,Ukraine,1995,95
+Europe,Belarus,1995,96
+Africa,Botswana,1995,96
+Western Pacific,Cook Islands,1995,96
+Eastern Mediterranean,Iran (Islamic Republic of),1995,96
+Europe,Kyrgyzstan,1995,96
+Africa,Lesotho,1995,96
+Eastern Mediterranean,Morocco,1995,96
+Eastern Mediterranean,Oman,1995,96
+Eastern Mediterranean,Qatar,1995,96
+Western Pacific,Samoa,1995,96
+Europe,Tajikistan,1995,96
+Africa,United Republic of Tanzania,1995,96
+Western Pacific,Viet Nam,1995,96
+Africa,Zimbabwe,1995,96
+Europe,Albania,1995,97
+Americas,Chile,1995,97
+Americas,Honduras,1995,97
+Eastern Mediterranean,Iraq,1995,97
+Africa,Kenya,1995,97
+Europe,Lithuania,1995,97
+Africa,Malawi,1995,97
+Europe,Serbia,1995,97
+Eastern Mediterranean,Tunisia,1995,97
+Africa,Zambia,1995,97
+South-East Asia,Bhutan,1995,98
+Americas,Jamaica,1995,98
+Western Pacific,Malaysia,1995,98
+Americas,Mexico,1995,98
+Europe,Poland,1995,98
+Americas,Saint Lucia,1995,98
+Western Pacific,Singapore,1995,98
+South-East Asia,Thailand,1995,98
+Eastern Mediterranean,United Arab Emirates,1995,98
+Americas,Argentina,1995,99
+Americas,Brazil,1995,99
+Western Pacific,Brunei Darussalam,1995,99
+Europe,Bulgaria,1995,99
+Americas,Colombia,1995,99
+Americas,Costa Rica,1995,99
+Europe,Croatia,1995,99
+Americas,Cuba,1995,99
+Americas,Dominica,1995,99
+Americas,Ecuador,1995,99
+Americas,El Salvador,1995,99
+Africa,Equatorial Guinea,1995,99
+Europe,Estonia,1995,99
+Africa,Eswatini,1995,99
+Western Pacific,Fiji,1995,99
+Europe,Finland,1995,99
+Africa,Gambia,1995,99
+Europe,Hungary,1995,99
+Europe,Latvia,1995,99
+Eastern Mediterranean,Libya,1995,99
+South-East Asia,Maldives,1995,99
+Americas,Panama,1995,99
+Europe,Romania,1995,99
+Americas,Saint Vincent and the Grenadines,1995,99
+Africa,Seychelles,1995,99
+Europe,Slovenia,1995,99
+Western Pacific,Tonga,1995,99
+Americas,Uruguay,1995,99
+Europe,Uzbekistan,1995,99
+Europe,Sweden,1994,13
+Eastern Mediterranean,Afghanistan,1994,15
+Europe,Georgia,1994,30
+Africa,Niger,1994,32
+Africa,Rwanda,1994,32
+Eastern Mediterranean,Yemen,1994,41
+Africa,Chad,1994,43
+Africa,Democratic Republic of the Congo,1994,46
+Africa,Angola,1994,48
+Eastern Mediterranean,Somalia,1994,48
+Europe,Greece,1994,50
+Western Pacific,Micronesia (Federated States of),1994,50
+Eastern Mediterranean,Djibouti,1994,51
+Africa,Nigeria,1994,55
+Africa,Cameroon,1994,59
+Africa,Eritrea,1994,60
+Western Pacific,Kiribati,1994,60
+Eastern Mediterranean,Sudan,1994,60
+Africa,Burundi,1994,61
+Africa,Congo,1994,61
+Western Pacific,Cambodia,1994,63
+Africa,Ethiopia,1994,65
+Western Pacific,Lao People's Democratic Republic,1994,69
+South-East Asia,India,1994,71
+Americas,Haiti,1994,73
+Africa,Burkina Faso,1994,75
+Africa,Côte d’Ivoire,1994,75
+Africa,Guinea,1994,75
+Africa,Mali,1994,75
+Eastern Mediterranean,Pakistan,1994,75
+South-East Asia,Nepal,1994,76
+Western Pacific,Solomon Islands,1994,76
+Europe,Azerbaijan,1994,77
+Africa,Central African Republic,1994,77
+South-East Asia,Indonesia,1994,77
+Africa,Madagascar,1994,77
+Europe,Malta,1994,77
+Americas,Guatemala,1994,78
+Africa,Mozambique,1994,78
+Africa,Senegal,1994,80
+Europe,France,1994,81
+Western Pacific,Nauru,1994,81
+Americas,El Salvador,1994,82
+Africa,Mauritania,1994,82
+Americas,Paraguay,1994,82
+Western Pacific,Vanuatu,1994,82
+Europe,Armenia,1994,83
+South-East Asia,Myanmar,1994,83
+Africa,Uganda,1994,84
+Europe,Bosnia and Herzegovina,1994,85
+Western Pacific,Papua New Guinea,1994,85
+Americas,Dominican Republic,1994,86
+Africa,Ghana,1994,86
+Europe,Ireland,1994,86
+Europe,Kazakhstan,1994,86
+Western Pacific,Philippines,1994,86
+Africa,Sao Tome and Principe,1994,86
+South-East Asia,Sri Lanka,1994,86
+Africa,Togo,1994,86
+Europe,Albania,1994,87
+Africa,Mauritius,1994,87
+Europe,Portugal,1994,87
+Western Pacific,China,1994,89
+Americas,Belize,1994,90
+South-East Asia,Democratic People's Republic of Korea,1994,90
+Europe,Monaco,1994,90
+Western Pacific,Mongolia,1994,90
+Europe,The former Yugoslav Republic of Macedonia,1994,90
+Western Pacific,Tuvalu,1994,90
+Americas,Peru,1994,91
+Americas,Saint Kitts and Nevis,1994,91
+Eastern Mediterranean,Syrian Arab Republic,1994,91
+Europe,Turkey,1994,91
+Americas,Bolivia (Plurinational State of),1994,92
+Americas,Nicaragua,1994,92
+Europe,Russian Federation,1994,92
+Europe,Ukraine,1994,92
+Africa,United Republic of Tanzania,1994,92
+Africa,Algeria,1994,93
+Americas,Brazil,1994,93
+Western Pacific,Republic of Korea,1994,93
+Europe,Uzbekistan,1994,93
+Europe,Belarus,1994,94
+Africa,Benin,1994,94
+Africa,Comoros,1994,94
+Americas,Costa Rica,1994,94
+Africa,Gabon,1994,94
+Americas,Guyana,1994,94
+Africa,Malawi,1994,94
+Europe,Poland,1994,94
+Europe,Republic of Moldova,1994,94
+Eastern Mediterranean,Saudi Arabia,1994,94
+South-East Asia,Bangladesh,1994,95
+Africa,Cabo Verde,1994,95
+Europe,Czechia,1994,95
+Eastern Mediterranean,Egypt,1994,95
+Africa,Guinea-Bissau,1994,95
+Africa,Lesotho,1994,95
+Americas,Panama,1994,95
+Africa,South Africa,1994,95
+Americas,Venezuela (Bolivarian Republic of),1994,95
+Africa,Zimbabwe,1994,95
+South-East Asia,Bhutan,1994,96
+Africa,Botswana,1994,96
+Europe,Lithuania,1994,96
+Western Pacific,Marshall Islands,1994,96
+Eastern Mediterranean,Oman,1994,96
+Eastern Mediterranean,Qatar,1994,96
+Europe,Tajikistan,1994,96
+Western Pacific,Viet Nam,1994,96
+Eastern Mediterranean,Iraq,1994,97
+Africa,Kenya,1994,97
+Europe,Kyrgyzstan,1994,97
+Western Pacific,Malaysia,1994,97
+Americas,Mexico,1994,97
+Eastern Mediterranean,Morocco,1994,97
+Western Pacific,Samoa,1994,97
+Europe,Serbia,1994,97
+Western Pacific,Singapore,1994,97
+Eastern Mediterranean,Tunisia,1994,97
+Europe,Turkmenistan,1994,97
+Europe,Bulgaria,1994,98
+Europe,Croatia,1994,98
+Europe,Estonia,1994,98
+South-East Asia,Maldives,1994,98
+Europe,Slovakia,1994,98
+Eastern Mediterranean,United Arab Emirates,1994,98
+Africa,Zambia,1994,98
+Americas,Argentina,1994,99
+Western Pacific,Brunei Darussalam,1994,99
+Americas,Chile,1994,99
+Americas,Colombia,1994,99
+Western Pacific,Cook Islands,1994,99
+Americas,Cuba,1994,99
+Americas,Dominica,1994,99
+Americas,Ecuador,1994,99
+Africa,Equatorial Guinea,1994,99
+Africa,Eswatini,1994,99
+Western Pacific,Fiji,1994,99
+Europe,Finland,1994,99
+Africa,Gambia,1994,99
+Americas,Honduras,1994,99
+Europe,Hungary,1994,99
+Eastern Mediterranean,Iran (Islamic Republic of),1994,99
+Americas,Jamaica,1994,99
+Europe,Latvia,1994,99
+Eastern Mediterranean,Libya,1994,99
+Africa,Namibia,1994,99
+Western Pacific,Niue,1994,99
+Europe,Romania,1994,99
+Americas,Saint Lucia,1994,99
+Americas,Saint Vincent and the Grenadines,1994,99
+Africa,Seychelles,1994,99
+Europe,Slovenia,1994,99
+South-East Asia,Thailand,1994,99
+Western Pacific,Tonga,1994,99
+Americas,Uruguay,1994,99
+Europe,Sweden,1993,13
+Eastern Mediterranean,Afghanistan,1993,17
+Europe,Bosnia and Herzegovina,1993,24
+Europe,Georgia,1993,30
+Africa,Chad,1993,34
+Africa,Niger,1993,34
+Africa,Ethiopia,1993,36
+Africa,Eritrea,1993,40
+Western Pacific,Lao People's Democratic Republic,1993,42
+Eastern Mediterranean,Somalia,1993,42
+Africa,Democratic Republic of the Congo,1993,43
+Western Pacific,Micronesia (Federated States of),1993,50
+Eastern Mediterranean,Djibouti,1993,51
+Africa,Nigeria,1993,52
+Africa,Angola,1993,53
+Western Pacific,Cambodia,1993,57
+Eastern Mediterranean,Yemen,1993,57
+Africa,Cameroon,1993,58
+Africa,Congo,1993,63
+Europe,Greece,1993,65
+Africa,Mozambique,1993,66
+Western Pacific,Solomon Islands,1993,66
+Eastern Mediterranean,Sudan,1993,66
+Americas,Guatemala,1993,69
+South-East Asia,India,1993,69
+Europe,Tajikistan,1993,69
+Africa,Guinea,1993,70
+Africa,Burundi,1993,73
+Americas,Haiti,1993,73
+Europe,Azerbaijan,1993,74
+Africa,Côte d’Ivoire,1993,74
+Africa,Mali,1993,74
+South-East Asia,Nepal,1993,75
+Africa,Madagascar,1993,77
+Europe,Malta,1993,77
+Eastern Mediterranean,Pakistan,1993,77
+Africa,Sao Tome and Principe,1993,77
+South-East Asia,Indonesia,1993,78
+Americas,El Salvador,1993,79
+Europe,France,1993,79
+Africa,Burkina Faso,1993,80
+South-East Asia,Myanmar,1993,80
+Americas,Paraguay,1993,80
+Africa,Senegal,1993,80
+Africa,Central African Republic,1993,81
+Americas,Venezuela (Bolivarian Republic of),1993,81
+Europe,Albania,1993,82
+Americas,Dominican Republic,1993,82
+Africa,Rwanda,1993,82
+Africa,Uganda,1993,82
+Europe,Armenia,1993,84
+Americas,Bolivia (Plurinational State of),1993,84
+Africa,Mauritania,1993,84
+Western Pacific,Mongolia,1993,84
+Western Pacific,Nauru,1993,84
+Africa,Ghana,1993,85
+Europe,Ireland,1993,86
+Western Pacific,Kiribati,1993,87
+Africa,Mauritius,1993,87
+Americas,Peru,1993,87
+Europe,Russian Federation,1993,87
+Western Pacific,Tuvalu,1993,87
+Western Pacific,Marshall Islands,1993,88
+Western Pacific,Republic of Korea,1993,88
+Americas,Saint Kitts and Nevis,1993,88
+South-East Asia,Sri Lanka,1993,88
+Africa,Benin,1993,89
+South-East Asia,Bhutan,1993,89
+South-East Asia,Maldives,1993,89
+Africa,Togo,1993,89
+Europe,Ukraine,1993,89
+Europe,Turkey,1993,90
+Americas,Belize,1993,91
+Western Pacific,Japan,1993,91
+Europe,Latvia,1993,91
+Americas,Nicaragua,1993,91
+Western Pacific,Philippines,1993,91
+Europe,Portugal,1993,91
+Eastern Mediterranean,Syrian Arab Republic,1993,91
+Western Pacific,China,1993,92
+Africa,Namibia,1993,92
+Americas,Panama,1993,92
+Europe,Republic of Moldova,1993,92
+Africa,Zambia,1993,92
+South-East Asia,Bangladesh,1993,93
+Europe,Belarus,1993,93
+Europe,Kazakhstan,1993,93
+Africa,Lesotho,1993,93
+Americas,Mexico,1993,93
+Eastern Mediterranean,Saudi Arabia,1993,93
+Western Pacific,Cook Islands,1993,94
+Americas,Guyana,1993,94
+Europe,Monaco,1993,94
+Western Pacific,Papua New Guinea,1993,94
+Western Pacific,Samoa,1993,94
+Europe,Turkmenistan,1993,94
+Africa,United Republic of Tanzania,1993,94
+Western Pacific,Viet Nam,1993,94
+Africa,Algeria,1993,95
+Africa,Botswana,1993,95
+Americas,Brazil,1993,95
+Africa,Cabo Verde,1993,95
+Africa,Comoros,1993,95
+Eastern Mediterranean,Egypt,1993,95
+Americas,Honduras,1993,95
+Europe,Kyrgyzstan,1993,95
+Eastern Mediterranean,Oman,1993,95
+Europe,Poland,1993,95
+Europe,The former Yugoslav Republic of Macedonia,1993,95
+Americas,Saint Lucia,1993,95
+Africa,South Africa,1993,95
+Africa,Zimbabwe,1993,95
+Americas,Colombia,1993,96
+Africa,Guinea-Bissau,1993,96
+Eastern Mediterranean,Iraq,1993,96
+Africa,Kenya,1993,96
+Africa,Malawi,1993,96
+Western Pacific,Vanuatu,1993,96
+Americas,Chile,1993,97
+Americas,Cuba,1993,97
+Africa,Gabon,1993,97
+Europe,Serbia,1993,97
+Western Pacific,Tonga,1993,97
+Eastern Mediterranean,Tunisia,1993,97
+Americas,Costa Rica,1993,98
+Europe,Croatia,1993,98
+Europe,Czechia,1993,98
+Africa,Equatorial Guinea,1993,98
+Europe,Estonia,1993,98
+Africa,Eswatini,1993,98
+Africa,Gambia,1993,98
+Europe,Lithuania,1993,98
+Western Pacific,Malaysia,1993,98
+Western Pacific,Singapore,1993,98
+Eastern Mediterranean,United Arab Emirates,1993,98
+Americas,Uruguay,1993,98
+Europe,Uzbekistan,1993,98
+Americas,Argentina,1993,99
+Western Pacific,Brunei Darussalam,1993,99
+Europe,Bulgaria,1993,99
+South-East Asia,Democratic People's Republic of Korea,1993,99
+Americas,Dominica,1993,99
+Americas,Ecuador,1993,99
+Western Pacific,Fiji,1993,99
+Europe,Finland,1993,99
+Europe,Hungary,1993,99
+Eastern Mediterranean,Iran (Islamic Republic of),1993,99
+Americas,Jamaica,1993,99
+Eastern Mediterranean,Libya,1993,99
+Eastern Mediterranean,Morocco,1993,99
+Western Pacific,Niue,1993,99
+Eastern Mediterranean,Qatar,1993,99
+Europe,Romania,1993,99
+Americas,Saint Vincent and the Grenadines,1993,99
+Africa,Seychelles,1993,99
+Europe,Slovenia,1993,99
+South-East Asia,Thailand,1993,99
+Europe,Sweden,1992,13
+Eastern Mediterranean,Afghanistan,1992,19
+Europe,Bosnia and Herzegovina,1992,20
+Africa,Ethiopia,1992,26
+Africa,Democratic Republic of the Congo,1992,32
+Africa,Chad,1992,34
+Western Pacific,Lao People's Democratic Republic,1992,34
+Eastern Mediterranean,Somalia,1992,37
+Africa,Niger,1992,38
+Africa,Angola,1992,47
+Western Pacific,Cambodia,1992,50
+Western Pacific,Micronesia (Federated States of),1992,50
+Eastern Mediterranean,Djibouti,1992,51
+Eastern Mediterranean,Yemen,1992,54
+Americas,Guatemala,1992,57
+Africa,Nigeria,1992,57
+Africa,Cameroon,1992,62
+Americas,El Salvador,1992,62
+Africa,Mozambique,1992,64
+Africa,Guinea,1992,65
+South-East Asia,India,1992,65
+Africa,South Africa,1992,66
+Europe,Georgia,1992,67
+Eastern Mediterranean,Sudan,1992,68
+Europe,Azerbaijan,1992,69
+Africa,Côte d’Ivoire,1992,70
+Africa,Mali,1992,70
+Western Pacific,Marshall Islands,1992,72
+Americas,Haiti,1992,73
+Africa,Congo,1992,75
+South-East Asia,Nepal,1992,75
+Western Pacific,Solomon Islands,1992,75
+Europe,Greece,1992,76
+South-East Asia,Indonesia,1992,76
+Europe,France,1992,77
+Africa,Madagascar,1992,77
+South-East Asia,Myanmar,1992,77
+Americas,Dominican Republic,1992,78
+Western Pacific,Kiribati,1992,79
+Europe,Malta,1992,79
+Africa,Uganda,1992,79
+Eastern Mediterranean,Pakistan,1992,80
+Africa,Senegal,1992,80
+Europe,Albania,1992,81
+Americas,Bolivia (Plurinational State of),1992,81
+Africa,Comoros,1992,81
+Africa,Mauritania,1992,81
+Western Pacific,Papua New Guinea,1992,82
+Africa,Ghana,1992,83
+Western Pacific,Mongolia,1992,83
+Western Pacific,Republic of Korea,1992,83
+Africa,Sao Tome and Principe,1992,83
+Africa,Benin,1992,84
+Americas,Panama,1992,84
+Americas,Paraguay,1992,84
+Western Pacific,Vanuatu,1992,84
+Africa,Burkina Faso,1992,85
+Africa,Central African Republic,1992,85
+Europe,Ireland,1992,85
+Americas,Jamaica,1992,85
+Americas,Peru,1992,85
+Americas,Venezuela (Bolivarian Republic of),1992,85
+Western Pacific,Nauru,1992,86
+Europe,Russian Federation,1992,86
+Americas,Saint Kitts and Nevis,1992,86
+Africa,Mauritius,1992,87
+South-East Asia,Sri Lanka,1992,87
+Europe,Armenia,1992,88
+Americas,Colombia,1992,88
+Americas,Guyana,1992,88
+Europe,Tajikistan,1992,88
+South-East Asia,Bangladesh,1992,89
+Europe,Turkey,1992,89
+South-East Asia,Bhutan,1992,90
+Americas,Brazil,1992,90
+Africa,Burundi,1992,90
+Europe,Kazakhstan,1992,90
+Americas,Nicaragua,1992,91
+Western Pacific,Samoa,1992,91
+Eastern Mediterranean,Saudi Arabia,1992,91
+Western Pacific,Viet Nam,1992,91
+Africa,Zimbabwe,1992,91
+Europe,Croatia,1992,92
+Eastern Mediterranean,Egypt,1992,92
+Americas,Honduras,1992,92
+Africa,Lesotho,1992,92
+Africa,Namibia,1992,92
+Europe,Portugal,1992,92
+Europe,Republic of Moldova,1992,92
+Eastern Mediterranean,Syrian Arab Republic,1992,92
+Africa,Togo,1992,92
+Western Pacific,Japan,1992,93
+Europe,Latvia,1992,93
+Europe,Slovenia,1992,93
+Europe,Ukraine,1992,93
+Africa,Botswana,1992,94
+Western Pacific,China,1992,94
+Western Pacific,Cook Islands,1992,94
+Americas,Costa Rica,1992,94
+Europe,Lithuania,1992,94
+Americas,Mexico,1992,94
+Western Pacific,Philippines,1992,94
+Africa,Rwanda,1992,94
+Africa,Zambia,1992,94
+Europe,Belarus,1992,95
+Europe,Poland,1992,95
+Eastern Mediterranean,Iraq,1992,96
+Africa,Kenya,1992,96
+Eastern Mediterranean,Oman,1992,96
+Western Pacific,Tonga,1992,96
+Africa,Algeria,1992,97
+Americas,Belize,1992,97
+Western Pacific,Brunei Darussalam,1992,97
+Africa,Equatorial Guinea,1992,97
+Africa,Eswatini,1992,97
+Africa,Gabon,1992,97
+Africa,Gambia,1992,97
+Europe,Kyrgyzstan,1992,97
+Eastern Mediterranean,Morocco,1992,97
+Europe,Serbia,1992,97
+Eastern Mediterranean,Tunisia,1992,97
+Europe,Turkmenistan,1992,97
+Western Pacific,Tuvalu,1992,97
+Americas,Cuba,1992,98
+Western Pacific,Fiji,1992,98
+Africa,Malawi,1992,98
+Europe,Monaco,1992,98
+Eastern Mediterranean,United Arab Emirates,1992,98
+Europe,Uzbekistan,1992,98
+Americas,Argentina,1992,99
+Europe,Bulgaria,1992,99
+Africa,Cabo Verde,1992,99
+Americas,Chile,1992,99
+South-East Asia,Democratic People's Republic of Korea,1992,99
+Americas,Dominica,1992,99
+Americas,Ecuador,1992,99
+Europe,Finland,1992,99
+Africa,Guinea-Bissau,1992,99
+Europe,Hungary,1992,99
+Eastern Mediterranean,Iran (Islamic Republic of),1992,99
+Eastern Mediterranean,Libya,1992,99
+Western Pacific,Malaysia,1992,99
+South-East Asia,Maldives,1992,99
+Western Pacific,Niue,1992,99
+Eastern Mediterranean,Qatar,1992,99
+Europe,Romania,1992,99
+Americas,Saint Lucia,1992,99
+Americas,Saint Vincent and the Grenadines,1992,99
+Africa,Seychelles,1992,99
+Western Pacific,Singapore,1992,99
+South-East Asia,Thailand,1992,99
+Africa,United Republic of Tanzania,1992,99
+Americas,Uruguay,1992,99
+Europe,Sweden,1991,12
+Eastern Mediterranean,Afghanistan,1991,21
+Africa,Democratic Republic of the Congo,1991,21
+Africa,Ethiopia,1991,29
+Eastern Mediterranean,Somalia,1991,31
+Western Pacific,Lao People's Democratic Republic,1991,34
+Africa,Niger,1991,38
+Africa,Chad,1991,40
+Americas,Guatemala,1991,43
+Western Pacific,Micronesia (Federated States of),1991,50
+Africa,Angola,1991,53
+Western Pacific,Cambodia,1991,56
+Africa,Guinea,1991,60
+Africa,Nigeria,1991,60
+South-East Asia,India,1991,62
+Africa,Mozambique,1991,63
+Africa,South Africa,1991,63
+Eastern Mediterranean,Yemen,1991,63
+Africa,Côte d’Ivoire,1991,65
+Eastern Mediterranean,Djibouti,1991,66
+Americas,Bolivia (Plurinational State of),1991,67
+Americas,El Salvador,1991,67
+Africa,Mali,1991,68
+Africa,Cameroon,1991,69
+South-East Asia,Myanmar,1991,69
+Africa,Comoros,1991,71
+Africa,Eswatini,1991,71
+Western Pacific,Marshall Islands,1991,71
+Americas,Haiti,1991,72
+Americas,Dominican Republic,1991,74
+South-East Asia,Nepal,1991,74
+Americas,Nicaragua,1991,74
+South-East Asia,Indonesia,1991,75
+Africa,Madagascar,1991,75
+Africa,Ghana,1991,77
+Western Pacific,Republic of Korea,1991,77
+Africa,Uganda,1991,77
+Europe,France,1991,78
+Americas,Paraguay,1991,78
+Americas,Peru,1991,78
+Eastern Mediterranean,Sudan,1991,78
+Europe,Albania,1991,80
+Africa,Mauritania,1991,80
+Eastern Mediterranean,Pakistan,1991,80
+Africa,Senegal,1991,80
+Americas,Costa Rica,1991,81
+Africa,Benin,1991,82
+Americas,Ecuador,1991,82
+Americas,Saint Kitts and Nevis,1991,83
+Western Pacific,Solomon Islands,1991,83
+Europe,Ireland,1991,84
+Western Pacific,Mongolia,1991,85
+Eastern Mediterranean,Saudi Arabia,1991,85
+South-East Asia,Bangladesh,1991,87
+Americas,Brazil,1991,87
+Africa,Burundi,1991,87
+Europe,Malta,1991,87
+Africa,Mauritius,1991,87
+Americas,Panama,1991,87
+Africa,Burkina Faso,1991,88
+South-East Asia,Sri Lanka,1991,88
+Africa,Congo,1991,89
+Americas,Guyana,1991,89
+Americas,Mexico,1991,89
+Western Pacific,Papua New Guinea,1991,89
+Europe,Portugal,1991,89
+Europe,Greece,1991,90
+Africa,Lesotho,1991,90
+Western Pacific,Nauru,1991,90
+Americas,Venezuela (Bolivarian Republic of),1991,90
+Africa,Central African Republic,1991,91
+Eastern Mediterranean,Iran (Islamic Republic of),1991,91
+Africa,Namibia,1991,91
+Europe,Turkey,1991,91
+Western Pacific,Viet Nam,1991,91
+Africa,Zimbabwe,1991,91
+Eastern Mediterranean,Egypt,1991,92
+Africa,Botswana,1991,93
+Americas,Belize,1991,94
+Western Pacific,Brunei Darussalam,1991,94
+Africa,Guinea-Bissau,1991,94
+Americas,Jamaica,1991,94
+Western Pacific,Japan,1991,94
+Africa,Kenya,1991,94
+Western Pacific,Kiribati,1991,94
+Eastern Mediterranean,Oman,1991,94
+Europe,Poland,1991,94
+Africa,Rwanda,1991,94
+South-East Asia,Bhutan,1991,95
+Americas,Colombia,1991,95
+Africa,Equatorial Guinea,1991,95
+Eastern Mediterranean,Libya,1991,95
+Americas,Saint Lucia,1991,95
+Western Pacific,Samoa,1991,95
+Eastern Mediterranean,Syrian Arab Republic,1991,95
+Western Pacific,Tuvalu,1991,95
+Africa,United Republic of Tanzania,1991,95
+Africa,Zambia,1991,95
+Western Pacific,Cook Islands,1991,96
+Eastern Mediterranean,Iraq,1991,96
+Africa,Malawi,1991,96
+Eastern Mediterranean,Morocco,1991,96
+Africa,Togo,1991,96
+Eastern Mediterranean,Tunisia,1991,96
+Eastern Mediterranean,United Arab Emirates,1991,96
+Western Pacific,China,1991,97
+Africa,Gabon,1991,97
+Africa,Gambia,1991,97
+Western Pacific,Philippines,1991,97
+Africa,Algeria,1991,98
+Americas,Cuba,1991,98
+Eastern Mediterranean,Qatar,1991,98
+Americas,Argentina,1991,99
+Europe,Bulgaria,1991,99
+Africa,Cabo Verde,1991,99
+Americas,Chile,1991,99
+South-East Asia,Democratic People's Republic of Korea,1991,99
+Americas,Dominica,1991,99
+Western Pacific,Fiji,1991,99
+Europe,Finland,1991,99
+Americas,Honduras,1991,99
+Europe,Hungary,1991,99
+Western Pacific,Malaysia,1991,99
+South-East Asia,Maldives,1991,99
+Europe,Monaco,1991,99
+Western Pacific,Niue,1991,99
+Europe,Romania,1991,99
+Americas,Saint Vincent and the Grenadines,1991,99
+Africa,Sao Tome and Principe,1991,99
+Africa,Seychelles,1991,99
+Western Pacific,Singapore,1991,99
+South-East Asia,Thailand,1991,99
+Western Pacific,Tonga,1991,99
+Americas,Uruguay,1991,99
+Western Pacific,Vanuatu,1991,99
+Western Pacific,Micronesia (Federated States of),1990,12
+Europe,Sweden,1990,13
+Western Pacific,Lao People's Democratic Republic,1990,26
+Eastern Mediterranean,Afghanistan,1990,30
+Eastern Mediterranean,Somalia,1990,31
+Africa,Angola,1990,48
+Western Pacific,Marshall Islands,1990,49
+Africa,Guinea,1990,50
+Africa,Niger,1990,50
+Western Pacific,Cambodia,1990,52
+Africa,South Africa,1990,57
+Africa,Chad,1990,59
+Africa,Mozambique,1990,59
+Africa,Côte d’Ivoire,1990,62
+Americas,Guatemala,1990,62
+Africa,Ethiopia,1990,64
+Americas,Bolivia (Plurinational State of),1990,65
+Africa,Democratic Republic of the Congo,1990,65
+South-East Asia,India,1990,66
+Africa,Madagascar,1990,67
+Americas,Mexico,1990,67
+Americas,Dominican Republic,1990,70
+Americas,Honduras,1990,70
+Africa,Ghana,1990,71
+Americas,Haiti,1990,72
+Western Pacific,Republic of Korea,1990,72
+Europe,France,1990,74
+South-East Asia,Indonesia,1990,74
+South-East Asia,Nepal,1990,74
+Americas,El Salvador,1990,75
+Americas,Paraguay,1990,75
+Africa,Uganda,1990,75
+Africa,Cameroon,1990,76
+Europe,Malta,1990,77
+Eastern Mediterranean,Sudan,1990,77
+Americas,Brazil,1990,79
+Africa,Mauritania,1990,79
+Africa,Nigeria,1990,80
+Eastern Mediterranean,Pakistan,1990,80
+Americas,Saint Kitts and Nevis,1990,80
+Eastern Mediterranean,Djibouti,1990,81
+Western Pacific,Mongolia,1990,81
+Africa,Mali,1990,82
+Americas,Venezuela (Bolivarian Republic of),1990,82
+Americas,Peru,1990,83
+Europe,Ireland,1990,84
+Americas,Nicaragua,1990,84
+South-East Asia,Sri Lanka,1990,84
+Americas,Guyana,1990,85
+Western Pacific,Japan,1990,85
+Africa,United Republic of Tanzania,1990,85
+South-East Asia,Bangladesh,1990,86
+Europe,Greece,1990,86
+Africa,Mauritius,1990,87
+Western Pacific,Solomon Islands,1990,87
+Europe,Portugal,1990,88
+Americas,Ecuador,1990,89
+Eastern Mediterranean,Egypt,1990,89
+Africa,Lesotho,1990,89
+Africa,Congo,1990,90
+Africa,Guinea-Bissau,1990,90
+Eastern Mediterranean,Libya,1990,90
+Europe,Romania,1990,90
+Eastern Mediterranean,Saudi Arabia,1990,90
+Africa,Senegal,1990,90
+Western Pacific,Viet Nam,1990,90
+Western Pacific,Brunei Darussalam,1990,91
+Europe,Finland,1990,91
+Africa,Zimbabwe,1990,91
+Africa,Benin,1990,92
+Americas,Costa Rica,1990,92
+Africa,Kenya,1990,92
+Western Pacific,Papua New Guinea,1990,92
+Africa,Rwanda,1990,92
+Eastern Mediterranean,Syrian Arab Republic,1990,92
+Americas,Belize,1990,93
+Africa,Botswana,1990,93
+Western Pacific,Kiribati,1990,93
+Western Pacific,Nauru,1990,93
+Europe,Turkey,1990,93
+Europe,Albania,1990,94
+Americas,Chile,1990,94
+Africa,Equatorial Guinea,1990,94
+Americas,Saint Lucia,1990,94
+Africa,Burkina Faso,1990,95
+Americas,Colombia,1990,95
+Eastern Mediterranean,Iran (Islamic Republic of),1990,95
+South-East Asia,Myanmar,1990,95
+Eastern Mediterranean,Yemen,1990,95
+Africa,Central African Republic,1990,96
+Africa,Eswatini,1990,96
+Africa,Gabon,1990,96
+Eastern Mediterranean,Iraq,1990,96
+Eastern Mediterranean,Morocco,1990,96
+Eastern Mediterranean,Oman,1990,96
+Western Pacific,Philippines,1990,96
+Eastern Mediterranean,Tunisia,1990,96
+Western Pacific,Tuvalu,1990,96
+Eastern Mediterranean,United Arab Emirates,1990,96
+Western Pacific,Vanuatu,1990,96
+Africa,Burundi,1990,97
+Africa,Cabo Verde,1990,97
+Africa,Malawi,1990,97
+Americas,Panama,1990,97
+Europe,Poland,1990,97
+Eastern Mediterranean,Qatar,1990,97
+Western Pacific,Samoa,1990,97
+Africa,Zambia,1990,97
+Americas,Cuba,1990,98
+Africa,Gambia,1990,98
+Americas,Jamaica,1990,98
+Africa,Seychelles,1990,98
+Africa,Algeria,1990,99
+Americas,Argentina,1990,99
+South-East Asia,Bhutan,1990,99
+Europe,Bulgaria,1990,99
+Western Pacific,China,1990,99
+Africa,Comoros,1990,99
+Western Pacific,Cook Islands,1990,99
+South-East Asia,Democratic People's Republic of Korea,1990,99
+Americas,Dominica,1990,99
+Western Pacific,Fiji,1990,99
+Europe,Hungary,1990,99
+Western Pacific,Malaysia,1990,99
+South-East Asia,Maldives,1990,99
+Europe,Monaco,1990,99
+Western Pacific,Niue,1990,99
+Americas,Saint Vincent and the Grenadines,1990,99
+Africa,Sao Tome and Principe,1990,99
+Western Pacific,Singapore,1990,99
+South-East Asia,Thailand,1990,99
+Africa,Togo,1990,99
+Western Pacific,Tonga,1990,99
+Americas,Uruguay,1990,99
+Europe,Sweden,1989,13
+Americas,Guatemala,1989,21
+South-East Asia,India,1989,28
+Western Pacific,Lao People's Democratic Republic,1989,29
+Africa,Guinea,1989,31
+Eastern Mediterranean,Somalia,1989,31
+Africa,Niger,1989,32
+Eastern Mediterranean,Afghanistan,1989,38
+Africa,Ethiopia,1989,44
+Africa,Angola,1989,47
+Africa,Côte d’Ivoire,1989,47
+Africa,Equatorial Guinea,1989,49
+Africa,Mozambique,1989,53
+Western Pacific,Cambodia,1989,55
+Africa,Democratic Republic of the Congo,1989,55
+South-East Asia,Bangladesh,1989,56
+Africa,Chad,1989,59
+Africa,Nigeria,1989,61
+Americas,El Salvador,1989,62
+Americas,Peru,1989,62
+Americas,Dominican Republic,1989,63
+Americas,Bolivia (Plurinational State of),1989,64
+South-East Asia,Myanmar,1989,66
+Americas,Paraguay,1989,66
+Americas,Haiti,1989,69
+Africa,Ghana,1989,70
+South-East Asia,Nepal,1989,70
+Western Pacific,Republic of Korea,1989,70
+South-East Asia,Indonesia,1989,72
+Africa,Madagascar,1989,72
+Africa,Uganda,1989,72
+Africa,South Africa,1989,73
+Americas,Brazil,1989,74
+Africa,Benin,1989,75
+Europe,France,1989,75
+Eastern Mediterranean,Sudan,1989,75
+Eastern Mediterranean,Yemen,1989,75
+Africa,Cameroon,1989,76
+Americas,Guyana,1989,76
+Americas,Saint Kitts and Nevis,1989,78
+Europe,Malta,1989,79
+Africa,Mauritania,1989,79
+Eastern Mediterranean,Qatar,1989,79
+Western Pacific,Micronesia (Federated States of),1989,8
+Eastern Mediterranean,Djibouti,1989,80
+Americas,Honduras,1989,80
+Americas,Mexico,1989,80
+Eastern Mediterranean,Pakistan,1989,80
+Western Pacific,Samoa,1989,80
+Western Pacific,Vanuatu,1989,80
+Europe,Greece,1989,82
+Western Pacific,Papua New Guinea,1989,82
+Western Pacific,Solomon Islands,1989,82
+Africa,Burkina Faso,1989,83
+Eastern Mediterranean,Egypt,1989,83
+Europe,Ireland,1989,83
+Eastern Mediterranean,Iran (Islamic Republic of),1989,85
+Western Pacific,Japan,1989,85
+Africa,Mali,1989,85
+Africa,Central African Republic,1989,86
+Africa,Lesotho,1989,87
+Americas,Panama,1989,87
+Europe,Portugal,1989,87
+Western Pacific,Brunei Darussalam,1989,88
+Africa,Mauritius,1989,88
+Americas,Venezuela (Bolivarian Republic of),1989,88
+Americas,Costa Rica,1989,89
+Europe,Austria,1989,90
+Africa,Congo,1989,90
+Africa,Kenya,1989,90
+Eastern Mediterranean,Libya,1989,90
+Europe,Romania,1989,90
+Africa,Senegal,1989,90
+South-East Asia,Sri Lanka,1989,90
+Africa,Zimbabwe,1989,90
+Americas,Belize,1989,91
+Americas,Ecuador,1989,91
+Europe,Finland,1989,91
+Eastern Mediterranean,Morocco,1989,91
+Americas,Argentina,1989,92
+Africa,Botswana,1989,92
+Western Pacific,Mongolia,1989,92
+Africa,Rwanda,1989,92
+Africa,United Republic of Tanzania,1989,92
+South-East Asia,Bhutan,1989,93
+Europe,Albania,1989,94
+Americas,Colombia,1989,94
+Western Pacific,Cook Islands,1989,94
+Americas,Nicaragua,1989,94
+Africa,Sao Tome and Principe,1989,94
+Africa,Seychelles,1989,94
+Africa,Togo,1989,94
+Western Pacific,Viet Nam,1989,94
+Africa,Comoros,1989,95
+Africa,Guinea-Bissau,1989,95
+Eastern Mediterranean,Oman,1989,95
+Europe,Poland,1989,95
+Europe,Turkey,1989,95
+Africa,Algeria,1989,96
+Africa,Eswatini,1989,96
+Africa,Gabon,1989,96
+Eastern Mediterranean,Iraq,1989,96
+Africa,Malawi,1989,96
+Western Pacific,Nauru,1989,96
+Western Pacific,Philippines,1989,96
+Eastern Mediterranean,Saudi Arabia,1989,96
+Eastern Mediterranean,Tunisia,1989,96
+Eastern Mediterranean,United Arab Emirates,1989,96
+Americas,Chile,1989,97
+Western Pacific,Tonga,1989,97
+Africa,Zambia,1989,97
+Western Pacific,China,1989,98
+Americas,Cuba,1989,98
+Africa,Gambia,1989,98
+South-East Asia,Maldives,1989,98
+Eastern Mediterranean,Syrian Arab Republic,1989,98
+South-East Asia,Thailand,1989,98
+Western Pacific,Tuvalu,1989,98
+Europe,Bulgaria,1989,99
+Africa,Burundi,1989,99
+Africa,Cabo Verde,1989,99
+South-East Asia,Democratic People's Republic of Korea,1989,99
+Americas,Dominica,1989,99
+Western Pacific,Fiji,1989,99
+Europe,Hungary,1989,99
+Americas,Jamaica,1989,99
+Western Pacific,Kiribati,1989,99
+Western Pacific,Malaysia,1989,99
+Europe,Monaco,1989,99
+Western Pacific,Niue,1989,99
+Americas,Saint Lucia,1989,99
+Americas,Saint Vincent and the Grenadines,1989,99
+Western Pacific,Singapore,1989,99
+Americas,Uruguay,1989,99
+Europe,Sweden,1988,14
+South-East Asia,India,1988,23
+South-East Asia,Bangladesh,1988,26
+Africa,Ethiopia,1988,27
+Western Pacific,Lao People's Democratic Republic,1988,27
+Africa,Niger,1988,27
+Africa,Guinea,1988,31
+Africa,Angola,1988,32
+Africa,Chad,1988,38
+Eastern Mediterranean,Somalia,1988,39
+Eastern Mediterranean,Afghanistan,1988,40
+Americas,Guatemala,1988,41
+Africa,Equatorial Guinea,1988,49
+Africa,Mozambique,1988,49
+Africa,Benin,1988,50
+Africa,Côte d’Ivoire,1988,52
+Eastern Mediterranean,Yemen,1988,52
+Africa,Central African Republic,1988,53
+Africa,Burundi,1988,54
+Africa,Nigeria,1988,54
+Eastern Mediterranean,Sudan,1988,54
+Africa,South Africa,1988,55
+Americas,Bolivia (Plurinational State of),1988,56
+Americas,El Salvador,1988,56
+Americas,Paraguay,1988,56
+Western Pacific,Republic of Korea,1988,57
+Western Pacific,Cambodia,1988,58
+Africa,Democratic Republic of the Congo,1988,59
+Americas,Dominican Republic,1988,60
+South-East Asia,Myanmar,1988,60
+Americas,Guyana,1988,64
+Americas,Honduras,1988,64
+Africa,Mali,1988,64
+Americas,Haiti,1988,66
+South-East Asia,Nepal,1988,66
+Europe,Malta,1988,67
+Africa,Burkina Faso,1988,70
+Africa,Ghana,1988,70
+South-East Asia,Indonesia,1988,70
+Africa,Madagascar,1988,70
+Americas,Peru,1988,70
+Africa,Uganda,1988,70
+Africa,Cameroon,1988,71
+Africa,Comoros,1988,72
+Americas,Mexico,1988,72
+South-East Asia,Bhutan,1988,73
+Western Pacific,Vanuatu,1988,73
+Americas,Brazil,1988,74
+Europe,France,1988,75
+Americas,Saint Kitts and Nevis,1988,75
+Americas,Venezuela (Bolivarian Republic of),1988,76
+Europe,Greece,1988,77
+Eastern Mediterranean,Pakistan,1988,77
+Western Pacific,Mongolia,1988,78
+Africa,Mauritania,1988,79
+Western Pacific,Solomon Islands,1988,79
+Western Pacific,Viet Nam,1988,79
+Eastern Mediterranean,Egypt,1988,80
+Western Pacific,Papua New Guinea,1988,80
+South-East Asia,Sri Lanka,1988,81
+Europe,Ireland,1988,82
+Americas,Belize,1988,85
+Western Pacific,Brunei Darussalam,1988,85
+Western Pacific,Japan,1988,85
+Eastern Mediterranean,Qatar,1988,85
+Americas,Saint Lucia,1988,85
+Americas,Costa Rica,1988,86
+Africa,Lesotho,1988,86
+Europe,Portugal,1988,86
+Eastern Mediterranean,Djibouti,1988,87
+Eastern Mediterranean,Syrian Arab Republic,1988,87
+Africa,Congo,1988,88
+Eastern Mediterranean,Iran (Islamic Republic of),1988,88
+Africa,Mauritius,1988,88
+Africa,Sao Tome and Principe,1988,88
+Africa,Guinea-Bissau,1988,89
+Africa,Zimbabwe,1988,89
+Europe,Austria,1988,90
+Western Pacific,Cook Islands,1988,90
+Africa,Kenya,1988,90
+Africa,Malawi,1988,90
+Americas,Argentina,1988,91
+Americas,Nicaragua,1988,91
+Africa,Rwanda,1988,91
+Africa,Senegal,1988,91
+South-East Asia,Thailand,1988,91
+Africa,Togo,1988,91
+Europe,Albania,1988,92
+Americas,Ecuador,1988,92
+Eastern Mediterranean,Libya,1988,92
+Eastern Mediterranean,Morocco,1988,92
+Americas,Panama,1988,92
+Europe,Romania,1988,93
+Eastern Mediterranean,Saudi Arabia,1988,93
+Eastern Mediterranean,United Arab Emirates,1988,93
+Africa,United Republic of Tanzania,1988,93
+Africa,Seychelles,1988,94
+Africa,Botswana,1988,95
+Africa,Eswatini,1988,95
+Africa,Gabon,1988,95
+Western Pacific,Nauru,1988,95
+Western Pacific,Philippines,1988,95
+Europe,Poland,1988,95
+Americas,Saint Vincent and the Grenadines,1988,95
+Western Pacific,Tonga,1988,95
+Eastern Mediterranean,Tunisia,1988,95
+Western Pacific,Tuvalu,1988,95
+Africa,Algeria,1988,96
+Africa,Gambia,1988,96
+Americas,Jamaica,1988,96
+Eastern Mediterranean,Oman,1988,96
+Western Pacific,Samoa,1988,97
+Europe,Turkey,1988,97
+Africa,Zambia,1988,97
+Americas,Chile,1988,98
+Western Pacific,China,1988,98
+South-East Asia,Democratic People's Republic of Korea,1988,98
+Americas,Dominica,1988,98
+Eastern Mediterranean,Iraq,1988,98
+Western Pacific,Kiribati,1988,98
+South-East Asia,Maldives,1988,98
+Americas,Uruguay,1988,98
+Europe,Bulgaria,1988,99
+Africa,Cabo Verde,1988,99
+Americas,Colombia,1988,99
+Americas,Cuba,1988,99
+Western Pacific,Fiji,1988,99
+Europe,Finland,1988,99
+Europe,Hungary,1988,99
+Western Pacific,Malaysia,1988,99
+Europe,Monaco,1988,99
+Western Pacific,Niue,1988,99
+Western Pacific,Singapore,1988,99
+Europe,Sweden,1987,14
+South-East Asia,Bangladesh,1987,15
+Western Pacific,Lao People's Democratic Republic,1987,15
+South-East Asia,India,1987,23
+Eastern Mediterranean,Afghanistan,1987,27
+Africa,Guinea,1987,27
+Africa,Ethiopia,1987,28
+Africa,Niger,1987,28
+Africa,Angola,1987,29
+Eastern Mediterranean,Yemen,1987,30
+Africa,Chad,1987,32
+Eastern Mediterranean,Somalia,1987,33
+Americas,Guatemala,1987,34
+Africa,Equatorial Guinea,1987,40
+Africa,Central African Republic,1987,42
+Eastern Mediterranean,Djibouti,1987,42
+Eastern Mediterranean,Sudan,1987,43
+Africa,Benin,1987,46
+Africa,Nigeria,1987,47
+Africa,Mali,1987,51
+Africa,Mozambique,1987,52
+Africa,Côte d’Ivoire,1987,53
+Africa,Madagascar,1987,54
+South-East Asia,Myanmar,1987,54
+Western Pacific,Republic of Korea,1987,54
+Americas,Bolivia (Plurinational State of),1987,55
+Americas,El Salvador,1987,55
+Eastern Mediterranean,Iran (Islamic Republic of),1987,56
+Africa,Burkina Faso,1987,57
+Africa,Democratic Republic of the Congo,1987,57
+Americas,Dominican Republic,1987,57
+Western Pacific,Viet Nam,1987,59
+Western Pacific,Mongolia,1987,60
+Western Pacific,Cambodia,1987,61
+Americas,Peru,1987,61
+Africa,Uganda,1987,61
+South-East Asia,Maldives,1987,62
+South-East Asia,Nepal,1987,62
+Americas,Venezuela (Bolivarian Republic of),1987,63
+Africa,South Africa,1987,64
+Africa,Cameroon,1987,65
+Americas,Honduras,1987,66
+Americas,Paraguay,1987,66
+Western Pacific,Solomon Islands,1987,66
+South-East Asia,Bhutan,1987,67
+Americas,Brazil,1987,68
+South-East Asia,Indonesia,1987,68
+Western Pacific,Kiribati,1987,68
+South-East Asia,Democratic People's Republic of Korea,1987,69
+Africa,Ghana,1987,69
+Americas,Guyana,1987,69
+Americas,Mexico,1987,71
+Eastern Mediterranean,Syrian Arab Republic,1987,71
+Eastern Mediterranean,Egypt,1987,72
+Americas,Haiti,1987,72
+Eastern Mediterranean,Pakistan,1987,72
+Europe,Greece,1987,73
+Western Pacific,Papua New Guinea,1987,74
+Europe,France,1987,76
+South-East Asia,Sri Lanka,1987,76
+Americas,Belize,1987,77
+Africa,Mauritania,1987,77
+Europe,Portugal,1987,78
+Europe,Malta,1987,79
+Western Pacific,Vanuatu,1987,79
+Americas,Colombia,1987,80
+Europe,Ireland,1987,81
+Africa,Burundi,1987,82
+Africa,Guinea-Bissau,1987,82
+Americas,Costa Rica,1987,83
+Western Pacific,Brunei Darussalam,1987,84
+Africa,Lesotho,1987,84
+Western Pacific,China,1987,85
+Americas,Ecuador,1987,85
+Western Pacific,Japan,1987,85
+Eastern Mediterranean,Qatar,1987,85
+Africa,Kenya,1987,86
+Western Pacific,Tuvalu,1987,86
+Africa,Congo,1987,87
+Africa,Mauritius,1987,87
+Europe,Turkey,1987,87
+Africa,Sao Tome and Principe,1987,88
+Western Pacific,Cook Islands,1987,89
+Americas,Saint Lucia,1987,89
+Europe,Austria,1987,90
+Europe,Finland,1987,90
+Americas,Panama,1987,90
+Western Pacific,Philippines,1987,90
+Americas,Saint Vincent and the Grenadines,1987,90
+Eastern Mediterranean,Saudi Arabia,1987,91
+Europe,Albania,1987,92
+Americas,Jamaica,1987,92
+Africa,Malawi,1987,92
+Eastern Mediterranean,Morocco,1987,92
+Africa,Rwanda,1987,92
+Africa,Senegal,1987,92
+Eastern Mediterranean,United Arab Emirates,1987,92
+Africa,Algeria,1987,93
+Western Pacific,Nauru,1987,93
+South-East Asia,Thailand,1987,93
+Western Pacific,Tonga,1987,93
+Eastern Mediterranean,Tunisia,1987,93
+Americas,Argentina,1987,94
+Africa,Eswatini,1987,94
+Americas,Nicaragua,1987,94
+Africa,Seychelles,1987,94
+Africa,United Republic of Tanzania,1987,94
+Africa,Zimbabwe,1987,94
+Africa,Botswana,1987,95
+Africa,Gabon,1987,95
+Eastern Mediterranean,Libya,1987,95
+Europe,Poland,1987,95
+Europe,Romania,1987,95
+Africa,Togo,1987,95
+Americas,Cuba,1987,96
+Americas,Chile,1987,97
+Africa,Comoros,1987,97
+Africa,Gambia,1987,97
+Eastern Mediterranean,Oman,1987,97
+Africa,Zambia,1987,97
+Americas,Dominica,1987,98
+Western Pacific,Fiji,1987,98
+Western Pacific,Malaysia,1987,98
+Western Pacific,Samoa,1987,98
+Western Pacific,Singapore,1987,98
+Americas,Uruguay,1987,98
+Europe,Bulgaria,1987,99
+Africa,Cabo Verde,1987,99
+Europe,Hungary,1987,99
+Eastern Mediterranean,Iraq,1987,99
+Western Pacific,Niue,1987,99
+Western Pacific,Lao People's Democratic Republic,1986,10
+Africa,Ethiopia,1986,13
+Europe,Sweden,1986,14
+Eastern Mediterranean,Afghanistan,1986,18
+Eastern Mediterranean,Sudan,1986,22
+Africa,Guinea,1986,23
+Eastern Mediterranean,Yemen,1986,23
+Africa,Chad,1986,24
+South-East Asia,Myanmar,1986,28
+Africa,Niger,1986,28
+Eastern Mediterranean,Somalia,1986,28
+Africa,Equatorial Guinea,1986,30
+Africa,Angola,1986,32
+Americas,Guatemala,1986,32
+Africa,Central African Republic,1986,37
+Africa,Mali,1986,37
+Eastern Mediterranean,Djibouti,1986,38
+South-East Asia,Bangladesh,1986,4
+Africa,Nigeria,1986,40
+Africa,Benin,1986,41
+Africa,Côte d’Ivoire,1986,41
+Africa,Mozambique,1986,45
+Western Pacific,Cambodia,1986,47
+Western Pacific,Republic of Korea,1986,47
+Western Pacific,Solomon Islands,1986,47
+Africa,Madagascar,1986,49
+Africa,Democratic Republic of the Congo,1986,51
+Americas,El Salvador,1986,51
+Americas,Paraguay,1986,51
+Africa,Uganda,1986,51
+Africa,Burkina Faso,1986,52
+Americas,Bolivia (Plurinational State of),1986,53
+South-East Asia,Democratic People's Republic of Korea,1986,53
+Africa,Togo,1986,53
+Americas,Dominican Republic,1986,54
+South-East Asia,Maldives,1986,54
+Americas,Mexico,1986,54
+Western Pacific,Mongolia,1986,54
+Americas,Peru,1986,54
+Africa,Ghana,1986,55
+Western Pacific,Viet Nam,1986,55
+Eastern Mediterranean,Iran (Islamic Republic of),1986,56
+South-East Asia,Bhutan,1986,60
+Africa,Cameroon,1986,60
+Africa,South Africa,1986,61
+Americas,Brazil,1986,65
+Western Pacific,Kiribati,1986,65
+South-East Asia,Indonesia,1986,66
+South-East Asia,Nepal,1986,67
+Europe,Greece,1986,69
+Africa,Guinea-Bissau,1986,69
+Eastern Mediterranean,Pakistan,1986,69
+Western Pacific,China,1986,70
+Americas,Colombia,1986,70
+Western Pacific,Niue,1986,71
+Europe,Portugal,1986,71
+Americas,Honduras,1986,72
+Europe,Malta,1986,72
+Americas,Jamaica,1986,73
+Africa,Mauritania,1986,73
+Americas,Saint Lucia,1986,73
+Western Pacific,Vanuatu,1986,75
+Americas,Guyana,1986,76
+Americas,Haiti,1986,76
+Western Pacific,Papua New Guinea,1986,76
+Americas,Saint Vincent and the Grenadines,1986,76
+Africa,Burundi,1986,77
+Eastern Mediterranean,Egypt,1986,77
+Eastern Mediterranean,United Arab Emirates,1986,78
+Americas,Costa Rica,1986,79
+South-East Asia,Sri Lanka,1986,79
+Europe,Finland,1986,80
+Africa,Kenya,1986,80
+Europe,Ireland,1986,81
+Europe,Turkey,1986,82
+Africa,United Republic of Tanzania,1986,82
+Eastern Mediterranean,Morocco,1986,83
+South-East Asia,Thailand,1986,83
+Europe,France,1986,84
+Western Pacific,Philippines,1986,84
+Eastern Mediterranean,Qatar,1986,84
+Western Pacific,Brunei Darussalam,1986,85
+Western Pacific,Japan,1986,85
+Africa,Congo,1986,86
+Americas,Venezuela (Bolivarian Republic of),1986,86
+Western Pacific,Cook Islands,1986,87
+Americas,Dominica,1986,87
+Africa,Malawi,1986,87
+Western Pacific,Nauru,1986,87
+Africa,Algeria,1986,88
+Africa,Lesotho,1986,88
+Africa,Mauritius,1986,88
+South-East Asia,India,1986,9
+Europe,Austria,1986,90
+Africa,Gabon,1986,90
+Eastern Mediterranean,Saudi Arabia,1986,90
+Africa,Eswatini,1986,91
+Europe,Albania,1986,92
+Eastern Mediterranean,Libya,1986,92
+Americas,Panama,1986,92
+Africa,Rwanda,1986,92
+Africa,Senegal,1986,92
+Eastern Mediterranean,Tunisia,1986,92
+Western Pacific,Tuvalu,1986,92
+Americas,Uruguay,1986,92
+Africa,Cabo Verde,1986,93
+Europe,Romania,1986,93
+Americas,Belize,1986,94
+Americas,Ecuador,1986,94
+Africa,Seychelles,1986,94
+Africa,Zimbabwe,1986,94
+Eastern Mediterranean,Oman,1986,95
+Europe,Poland,1986,95
+Africa,Zambia,1986,95
+Americas,Chile,1986,96
+Western Pacific,Fiji,1986,96
+Africa,Gambia,1986,96
+Western Pacific,Malaysia,1986,96
+Africa,Comoros,1986,97
+Western Pacific,Samoa,1986,97
+Americas,Cuba,1986,98
+Eastern Mediterranean,Iraq,1986,98
+Eastern Mediterranean,Syrian Arab Republic,1986,98
+Western Pacific,Tonga,1986,98
+Americas,Argentina,1986,99
+Africa,Botswana,1986,99
+Europe,Bulgaria,1986,99
+Europe,Hungary,1986,99
+Americas,Nicaragua,1986,99
+Africa,Sao Tome and Principe,1986,99
+Western Pacific,Singapore,1986,99
+Africa,Ethiopia,1985,11
+Eastern Mediterranean,Sudan,1985,12
+Africa,Chad,1985,15
+Americas,Mexico,1985,16
+Europe,Sweden,1985,16
+Eastern Mediterranean,Afghanistan,1985,17
+Africa,Guinea,1985,18
+South-East Asia,Bangladesh,1985,2
+Eastern Mediterranean,Yemen,1985,20
+Americas,Bolivia (Plurinational State of),1985,24
+Africa,Benin,1985,27
+Africa,Angola,1985,28
+Africa,Equatorial Guinea,1985,28
+Africa,Niger,1985,28
+Africa,Nigeria,1985,28
+Africa,Côte d’Ivoire,1985,29
+Americas,Guatemala,1985,30
+Eastern Mediterranean,Somalia,1985,30
+Africa,Madagascar,1985,31
+Africa,Burkina Faso,1985,33
+Western Pacific,Cambodia,1985,33
+Africa,Mali,1985,33
+Africa,Central African Republic,1985,34
+Eastern Mediterranean,Djibouti,1985,37
+Africa,Uganda,1985,37
+Africa,Ghana,1985,41
+Western Pacific,Niue,1985,41
+South-East Asia,Maldives,1985,45
+South-East Asia,Myanmar,1985,45
+Africa,Mozambique,1985,47
+Western Pacific,Republic of Korea,1985,47
+Americas,El Salvador,1985,50
+Western Pacific,Solomon Islands,1985,50
+Western Pacific,Viet Nam,1985,50
+South-East Asia,Democratic People's Republic of Korea,1985,51
+Americas,Dominican Republic,1985,51
+Americas,Jamaica,1985,51
+Africa,Burundi,1985,52
+Western Pacific,Mongolia,1985,52
+Eastern Mediterranean,Syrian Arab Republic,1985,53
+South-East Asia,Bhutan,1985,54
+Africa,Cameroon,1985,54
+Africa,Togo,1985,54
+Africa,Guinea-Bissau,1985,56
+Africa,Democratic Republic of the Congo,1985,57
+Eastern Mediterranean,United Arab Emirates,1985,60
+Western Pacific,Kiribati,1985,62
+Eastern Mediterranean,Pakistan,1985,62
+Americas,Brazil,1985,63
+Americas,Peru,1985,63
+Africa,Cabo Verde,1985,64
+Western Pacific,China,1985,64
+Europe,Greece,1985,65
+Americas,Honduras,1985,65
+South-East Asia,Indonesia,1985,65
+Europe,Malta,1985,65
+Western Pacific,Papua New Guinea,1985,66
+South-East Asia,Nepal,1985,67
+Americas,Paraguay,1985,68
+Africa,South Africa,1985,70
+Americas,Haiti,1985,71
+South-East Asia,Sri Lanka,1985,71
+Africa,Mauritania,1985,74
+Africa,Sao Tome and Principe,1985,75
+Americas,Colombia,1985,76
+Western Pacific,Philippines,1985,76
+Eastern Mediterranean,Qatar,1985,76
+Europe,Turkey,1985,76
+Africa,Zimbabwe,1985,76
+Africa,Comoros,1985,77
+Eastern Mediterranean,Morocco,1985,77
+Africa,Eswatini,1985,79
+Eastern Mediterranean,Iran (Islamic Republic of),1985,79
+South-East Asia,India,1985,8
+Western Pacific,Lao People's Democratic Republic,1985,8
+Eastern Mediterranean,Egypt,1985,80
+Africa,Gabon,1985,80
+Europe,Ireland,1985,80
+South-East Asia,Thailand,1985,80
+Americas,Belize,1985,81
+Western Pacific,Nauru,1985,81
+Americas,Costa Rica,1985,82
+Europe,France,1985,82
+Africa,Kenya,1985,82
+Europe,Portugal,1985,82
+Europe,Finland,1985,83
+Africa,Rwanda,1985,83
+Western Pacific,Vanuatu,1985,83
+Americas,Saint Vincent and the Grenadines,1985,84
+Western Pacific,Japan,1985,85
+Africa,Algeria,1985,86
+Eastern Mediterranean,Libya,1985,87
+Africa,Malawi,1985,87
+Africa,Mauritius,1985,87
+Africa,Congo,1985,89
+Eastern Mediterranean,Saudi Arabia,1985,89
+Americas,Venezuela (Bolivarian Republic of),1985,89
+Americas,Argentina,1985,90
+Europe,Austria,1985,90
+Americas,Dominica,1985,90
+Eastern Mediterranean,Tunisia,1985,90
+Western Pacific,Tuvalu,1985,90
+Africa,United Republic of Tanzania,1985,90
+Africa,Lesotho,1985,91
+Europe,Albania,1985,92
+Africa,Gambia,1985,92
+Africa,Seychelles,1985,92
+Americas,Uruguay,1985,92
+Africa,Zambia,1985,92
+Eastern Mediterranean,Oman,1985,93
+Western Pacific,Singapore,1985,93
+Eastern Mediterranean,Iraq,1985,94
+Americas,Panama,1985,94
+Western Pacific,Brunei Darussalam,1985,95
+Western Pacific,Malaysia,1985,95
+Europe,Poland,1985,95
+Americas,Chile,1985,96
+Africa,Botswana,1985,97
+Western Pacific,Samoa,1985,97
+Americas,Cuba,1985,98
+Americas,Guyana,1985,98
+Europe,Bulgaria,1985,99
+Western Pacific,Cook Islands,1985,99
+Americas,Ecuador,1985,99
+Western Pacific,Fiji,1985,99
+Europe,Hungary,1985,99
+Americas,Nicaragua,1985,99
+Americas,Saint Lucia,1985,99
+Western Pacific,Tonga,1985,99
+Eastern Mediterranean,Iran (Islamic Republic of),1984,10
+Eastern Mediterranean,Afghanistan,1984,11
+Africa,Guinea,1984,14
+Africa,Nigeria,1984,16
+Europe,Sweden,1984,16
+Eastern Mediterranean,Yemen,1984,16
+Africa,Côte d’Ivoire,1984,17
+Eastern Mediterranean,Somalia,1984,17
+South-East Asia,Bangladesh,1984,2
+Americas,El Salvador,1984,22
+Americas,Bolivia (Plurinational State of),1984,23
+Western Pacific,Cambodia,1984,27
+Africa,Angola,1984,28
+Africa,Madagascar,1984,28
+Africa,Niger,1984,28
+Africa,Mali,1984,30
+Africa,Central African Republic,1984,32
+Americas,Saint Vincent and the Grenadines,1984,32
+Africa,Uganda,1984,32
+Americas,Guatemala,1984,33
+Eastern Mediterranean,Djibouti,1984,36
+South-East Asia,Maldives,1984,36
+South-East Asia,Myanmar,1984,36
+Africa,Ghana,1984,41
+Americas,Honduras,1984,41
+Western Pacific,Niue,1984,41
+Africa,Guinea-Bissau,1984,42
+Eastern Mediterranean,United Arab Emirates,1984,42
+Americas,Dominican Republic,1984,43
+Africa,Burundi,1984,46
+South-East Asia,Bhutan,1984,47
+Americas,Mexico,1984,47
+Western Pacific,Republic of Korea,1984,47
+Western Pacific,Viet Nam,1984,48
+Africa,Cameroon,1984,49
+South-East Asia,Democratic People's Republic of Korea,1984,49
+Americas,Guyana,1984,49
+Africa,Mozambique,1984,49
+Eastern Mediterranean,Syrian Arab Republic,1984,49
+Americas,Jamaica,1984,50
+Western Pacific,Mongolia,1984,52
+Eastern Mediterranean,Egypt,1984,53
+Western Pacific,Kiribati,1984,54
+Eastern Mediterranean,Pakistan,1984,55
+Africa,Togo,1984,55
+Africa,Comoros,1984,56
+South-East Asia,Indonesia,1984,56
+South-East Asia,Nepal,1984,58
+Western Pacific,China,1984,59
+Western Pacific,Cook Islands,1984,60
+Europe,Greece,1984,60
+Western Pacific,Solomon Islands,1984,61
+Africa,Democratic Republic of the Congo,1984,62
+Europe,Malta,1984,63
+Americas,Peru,1984,64
+Western Pacific,Vanuatu,1984,64
+Western Pacific,Papua New Guinea,1984,66
+Africa,Rwanda,1984,66
+Africa,South Africa,1984,67
+South-East Asia,Sri Lanka,1984,67
+Americas,Colombia,1984,69
+Africa,Zimbabwe,1984,69
+South-East Asia,India,1984,7
+Western Pacific,Lao People's Democratic Republic,1984,7
+Africa,Mauritania,1984,70
+Eastern Mediterranean,Morocco,1984,70
+Americas,Haiti,1984,71
+Western Pacific,Philippines,1984,71
+Europe,Turkey,1984,71
+Africa,Zambia,1984,71
+Africa,Eswatini,1984,73
+Eastern Mediterranean,Qatar,1984,73
+Africa,United Republic of Tanzania,1984,73
+Africa,Malawi,1984,74
+Americas,Brazil,1984,75
+Europe,Ireland,1984,75
+Africa,Kenya,1984,76
+South-East Asia,Thailand,1984,76
+Americas,Belize,1984,77
+Africa,Gabon,1984,77
+Americas,Argentina,1984,78
+Western Pacific,Tonga,1984,78
+Eastern Mediterranean,Oman,1984,79
+Europe,Portugal,1984,79
+Africa,Chad,1984,8
+Africa,Ethiopia,1984,8
+Eastern Mediterranean,Sudan,1984,8
+Africa,Congo,1984,80
+Americas,Paraguay,1984,80
+Americas,Saint Lucia,1984,80
+Western Pacific,Nauru,1984,81
+Africa,Sao Tome and Principe,1984,82
+Americas,Dominica,1984,84
+Western Pacific,Japan,1984,85
+Eastern Mediterranean,Libya,1984,85
+Americas,Costa Rica,1984,86
+Europe,Finland,1984,86
+Africa,Mauritius,1984,88
+Eastern Mediterranean,Saudi Arabia,1984,88
+Africa,Lesotho,1984,89
+Americas,Panama,1984,89
+Eastern Mediterranean,Tunisia,1984,89
+Europe,Albania,1984,90
+Europe,Austria,1984,90
+Western Pacific,Brunei Darussalam,1984,90
+Western Pacific,Tuvalu,1984,90
+Eastern Mediterranean,Iraq,1984,91
+Americas,Venezuela (Bolivarian Republic of),1984,92
+Western Pacific,Singapore,1984,93
+Americas,Uruguay,1984,93
+Western Pacific,Fiji,1984,94
+Africa,Botswana,1984,95
+Americas,Chile,1984,95
+Western Pacific,Malaysia,1984,95
+Europe,Poland,1984,95
+Africa,Seychelles,1984,95
+Europe,France,1984,96
+Americas,Cuba,1984,97
+Western Pacific,Samoa,1984,97
+Africa,Gambia,1984,98
+Americas,Nicaragua,1984,98
+Europe,Bulgaria,1984,99
+Americas,Ecuador,1984,99
+Europe,Hungary,1984,99
+Eastern Mediterranean,Afghanistan,1983,10
+Africa,Guinea,1983,10
+Eastern Mediterranean,Iran (Islamic Republic of),1983,10
+Europe,Sweden,1983,10
+Eastern Mediterranean,Yemen,1983,15
+Africa,Nigeria,1983,19
+South-East Asia,Bangladesh,1983,2
+Americas,Guatemala,1983,24
+Africa,Angola,1983,25
+Africa,Mali,1983,26
+Americas,Bolivia (Plurinational State of),1983,27
+South-East Asia,Maldives,1983,27
+South-East Asia,Myanmar,1983,28
+Africa,Niger,1983,28
+Africa,Uganda,1983,28
+Africa,Central African Republic,1983,29
+Africa,Ghana,1983,31
+Africa,Madagascar,1983,31
+Western Pacific,China,1983,34
+Eastern Mediterranean,Pakistan,1983,35
+Eastern Mediterranean,Djibouti,1983,36
+Eastern Mediterranean,United Arab Emirates,1983,37
+Western Pacific,Solomon Islands,1983,39
+Western Pacific,Viet Nam,1983,4
+Americas,Dominican Republic,1983,41
+Western Pacific,Republic of Korea,1983,45
+Eastern Mediterranean,Syrian Arab Republic,1983,45
+South-East Asia,Bhutan,1983,46
+Africa,Cameroon,1983,46
+Americas,El Salvador,1983,48
+Africa,Rwanda,1983,49
+Eastern Mediterranean,Sudan,1983,5
+Africa,Togo,1983,51
+Africa,Burundi,1983,52
+South-East Asia,Democratic People's Republic of Korea,1983,52
+Americas,Mexico,1983,52
+Western Pacific,Mongolia,1983,52
+Eastern Mediterranean,Egypt,1983,53
+South-East Asia,Nepal,1983,53
+Americas,Honduras,1983,55
+Americas,Paraguay,1983,55
+Europe,Greece,1983,56
+Americas,Jamaica,1983,56
+South-East Asia,Indonesia,1983,58
+Western Pacific,Papua New Guinea,1983,58
+Western Pacific,Vanuatu,1983,58
+Africa,Mozambique,1983,59
+South-East Asia,India,1983,6
+Western Pacific,Niue,1983,60
+Americas,Peru,1983,61
+Americas,Haiti,1983,62
+Eastern Mediterranean,Morocco,1983,62
+Europe,Malta,1983,63
+South-East Asia,Sri Lanka,1983,64
+Africa,Democratic Republic of the Congo,1983,65
+Europe,Turkey,1983,65
+Americas,Brazil,1983,66
+Africa,Mauritania,1983,66
+Africa,Zimbabwe,1983,67
+Africa,Zambia,1983,68
+Western Pacific,Philippines,1983,69
+Eastern Mediterranean,Qatar,1983,69
+Americas,Saint Lucia,1983,69
+Africa,Ethiopia,1983,7
+Western Pacific,Lao People's Democratic Republic,1983,7
+Eastern Mediterranean,Somalia,1983,7
+Americas,Argentina,1983,70
+Africa,South Africa,1983,71
+Africa,Eswatini,1983,72
+Western Pacific,Kiribati,1983,72
+Eastern Mediterranean,Saudi Arabia,1983,72
+Western Pacific,Cook Islands,1983,74
+Europe,Ireland,1983,75
+South-East Asia,Thailand,1983,75
+Americas,Guyana,1983,76
+Europe,Portugal,1983,76
+Eastern Mediterranean,Oman,1983,77
+Americas,Colombia,1983,79
+Africa,Gabon,1983,80
+Americas,Belize,1983,81
+Europe,France,1983,81
+Africa,Malawi,1983,81
+Americas,Panama,1983,81
+Americas,Venezuela (Bolivarian Republic of),1983,82
+Americas,Costa Rica,1983,83
+Western Pacific,Singapore,1983,83
+Western Pacific,Tonga,1983,83
+Africa,United Republic of Tanzania,1983,83
+Eastern Mediterranean,Libya,1983,84
+Americas,Ecuador,1983,85
+Africa,Sao Tome and Principe,1983,86
+Eastern Mediterranean,Iraq,1983,87
+Africa,Lesotho,1983,87
+Africa,Mauritius,1983,88
+Eastern Mediterranean,Tunisia,1983,88
+Americas,Nicaragua,1983,89
+Europe,Albania,1983,90
+Europe,Austria,1983,90
+Africa,Congo,1983,90
+Europe,Finland,1983,90
+Western Pacific,Japan,1983,91
+Americas,Chile,1983,92
+Africa,Botswana,1983,94
+Western Pacific,Malaysia,1983,94
+Europe,Poland,1983,95
+Americas,Cuba,1983,96
+Africa,Gambia,1983,96
+Africa,Seychelles,1983,98
+Western Pacific,Brunei Darussalam,1983,99
+Europe,Bulgaria,1983,99
+Americas,Dominica,1983,99
+Western Pacific,Fiji,1983,99
+Europe,Hungary,1983,99
+Western Pacific,Samoa,1983,99
+Western Pacific,Tuvalu,1983,99
+Americas,Uruguay,1983,99
+South-East Asia,Bangladesh,1982,1
+Eastern Mediterranean,Afghanistan,1982,10
+Eastern Mediterranean,Iran (Islamic Republic of),1982,10
+Eastern Mediterranean,Pakistan,1982,12
+Eastern Mediterranean,Yemen,1982,13
+South-East Asia,Maldives,1982,20
+South-East Asia,Myanmar,1982,20
+Africa,Nigeria,1982,21
+Africa,Madagascar,1982,22
+Africa,Mali,1982,23
+Africa,Uganda,1982,23
+Africa,Central African Republic,1982,24
+Africa,Cameroon,1982,27
+Americas,Jamaica,1982,27
+Americas,Guatemala,1982,28
+Africa,Niger,1982,28
+Eastern Mediterranean,United Arab Emirates,1982,28
+Eastern Mediterranean,Sudan,1982,3
+Americas,Bolivia (Plurinational State of),1982,31
+Western Pacific,Solomon Islands,1982,36
+Eastern Mediterranean,Syrian Arab Republic,1982,37
+Americas,Dominican Republic,1982,38
+South-East Asia,India,1982,4
+Eastern Mediterranean,Qatar,1982,44
+Western Pacific,Republic of Korea,1982,44
+South-East Asia,Bhutan,1982,45
+Americas,El Salvador,1982,46
+Americas,Paraguay,1982,47
+Europe,Turkey,1982,47
+Americas,Dominica,1982,48
+Africa,Togo,1982,48
+Eastern Mediterranean,Djibouti,1982,5
+Eastern Mediterranean,Egypt,1982,50
+Americas,Honduras,1982,50
+Americas,Mexico,1982,50
+Eastern Mediterranean,Morocco,1982,50
+Western Pacific,Papua New Guinea,1982,50
+Africa,Rwanda,1982,50
+South-East Asia,Democratic People's Republic of Korea,1982,51
+Western Pacific,Mongolia,1982,52
+Africa,Burundi,1982,56
+Africa,Mozambique,1982,56
+Eastern Mediterranean,Saudi Arabia,1982,56
+Americas,Haiti,1982,58
+Western Pacific,Cook Islands,1982,59
+South-East Asia,Nepal,1982,59
+Africa,Ethiopia,1982,6
+Western Pacific,Lao People's Democratic Republic,1982,6
+Europe,Sweden,1982,6
+South-East Asia,Indonesia,1982,60
+Americas,Saint Lucia,1982,60
+Africa,Mauritania,1982,61
+Western Pacific,Vanuatu,1982,61
+Africa,Democratic Republic of the Congo,1982,62
+Americas,Brazil,1982,64
+Africa,United Republic of Tanzania,1982,64
+Americas,Colombia,1982,65
+Americas,Peru,1982,65
+South-East Asia,Sri Lanka,1982,65
+Africa,Zimbabwe,1982,65
+Africa,Eswatini,1982,66
+Western Pacific,Philippines,1982,66
+Europe,Israel,1982,68
+Africa,Guinea,1982,7
+Africa,Zambia,1982,70
+South-East Asia,Thailand,1982,73
+Europe,Greece,1982,76
+Europe,Portugal,1982,76
+Americas,Uruguay,1982,76
+Americas,Venezuela (Bolivarian Republic of),1982,76
+Americas,Argentina,1982,77
+Eastern Mediterranean,Oman,1982,77
+Americas,Guyana,1982,78
+Western Pacific,Tuvalu,1982,78
+Eastern Mediterranean,Somalia,1982,8
+Western Pacific,Niue,1982,80
+Americas,Costa Rica,1982,81
+Europe,France,1982,81
+Africa,Gabon,1982,82
+Eastern Mediterranean,Iraq,1982,83
+Americas,Nicaragua,1982,83
+Americas,Panama,1982,83
+Africa,Seychelles,1982,83
+Africa,Lesotho,1982,84
+Americas,Belize,1982,85
+Africa,Malawi,1982,87
+Western Pacific,Singapore,1982,87
+Eastern Mediterranean,Tunisia,1982,87
+Eastern Mediterranean,Libya,1982,89
+Africa,Mauritius,1982,89
+Europe,Austria,1982,90
+Europe,Finland,1982,90
+Africa,Sao Tome and Principe,1982,90
+Africa,Congo,1982,91
+Africa,Gambia,1982,91
+Western Pacific,Kiribati,1982,91
+Europe,Albania,1982,92
+Europe,Poland,1982,93
+Africa,Botswana,1982,94
+Americas,Chile,1982,94
+Western Pacific,Malaysia,1982,95
+Western Pacific,Japan,1982,96
+Western Pacific,Samoa,1982,96
+Americas,Cuba,1982,97
+Western Pacific,Fiji,1982,98
+Western Pacific,Tonga,1982,98
+Western Pacific,Brunei Darussalam,1982,99
+Europe,Bulgaria,1982,99
+Americas,Ecuador,1982,99
+Europe,Hungary,1982,99
+South-East Asia,Bangladesh,1981,1
+Eastern Mediterranean,Pakistan,1981,11
+Eastern Mediterranean,Yemen,1981,12
+South-East Asia,Myanmar,1981,15
+Africa,Uganda,1981,18
+Eastern Mediterranean,United Arab Emirates,1981,18
+Africa,Mali,1981,19
+Africa,Nigeria,1981,23
+Africa,Central African Republic,1981,26
+Africa,Madagascar,1981,26
+Africa,Niger,1981,28
+Eastern Mediterranean,Qatar,1981,28
+Americas,Guatemala,1981,29
+Eastern Mediterranean,Somalia,1981,3
+Eastern Mediterranean,Sudan,1981,3
+Americas,Bolivia (Plurinational State of),1981,30
+Americas,Jamaica,1981,32
+South-East Asia,Nepal,1981,32
+Western Pacific,Vanuatu,1981,32
+Americas,Dominican Republic,1981,34
+Eastern Mediterranean,Syrian Arab Republic,1981,36
+Africa,Guinea,1981,4
+South-East Asia,India,1981,4
+Western Pacific,Lao People's Democratic Republic,1981,4
+Europe,Sweden,1981,4
+Americas,Honduras,1981,41
+Americas,Mexico,1981,41
+Americas,Paraguay,1981,42
+Western Pacific,Republic of Korea,1981,42
+Europe,Turkey,1981,42
+Western Pacific,Solomon Islands,1981,43
+South-East Asia,Bhutan,1981,44
+Western Pacific,Cook Islands,1981,44
+Americas,Saint Lucia,1981,44
+Africa,Togo,1981,44
+Africa,Mozambique,1981,46
+Americas,El Salvador,1981,47
+Eastern Mediterranean,Saudi Arabia,1981,49
+Africa,Ethiopia,1981,5
+Eastern Mediterranean,Egypt,1981,50
+Africa,Rwanda,1981,51
+South-East Asia,Democratic People's Republic of Korea,1981,52
+Western Pacific,Mongolia,1981,53
+Eastern Mediterranean,Oman,1981,54
+South-East Asia,Indonesia,1981,55
+Americas,Colombia,1981,57
+Americas,Dominica,1981,57
+Africa,Mauritania,1981,57
+South-East Asia,Sri Lanka,1981,58
+Africa,Burundi,1981,59
+Africa,Eswatini,1981,59
+Eastern Mediterranean,Iran (Islamic Republic of),1981,6
+Americas,Haiti,1981,60
+Africa,Democratic Republic of the Congo,1981,61
+Western Pacific,Philippines,1981,61
+Americas,Brazil,1981,62
+Americas,Peru,1981,63
+Western Pacific,Papua New Guinea,1981,64
+Africa,Zimbabwe,1981,64
+Americas,Nicaragua,1981,66
+Africa,Seychelles,1981,67
+Western Pacific,Kiribati,1981,68
+Americas,Argentina,1981,70
+Europe,Israel,1981,70
+Americas,Belize,1981,71
+South-East Asia,Thailand,1981,71
+Africa,Zambia,1981,72
+Americas,Guyana,1981,73
+Europe,Portugal,1981,74
+Africa,United Republic of Tanzania,1981,74
+Americas,Uruguay,1981,76
+Americas,Venezuela (Bolivarian Republic of),1981,77
+Eastern Mediterranean,Libya,1981,78
+Africa,Cameroon,1981,8
+South-East Asia,Maldives,1981,8
+Europe,France,1981,80
+Eastern Mediterranean,Iraq,1981,80
+Americas,Costa Rica,1981,81
+Africa,Lesotho,1981,81
+Americas,Ecuador,1981,82
+Western Pacific,Singapore,1981,83
+Western Pacific,Samoa,1981,84
+Western Pacific,Japan,1981,85
+Africa,Malawi,1981,86
+Western Pacific,Tonga,1981,86
+Africa,Mauritius,1981,87
+Western Pacific,Tuvalu,1981,89
+Europe,Austria,1981,90
+Europe,Finland,1981,90
+Western Pacific,Malaysia,1981,91
+Europe,Albania,1981,93
+Africa,Botswana,1981,93
+Europe,Poland,1981,93
+Europe,Greece,1981,95
+Africa,Sao Tome and Principe,1981,95
+Americas,Chile,1981,96
+Africa,Gambia,1981,96
+Americas,Cuba,1981,97
+Western Pacific,Fiji,1981,98
+Americas,Panama,1981,98
+Western Pacific,Brunei Darussalam,1981,99
+Europe,Bulgaria,1981,99
+Europe,Hungary,1981,99
+Western Pacific,Niue,1981,99
+Eastern Mediterranean,United Arab Emirates,1980,15
+Africa,Central African Republic,1980,17
+Eastern Mediterranean,Sudan,1980,2
+Africa,Madagascar,1980,21
+South-East Asia,Nepal,1980,22
+Americas,Honduras,1980,25
+Americas,Saint Lucia,1980,27
+Western Pacific,Cook Islands,1980,29
+Americas,Dominican Republic,1980,29
+Europe,Sweden,1980,3
+Americas,Bolivia (Plurinational State of),1980,30
+Americas,Paraguay,1980,31
+Eastern Mediterranean,Saudi Arabia,1980,33
+Americas,Nicaragua,1980,34
+Eastern Mediterranean,Syrian Arab Republic,1980,35
+Americas,Guatemala,1980,36
+Americas,Jamaica,1980,38
+Eastern Mediterranean,Qatar,1980,4
+South-East Asia,Bhutan,1980,43
+Americas,Colombia,1980,45
+Americas,Mexico,1980,48
+South-East Asia,Democratic People's Republic of Korea,1980,50
+Eastern Mediterranean,Egypt,1980,50
+Western Pacific,Mongolia,1980,51
+Eastern Mediterranean,Oman,1980,51
+Americas,Brazil,1980,56
+Americas,El Salvador,1980,56
+Western Pacific,Philippines,1980,56
+Americas,Uruguay,1980,56
+Africa,Democratic Republic of the Congo,1980,57
+Americas,Peru,1980,57
+Eastern Mediterranean,Pakistan,1980,6
+Eastern Mediterranean,Somalia,1980,6
+South-East Asia,Indonesia,1980,61
+South-East Asia,Sri Lanka,1980,61
+Americas,Argentina,1980,62
+Western Pacific,Papua New Guinea,1980,62
+Americas,Dominica,1980,65
+Western Pacific,Solomon Islands,1980,65
+Western Pacific,Kiribati,1980,66
+Americas,Guyana,1980,68
+South-East Asia,Thailand,1980,68
+Eastern Mediterranean,Iran (Islamic Republic of),1980,7
+South-East Asia,Maldives,1980,7
+Americas,Belize,1980,71
+Western Pacific,Samoa,1980,72
+Africa,United Republic of Tanzania,1980,72
+Americas,Venezuela (Bolivarian Republic of),1980,72
+Europe,Israel,1980,75
+Americas,Ecuador,1980,76
+Eastern Mediterranean,Iraq,1980,76
+Americas,Costa Rica,1980,80
+Europe,France,1980,80
+Africa,Lesotho,1980,81
+Africa,Gambia,1980,85
+Western Pacific,Niue,1980,85
+Western Pacific,Singapore,1980,85
+Eastern Mediterranean,Libya,1980,88
+Africa,Mauritius,1980,89
+South-East Asia,Myanmar,1980,9
+Eastern Mediterranean,Yemen,1980,9
+Europe,Austria,1980,90
+Europe,Finland,1980,90
+Africa,Botswana,1980,92
+Africa,Congo,1980,92
+Europe,Albania,1980,93
+Europe,Poland,1980,93
+Western Pacific,Malaysia,1980,94
+Western Pacific,Fiji,1980,95
+Europe,Greece,1980,95
+Americas,Chile,1980,96
+Western Pacific,Brunei Darussalam,1980,99
+Europe,Bulgaria,1980,99
+Americas,Cuba,1980,99
+Europe,Hungary,1980,99
+Americas,Panama,1980,99
+Western Pacific,Tonga,1980,99
+Western Pacific,Tuvalu,1980,99
