@@ -80,6 +80,12 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
    * Relação de anos vs doênças:
 
    * Relação de anos vs BCG:
+   
+   <figure>
+	<img src="E1--Vaccine-immunology/images/Ano_HepatiteB.png" alt="Uma imagem impressionante">
+   </figure>
+
+
 
 
 # Metodologia
