@@ -80,7 +80,7 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
    * Cobertura de doenças no Brasil (ao longo dos anos):
    
    <figure>
-	<img src="images/Cobertura de doenças no Brasil (ao longo dos anos).png" alt="Doenças no Brasil", height="400" width="600">
+	<img src="images/Cobertura de doenças no Brasil (ao longo dos anos).png" alt="Doenças no Brasil", height="600" width="800">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
    
@@ -106,7 +106,7 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
    * Cobertura vacinal no Brasil 1994 - 2020:
 
    <figure>
-	<img src="images/Cobertura vacinal no Brasil 1994 - 2020.png" alt="Doenças no Brasil">
+	<img src="images/Cobertura vacinal no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="600" width="800">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
 
