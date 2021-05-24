@@ -75,22 +75,12 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
 <!-- * Por que este banco não foi adotado?-->
 > * Apresente aqui uma Análise Exploratória (inicial) sobre esta base.
 
-   Na análise exploratória inicial, foram realizadas:
-   
-   * Relação de anos vs doênças:
-
-   * Relação de anos vs BCG:
-   
-   <figure>
-	<img src="images/Gráfico de Dispersão entre Ano e Hepatite B.png" alt="Ano vs HepatiteB">
-	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
-   </figure>
-   
+   Na análise exploratória inicial, foram realizadas: 
    
    * Cobertura de doenças no Brasil (ao longo dos anos):
    
    <figure>
-	<img src="Cobertura de doenças no Brasil (ao longo dos anos).png" alt="Doenças no Brasil">
+	<img src="images/Cobertura de doenças no Brasil (ao longo dos anos).png" alt="Doenças no Brasil">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
    
@@ -116,7 +106,7 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
    * Cobertura vacinal no Brasil 1994 - 2020:
 
    <figure>
-	<img src="Cobertura vacinal no Brasil 1994 - 2020.png" alt="Doenças no Brasil">
+	<img src="images/Cobertura vacinal no Brasil 1994 - 2020.png" alt="Doenças no Brasil">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
 
