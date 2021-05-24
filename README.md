@@ -83,7 +83,30 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui√
    
    <figure>
 	<img src="images/Ano_HepatiteB.png" alt="Ano vs HepatiteB">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
+   
+   *Cobertura de doen√ßas no Brasil (ao longo dos anos):
+   
+   *Cobertura BCG (ao longo dos anos no Brasil):
+   
+   *Cobertura de Febre Amarela, Hepatite B, Poliomelite e BCG no Brasil (ao longo dos anos):
+   
+   *Cobertura BCG no Brasil (ao longo dos anos)
+   
+   *Cobertura no Vacinal no Brasil (ao longo dos anos)
+   
+   *Cobertura BCG no Mundo (ao longo dos anos)
+   
+   *Cobertura BCG no Brasil 1994 - 2020
+   
+   *Cobertura Poliomielite no Brasil 1994 - 2020:
+   
+   *Cobertura Hepatite B no Brasil 1994 - 2020:
+   
+   *Cobertura DTP no Brasil 1994 - 2016 (sem info no ano de 2003):
+   
+   *Cobertura vacinal no Brasil 1994 - 2020:
 
 
 
