@@ -95,11 +95,27 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
    
    * Cobertura BCG no Mundo (ao longo dos anos)
    
-   * Cobertura BCG no Brasil 1994 - 2020
+   * Cobertura BCG no Brasil 1994 - 2020:
    
+   <figure>
+	<img src="images/Cobertura BCG no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+
    * Cobertura Poliomielite no Brasil 1994 - 2020:
    
+   <figure>
+	<img src="images/Cobertura Poliomielite no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+   
+   
    * Cobertura Hepatite B no Brasil 1994 - 2020:
+
+   <figure>
+	<img src="images/Cobertura Hepatite B no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
    
    * Cobertura DTP no Brasil 1994 - 2016 (sem info no ano de 2003):
 
