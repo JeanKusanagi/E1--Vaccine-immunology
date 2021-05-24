@@ -104,14 +104,14 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
    * Cobertura DTP no Brasil 1994 - 2016 (sem info no ano de 2003):
 
    <figure>
-	<img src="images/Cobertura DTP no Brasil 1994 - 2016 (sem info no ano de 2003).png" alt="Doenças no Brasil", height="600" width="1200">
+	<img src="images/Cobertura DTP no Brasil 1994 - 2016 (sem info no ano de 2003).png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
    
    * Cobertura vacinal no Brasil 1994 - 2020:
 
    <figure>
-	<img src="images/Cobertura vacinal no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="600" width="800">
+	<img src="images/Cobertura vacinal no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="800">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
 
