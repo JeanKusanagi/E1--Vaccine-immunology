@@ -64,6 +64,59 @@ Todas as tabelas, armazenadas em arquivos 'csv', possuíam a mesma quantidade de
    * Remoção de linhas com dados categóricos, no caso, somente a última linha de todas as tabelas foram retiradas. Nessa linha, havia as representações totais de cada coluna.
    * Alguns dos valores numéricos possuiam o caracter ',' e, por isso, foram trocados pelo caracter '.'. Essa abordagem foi realizada para que a biblioteca pandas pudesse ler os dados dos arquivos 'csv' e, em seguida, manipulá-los.
    * Para muitos imunizantes não haviam dados de todos os anos (1994-2020), pois a cobertura vacinal era 0. Foram considerados para as análises somente os imunizantes com nenhum ou poucos valores nulos.
+  
+  Na análise exploratória inicial, foram feitos gráficos de correlação, boxplot e evolução temporal: 
+   
+    * Cobertura vacinal no Brasil 1994 - 2020:
+
+   <figure>
+	<img src="images/Cobertura vacinal no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="800">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+   
+   <figure>
+	<img src="images/cobertura_br_evolucao.png" alt="Doenças no Brasil", height="400" width="800">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+    
+ 
+   * Cobertura BCG no Brasil 1994 - 2020:
+   
+   <figure>
+	<img src="images/Cobertura BCG no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+
+   * Cobertura Poliomielite no Brasil 1994 - 2020:
+   
+   <figure>
+	<img src="images/Cobertura Poliomielite no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+   
+   <figure>
+	<img src="iimages/cobertura_polio_evolucao.png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+   
+   
+   
+   * Cobertura Hepatite B no Brasil 1994 - 2020:
+
+   <figure>
+	<img src="images/Cobertura Hepatite B no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+   
+   * Cobertura DTP no Brasil 1994 - 2016 (sem info no ano de 2003):
+
+   <figure>
+	<img src="images/Cobertura DTP no Brasil 1994 - 2016 (sem info no ano de 2003).png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+   
+   
+
 
 
 Database | Endereço na Web|Resumo descritivo
@@ -83,82 +136,7 @@ HDR | http://hdr.undp.org/en/data | Dataset com dados para desenvolvimento em te
 <!-- * Por que este banco não foi adotado?-->
 > * Apresente aqui uma Análise Exploratória (inicial) sobre esta base.
 
-   Na análise exploratória inicial, foram realizadas: 
    
-   * Cobertura de doenças no Brasil (ao longo dos anos):
-   
-   <figure>
-	<img src="images/Cobertura de doenças no Brasil (ao longo dos anos).png" alt="Doenças no Brasil", height="600" width="1200">
-	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
-   </figure>
-   
-   
-   * Cobertura BCG (ao longo dos anos no Brasil):
-   
-   <figure>
-	<img src="images/Cobertura BCG no Brasil (ao longo dos anos).png" alt="Doenças no Brasil", height="600" width="1200">
-	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
-   </figure>
-   
-   * Cobertura de Febre Amarela, Hepatite B, Poliomelite e BCG no Brasil (ao longo dos anos):
-   
-   <figure>
-	<img src="images/Cobertura de Febre Amarela, Hepatite B, Poliomelite e BCG no Brasil (ao longo dos anos).png" alt="Doenças no Brasil", height="600" width="1200">
-	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
-   </figure>
-   
-   * Cobertura BCG no Brasil (ao longo dos anos):
-
-   <figure>
-	<img src="images/Cobertura BCG no Brasil (ao longo dos anos).png" alt="Doenças no Brasil", height="600" width="1200">
-	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
-   </figure>
-   
-   * Cobertura no Vacinal no Brasil (ao longo dos anos):
-   
-   <figure>
-	<img src="images/Cobertura no Vacinal no Brasil (ao longo dos anos).png" alt="Doenças no Brasil", height="600" width="1200">
-	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
-   </figure>
-   
-   * Cobertura BCG no Mundo (ao longo dos anos)
-   
-   * Cobertura BCG no Brasil 1994 - 2020:
-   
-   <figure>
-	<img src="images/Cobertura BCG no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="1200">
-	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
-   </figure>
-
-   * Cobertura Poliomielite no Brasil 1994 - 2020:
-   
-   <figure>
-	<img src="images/Cobertura Poliomielite no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="1200">
-	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
-   </figure>
-   
-   
-   * Cobertura Hepatite B no Brasil 1994 - 2020:
-
-   <figure>
-	<img src="images/Cobertura Hepatite B no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="1200">
-	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
-   </figure>
-   
-   * Cobertura DTP no Brasil 1994 - 2016 (sem info no ano de 2003):
-
-   <figure>
-	<img src="images/Cobertura DTP no Brasil 1994 - 2016 (sem info no ano de 2003).png" alt="Doenças no Brasil", height="400" width="1200">
-	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
-   </figure>
-   
-   * Cobertura vacinal no Brasil 1994 - 2020:
-
-   <figure>
-	<img src="images/Cobertura vacinal no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="800">
-	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
-   </figure>
-
 
 
 
