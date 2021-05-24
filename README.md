@@ -75,6 +75,8 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
 <!-- * Por que este banco não foi adotado?-->
 > * Apresente aqui uma Análise Exploratória (inicial) sobre esta base.
 
+   Na análise exploratória inicial, foram realizadas:
+   
    * Relação de anos vs doênças:
 
    * Relação de anos vs BCG:
