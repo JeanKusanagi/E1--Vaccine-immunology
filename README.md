@@ -64,6 +64,13 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
 > Faça uma descrição sobre o que concluiu sobre esta base. Sugere-se que respondam perguntas ou forneçam informações indicadas a seguir:
 > * O que descobriu sobre esse banco?
 > * Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
+    
+   Todos as tabelas, armazenadas em arquivos 'csv', possuíam a mesma quantidade de valores em cada coluna, mesmo que seja o valor 0. Contudo, na última linha de cada tabela, possui um valor representando a soma total de todos os valores da respectiva coluna.
+   As transformações e tratamentos necesssários para obter uma nova base de dados que possa ser manipulada, de forma que se possa obter informações úteis e, posteriomente, ser analisadas, foram:
+   
+   * Remoção de linhas com dados categóricos, no caso, somente a última linha de todas as tabelas foram retiradas. Nessa linha, havia as representações totais de cada coluna.
+   * Alguns dos valores foram possuiam o caracter ',' e, por isso, foram trocados pelo caracter '.'. Essa abordagem foi realizada para o que a biblioteca pandas pudesse ler os dados dos arquivos 'csv' e, em seguida, manipulá-los.
+
 > * Por que este banco não foi adotado?
 > * Apresente aqui uma Análise Exploratória (inicial) sobre esta base.
 
