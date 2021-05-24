@@ -89,7 +89,7 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
    * Cobertura BCG (ao longo dos anos no Brasil):
    
    <figure>
-	<img src="images/Cobertura BCG (ao longo dos anos no Brasil).png" alt="Doenças no Brasil", height="600" width="1200">
+	<img src="images/Cobertura BCG no Brasil (ao longo dos anos).png" alt="Doenças no Brasil", height="600" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
    
