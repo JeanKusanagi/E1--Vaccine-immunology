@@ -80,7 +80,7 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
    * Cobertura de doenças no Brasil (ao longo dos anos):
    
    <figure>
-	<img src="images/Cobertura de doenças no Brasil (ao longo dos anos).png" alt="Doenças no Brasil", height="400" width="400">
+	<img src="images/Cobertura de doenças no Brasil (ao longo dos anos).png" alt="Doenças no Brasil", height="400" width="600">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
    
