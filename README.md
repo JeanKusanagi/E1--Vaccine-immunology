@@ -82,11 +82,18 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
    * Relação de anos vs BCG:
    
    <figure>
-	<img src="images/Ano_HepatiteB.png" alt="Ano vs HepatiteB">
+	<img src="images/Gráfico de Dispersão entre Ano e Hepatite B.png" alt="Ano vs HepatiteB">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
    
+   
    * Cobertura de doenças no Brasil (ao longo dos anos):
+   
+   <figure>
+	<img src="Cobertura de doenças no Brasil (ao longo dos anos).png" alt="Doenças no Brasil">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+   
    
    * Cobertura BCG (ao longo dos anos no Brasil):
    
@@ -107,6 +114,11 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
    * Cobertura DTP no Brasil 1994 - 2016 (sem info no ano de 2003):
    
    * Cobertura vacinal no Brasil 1994 - 2020:
+
+   <figure>
+	<img src="Cobertura vacinal no Brasil 1994 - 2020.png" alt="Doenças no Brasil">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
 
 
 
