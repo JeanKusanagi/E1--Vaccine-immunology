@@ -66,6 +66,7 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
 > * Quais as transformações e tratamentos (e.g., dados faltantes e limpeza) feitos?
     
    Todos as tabelas, armazenadas em arquivos 'csv', possuíam a mesma quantidade de valores em cada coluna, mesmo que seja o valor 0. Contudo, na última linha de cada tabela, possui um valor representando a soma total de todos os valores da respectiva coluna.
+   
    As transformações e tratamentos necesssários para obter uma nova base de dados que possa ser manipulada, de forma que se possa obter informações úteis e, posteriomente, ser analisadas, foram:
    
    * Remoção de linhas com dados categóricos, no caso, somente a última linha de todas as tabelas foram retiradas. Nessa linha, havia as representações totais de cada coluna.
