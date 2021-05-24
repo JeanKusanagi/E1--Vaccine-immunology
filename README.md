@@ -72,8 +72,12 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
    * Remoção de linhas com dados categóricos, no caso, somente a última linha de todas as tabelas foram retiradas. Nessa linha, havia as representações totais de cada coluna.
    * Alguns dos valores foram possuiam o caracter ',' e, por isso, foram trocados pelo caracter '.'. Essa abordagem foi realizada para o que a biblioteca pandas pudesse ler os dados dos arquivos 'csv' e, em seguida, manipulá-los.
 
-> * Por que este banco não foi adotado?
+<!--> * Por que este banco não foi adotado?-->
 > * Apresente aqui uma Análise Exploratória (inicial) sobre esta base.
+
+   * Relação de anos vs doênças:
+
+   * Relação de anos vs BCG:
 
 
 # Metodologia
