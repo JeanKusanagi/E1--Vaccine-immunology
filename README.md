@@ -51,9 +51,9 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
 
 <!--Como a pandemia do COVID-19 e movimentos antivacina podem ter afetado as taxas de imunização? -->
 
-# Bases de Dados
+# Bases de Dados e Evolução
 
-    Elencar bases de dados candidatas a serem utilizadas no projeto.
+### Bases Estudadas e Adotadas
     
 Database | Endereço na Web|Resumo descritivo
 ----- | ----- | -----
@@ -63,7 +63,7 @@ Todas as tabelas, armazenadas em arquivos 'csv', possuíam a mesma quantidade de
    
    * Remoção de linhas com dados categóricos, no caso, somente a última linha de todas as tabelas foram retiradas. Nessa linha, havia as representações totais de cada coluna.
    * Alguns dos valores numéricos possuiam o caracter ',' e, por isso, foram trocados pelo caracter '.'. Essa abordagem foi realizada para que a biblioteca pandas pudesse ler os dados dos arquivos 'csv' e, em seguida, manipulá-los.
-   * Para muitos imunizantes não haviam dados de todos os anos (1994-2020), pois a cobertura vacinal era 0. Foram considerados para as análises somente os imunizantes com nenhum ou poucos valores nulos.
+   * Para muitos imunizantes não haviam dados de todos os anos (1994-2020), pois a cobertura vacinal era 0. Foram considerados para as análises somente os imunizantes com nenhum ou poucos valores nulos. Para alguns anos e imunizantes, a cobertura vacinal é maior do que 100% (mais de 100% da população alvo estimada foi imunizada).
   
   Na análise exploratória inicial, foram feitos gráficos de correlação, boxplot e evolução temporal: 
    
@@ -131,14 +131,17 @@ A análie exploratória foi feita integrada com os dados do DATASUS (item Integr
 
 Database | Endereço na Web|Resumo descritivo
 ----- | ----- | -----
-HDR | http://hdr.undp.org/en/data | Dataset com dados para desenvolvimento em termos de pesquisa e análise, debate econômico, opções de políticas e advocacy. Nessa base, são fornecidas informações sobre saúde, como a cobertura da vacinação de doenças, economia, educação e índices como o idh de diversos países do mundo
+HDR | http://hdr.undp.org/en/data | Dataset com compilado de dados obtidos de diversas fontes para desenvolvimento em termos de pesquisa e análise, debate econômico, opções de políticas e advocacy. Nessa base são fornecidas informações sobre saúde, economia, educação e índices como o idh de diversos países do mundo.
+
+Com essa base de dados, foi possível obter indicadores sociais e de saúde do Brasil para diferentes anos. Muitos dos indicadores escolhidos não possuem registros em todos os anos considerados pela base de dados, ou possuem somente resgistros periódicos (a cada 5 anos). Dos possíveis indicadores que poderiam estar relacionados com a cobertura vacinal e que possuíam registros no período 1994-2019, escolhemos para analisar os seguintes:
+
+ * IDH : medida de desenvolvimento humano, em especial nos setores de educação (education index), renda (PIB per capita) e longevidade (expectativa de vida). Varia entre 0 e 1, sendo 1 correspondente a um país bastante desenvolvido. 
+ * Education index: leva em conta o número médio de anos escolares de pessoas com mais de 25 anos. Varia entre 0 e 1, sendo que um índice 1 indicaria que todos os adultos acima de 25 anos receberam 18 ou mais anos de educação formal.
+
+A análie exploratória foi feita integrada com os dados do DATASUS (item Integração entre Bases)
 
 
-!-- * Integração entre Bases-
-
-
-   
-
+### Integração entre Bases
 
 
 # Metodologia
