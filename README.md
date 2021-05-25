@@ -96,7 +96,7 @@ Todas as tabelas, armazenadas em arquivos 'csv', possuíam a mesma quantidade de
    </figure>
    
    <figure>
-	<img src="iimages/cobertura_polio_evolucao.png" alt="Doenças no Brasil", height="400" width="1200">
+	<img src="iimages/cobertura_polio_evolucao.png" alt="Doenças no Brasil 2", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
    
