@@ -163,7 +163,19 @@ A análie exploratória foi feita integrada com os dados do DATASUS (item Integr
 
 ### Integração entre Bases
 
- * Integração entre a base GLOBAL HEALTH OBSERVATORY e DATASUS: nessa etapa da análise, integramos as médias de cobertura vacinal dos continentes às coberturas vacinais do Brasil e regiões do Brasil (Sul, Norte, Sudeste, ...), criando datasets 'imuno_mundo_br' com todos os dados de 1994 a 2019. Os gráficos gerados são apresentados a seguir
+ * Integração entre a base GLOBAL HEALTH OBSERVATORY e DATASUS: nessa etapa da análise, integramos as médias de cobertura vacinal dos continentes às coberturas vacinais do Brasil e regiões do Brasil (Sul, Norte, Sudeste, ...), criando datasets 'imuno_mundo_br' com todos os dados de 1994 a 2019. Como a cobertua vacinal na base de dados internacional assume valores de 1 a 100, os valores de cobertura acima de 100 oriundos da base Brasileira foram redefinidos como 100. Na análise exploratória inicial, foram feitos gráficos de correlação, boxplot e evolução temporal, como exemplificado a seguir
+
+   <figure>
+	<img src="images/cobertura_polio_mundo_box.png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+   
+   <figure>
+	<img src="images/cobertura_polio_mundo_evolucao.png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+   
+   * Integração entre a base HDR e DATASUS: nessa etapa da análise, integramos os índices IDH e Education Index (obtidos da base HDR) aos dados de número total de óbitos infantis, expectativa de vida (em anos) e cobertura vacinal dos imunizantes BCG, Poliomielite, Hepatie B e DTP (obtidos do DATASUS) no período de 1994-2019. Na base HDR, as linhas representam os países e as colunas, os anos. Para manter a formatação utilizada dos demais dataframes, invertemos as matrizes de dados oriundas da HDR para o formato ano x país e, em sequência, selecionamos somente a coluna com os dados do Brasil. Na análise exploratória inicial, foram feitos gráficos de correlação, boxplot e evolução temporal, como exemplificado a seguir
 
    <figure>
 	<img src="images/cobertura_polio_mundo_box.png" alt="Doenças no Brasil", height="400" width="1200">
