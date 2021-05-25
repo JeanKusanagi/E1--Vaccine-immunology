@@ -179,7 +179,7 @@ A análie exploratória foi feita integrada com os dados do DATASUS (item Integr
    </figure>
    
       <figure>
-	<img src="images/br_indices.png" alt="Doenças no Brasil", height="400" width="600">
+	<img src="images/br_indices.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
    
