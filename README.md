@@ -24,8 +24,7 @@ Trabalho final da disciplina Ciência e Visualização de Dados em Saúde.
 
 O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação Ciência e Visualização de Dados em Saúde, oferecida no primeiro semestre de 2021, na Unicamp.
 
-<!--    Incluir nome RA e foco de especialização de cada membro do grupo. Os grupos devem ter no máximo 5 integrantes e devem contar com pelo menos um aluno da área da saúde e um aluno de área afim à Computação (Ex.: Computação, Elétrica...) -->
-    
+   
 Nome | RA | Especialização
 ----- | ----- | -----
 Bruna Mezzari Carlos             | 235624 | Física Médica
@@ -36,7 +35,6 @@ Tatiana Aparecida de Almeida     | 229136 | Computação
 
 # Descrição Resumida do Projeto
 
-<!-- Descrição do tema do projeto, incluindo motivação e contexto gerador. -->
     
    <strong>Tema do projeto:</strong> Considerando a complexa interação do sistema imunológico com diversos patógenos, a utilização das vacinas para prevenir doenças infecciosas, representa um grande triunfo para a ciência. A imunização por meio das vacinas, permitiram redução significativa de incidência de doenças, além da erradicação de outras. O projeto visa entender como a cobertura vacinal no Brasil evoluiu ao longo das últimas décadas, e quais os efeitos dessa evolução nos níveis de controle de determinadas doenças.
    
@@ -58,12 +56,10 @@ Por meio da vacinação, doenças como a varíola, a poliomielite, o sarampo e a
 
 # Perguntas de Pesquisa
 
-<!--    Perguntas de pesquisa que o projeto pretende responder ou hipóteses a serem avaliadas, enunciadas de maneira objetiva e verificável. -->
-    
+ 
 Qual a cobertura vacinal das vacinas obrigatórias, ao longo dos anos e regiões do Brasil? 
 Quais fatores regionais ou sociais podem estar associados ao aumento ou diminuição da cobertura vacinal?
 
-<!--Como a pandemia do COVID-19 e movimentos antivacina podem ter afetado as taxas de imunização? -->
 
 # Bases de Dados e Evolução
 
@@ -88,12 +84,12 @@ Todas as tabelas, armazenadas em arquivos 'csv', possuíam a mesma quantidade de
    * Cobertura vacinal no Brasil 1994 - 2020:
 
    <figure>
-	<img src="images/Cobertura vacinal no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="800">
+	<img src="images/Cobertura vacinal no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
    
    <figure>
-	<img src="images/cobertura_br_evolucao.png" alt="Doenças no Brasil", height="400" width="800">
+	<img src="images/cobertura_br_evolucao.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
     
