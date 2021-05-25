@@ -145,7 +145,7 @@ THE GLOBAL HEALTH OBSERVATORY | https://www.who.int/data/gho/data/themes/immuniz
         
 Com essa base de dados, foi possível obter os dados de cobertura vacinal de diversos imunizantes dos anos de 1980 a 2019. Foram pesquisados dados das vacinas BCG, Poliomielite, Hepatite B e DTP. A base fornece os dados por país, mas os datasets também possuem uma coluna indicando o continente ou macro-região global a qual o país pertence. Como o objetivo da análise era comparar o Brasil com índices gerais, escolhemos trabalhar com a média de cobertura entre continentes (países da Ásia e Oceania estavam divididos em regiões menores, então fizemos a média somente para Americas, África e Europa). Não haviam dados faltantes ou nulos na base, e os valores de cobertura vacinal (porcentagem da população-alvo corretamente imunizada) variam de 1 a 100.
 
-A análie exploratória foi feita integrada com os dados do DATASUS (item Integração entre Bases)
+A análie exploratória foi feita de forma integrada com os dados do DATASUS (item Integração entre Bases)
 
     
 
@@ -155,7 +155,7 @@ HDR | http://hdr.undp.org/en/data | Dataset com compilado de dados obtidos de di
 
 Com essa base de dados, foi possível obter indicadores sociais e de saúde do Brasil para diferentes anos. Muitos dos indicadores escolhidos não possuem registros em todos os anos considerados pela base de dados, ou possuem somente registros periódicos (a cada 5 anos). Dos possíveis indicadores que poderiam estar relacionados com a cobertura vacinal e que possuíam registros no período 1994-2019, escolhemos para analisar os seguintes:
 
- * IDH : medida de desenvolvimento humano, em especial nos setores de educação (education index), renda (PIB per capita) e longevidade (expectativa de vida). Varia entre 0 e 1, sendo 1 correspondente a um país bastante desenvolvido. 
+ * IDH : medida de desenvolvimento humano, em especial nos setores de educação (education index), renda (PIB per capita) e longevidade (expectativa de vida). Varia entre 0 e 100, sendo 100 correspondente a um país bastante desenvolvido. 
  * Education index: leva em conta o número médio de anos escolares de pessoas com mais de 25 anos. Varia entre 0 e 1, sendo que um índice 1 indicaria que todos os adultos acima de 25 anos receberam 18 ou mais anos de educação formal.
 
 A análie exploratória foi feita integrada com os dados do DATASUS (item Integração entre Bases)
@@ -171,32 +171,28 @@ A análie exploratória foi feita integrada com os dados do DATASUS (item Integr
    </figure>
    
    <figure>
-	<img src="images/cobertura_polio_mundo_evolucao.png" alt="Doenças no Brasil", height="400" width="1200">
+	<img src="images/cobertura_polio_mundo_evolucao.png" alt="Doenças no Brasil", height="400" width="600">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
    
-   * Integração entre a base HDR e DATASUS: nessa etapa da análise, integramos os índices IDH e Education Index (obtidos da base HDR) aos dados de número total de óbitos infantis, expectativa de vida (em anos) e cobertura vacinal dos imunizantes BCG, Poliomielite, Hepatie B e DTP (obtidos do DATASUS) no período de 1994-2019. Na base HDR, as linhas representam os países e as colunas, os anos. Para manter a formatação utilizada dos demais dataframes, invertemos as matrizes de dados oriundas da HDR para o formato ano x país e, em sequência, selecionamos somente a coluna com os dados do Brasil. Na análise exploratória inicial, foram feitos gráficos de correlação, boxplot e evolução temporal, como exemplificado a seguir
+ * Integração entre a base HDR e DATASUS: nessa etapa da análise, integramos os índices IDH e Education Index (obtidos da base HDR) aos dados de número total de óbitos infantis, expectativa de vida (em anos) e cobertura vacinal dos imunizantes BCG, Poliomielite, Hepatie B, DTP e Febre Amarela (obtidos do DATASUS) no período de 1994-2019. Na base HDR, as linhas representam os países e as colunas, os anos. Para manter a formatação utilizada dos demais dataframes, invertemos as matrizes de dados oriundas da HDR para o formato ano x país e, em sequência, selecionamos somente a coluna com os dados do Brasil. Na análise exploratória inicial, foram feitos gráficos de correlação como exemplificado a seguir
 
    <figure>
-	<img src="images/cobertura_polio_mundo_box.png" alt="Doenças no Brasil", height="400" width="1200">
+	<img src="images/polio_indices" alt="Doenças no Brasil", height="400" width="600">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
    
-   <figure>
-	<img src="images/cobertura_polio_mundo_evolucao.png" alt="Doenças no Brasil", height="400" width="1200">
-	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
-   </figure>
-
+A descrição de todas as operações realizadas nesta etapa também podem ser conferidas no notebook gerador dos agrupamentos ([ver aqui](notebooks/E2_vaccine_immunology.ipynb)).   
 
 # Metodologia
 
-    Proposta de metodologia incluindo especificação de quais técnicas pretende-se explorar, tais como: aprendizagem de máquina, análise de redes, análise estatística, ou integração de uma ou mais técnicas. Para a primeira entrega, descreva de maneira mais genérica que tipo de abordagem seu grupo pretende realizar.
+<!--    Proposta de metodologia incluindo especificação de quais técnicas pretende-se explorar, tais como: aprendizagem de máquina, análise de redes, análise estatística, ou integração de uma ou mais técnicas. Para a primeira entrega, descreva de maneira mais genérica que tipo de abordagem seu grupo pretende realizar. -->
     
    O projeto será elaborado a partir do modelo CRISP-DM. Com a utilização de dados fornecidos pelas bases de dados, a modelagem será realizada por meio de gráficos, correlação entre os dados e séries temporais. Também serão utilizadas Árvore de Decisão e Métodos de Regressão para a predição de informações, ambas utilizando a linguagem de programação Python.
 
 # Ferramentas
 
-    Ferramentas a serem utilizadas (com base na visão atual do grupo sobre o projeto).
+    <!-- Ferramentas a serem utilizadas (com base na visão atual do grupo sobre o projeto). -->
     
    O projeto será elaborado com auxílio de gráficos, séries temporais e da linguagem de programação Python.
     
@@ -212,7 +208,7 @@ Python 3.8.3 	 | https://www.python.org            | Linguagem de programação 
 
 # Cronograma
 
-    Proposta de cronograma. Procure estimar quantas semanas serão gastas para cada etapa do projeto.
+  <!--  Proposta de cronograma. Procure estimar quantas semanas serão gastas para cada etapa do projeto.-->
     
 Tarefas | março | abril | maio | junho | julho
 ----- | ----- | ----- | ----- | ----- | -----
