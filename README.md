@@ -86,6 +86,7 @@ Todas as tabelas, armazenadas em arquivos 'csv', possuíam a mesma quantidade de
 	<img src="images/Cobertura BCG no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
+   
 
    * Cobertura Poliomielite no Brasil 1994 - 2020:
    
@@ -107,6 +108,7 @@ Todas as tabelas, armazenadas em arquivos 'csv', possuíam a mesma quantidade de
 	<img src="images/Cobertura Hepatite B no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
+   
    
    * Cobertura DTP no Brasil 1994 - 2016 (sem info no ano de 2003):
 
