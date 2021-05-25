@@ -6,6 +6,20 @@ Trabalho final da disciplina Ciência e Visualização de Dados em Saúde.
 <strong>Project</strong> - Study of the evolution of the vaccine coverage for immunization and eradication infectious diseases.
 
 
+~~~
+├── README.md          <- apresentação do projeto
+│
+├── data
+│   ├── processed      <- dados finais usados para a modelagem
+│   └── raw            <- dados originais sem modificações
+│
+├── notebooks          <- Jupyter notebooks
+│
+├── images             <- iamgens geradas durante o desenvolvimento do projeto
+    └── README.md      <- instruções básicas de instalação/execução
+~~~
+
+
 # Apresentação
 
 O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação Ciência e Visualização de Dados em Saúde, oferecida no primeiro semestre de 2021, na Unicamp.
