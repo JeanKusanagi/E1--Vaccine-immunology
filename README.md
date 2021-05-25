@@ -177,3 +177,7 @@ Levantamento dos dados                  | X | X |   |   |
 Análise dos dados                       |   |   | X | X |
 Digitalização do projeto                |   |   | X | X | X
 Entrega e apresentação final do projeto |   |   |   |   | X
+
+# Referências
+
+[1] **Brito WI, Souto FJD.** Universal hepatitis A vaccination in Brazil: analysis of vaccination coverage and incidence five years after program implementation. Revista Brasileira de Epidemiologia = Brazilian Journal of Epidemiology. 2020;23:e200073. DOI: 10.1590/1980-549720200073.
