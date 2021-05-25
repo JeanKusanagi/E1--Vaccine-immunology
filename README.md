@@ -67,7 +67,7 @@ Todas as tabelas, armazenadas em arquivos 'csv', possuíam a mesma quantidade de
   
   Na análise exploratória inicial, foram feitos gráficos de correlação, boxplot e evolução temporal: 
    
-    * Cobertura vacinal no Brasil 1994 - 2020:
+   * Cobertura vacinal no Brasil 1994 - 2020:
 
    <figure>
 	<img src="images/Cobertura vacinal no Brasil 1994 - 2020.png" alt="Doenças no Brasil", height="400" width="800">
