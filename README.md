@@ -192,8 +192,7 @@ A descrição de todas as operações realizadas nesta etapa também podem ser c
 
 # Ferramentas
 
-    <!-- Ferramentas a serem utilizadas (com base na visão atual do grupo sobre o projeto). -->
-    
+   
    O projeto será elaborado com auxílio de gráficos, séries temporais e da linguagem de programação Python.
     
 Ferramenta | Endereço na Web | Resumo descritivo e utilização
@@ -208,7 +207,6 @@ Python 3.8.3 	 | https://www.python.org            | Linguagem de programação 
 
 # Cronograma
 
-  <!--  Proposta de cronograma. Procure estimar quantas semanas serão gastas para cada etapa do projeto.-->
     
 Tarefas | março | abril | maio | junho | julho
 ----- | ----- | ----- | ----- | ----- | -----
