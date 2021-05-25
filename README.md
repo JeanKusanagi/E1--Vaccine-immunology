@@ -46,19 +46,19 @@ Por meio da vacinação, doenças como a varíola, a poliomielite, o sarampo e a
    
    <strong>Contexto gerador:</strong> Percepção da diminuição da cobertura vacinal ao longo dos últimos anos, cuja causa pode estar associada aos movimentos antivacina e à pandemia gerada pelo SARS-CoV-2.
    
-   <strong>Key words:</strong> 1. história da vacina 2. revolta da vacina  3. doenças emergentes
+   <strong>Key words:</strong> 1. cobetura vacinal 2. imunização
     
-# Vídeo do Projeto
+<!-- # Vídeo do Projeto
 
     Link para vídeo de apresentação da proposta do projeto (máximo 3 minutos).
 
-   https://youtu.be/riO6BU0K5MU
+   https://youtu.be/riO6BU0K5MU -->
 
 
 
 # Perguntas de Pesquisa
 
-    Perguntas de pesquisa que o projeto pretende responder ou hipóteses a serem avaliadas, enunciadas de maneira objetiva e verificável.
+<!--    Perguntas de pesquisa que o projeto pretende responder ou hipóteses a serem avaliadas, enunciadas de maneira objetiva e verificável. -->
     
 Qual a cobertura vacinal das vacinas obrigatórias, ao longo dos anos e regiões do Brasil? 
 Quais fatores regionais ou sociais podem estar associados ao aumento ou diminuição da cobertura vacinal?
@@ -153,7 +153,7 @@ Database | Endereço na Web|Resumo descritivo
 ----- | ----- | -----
 HDR | http://hdr.undp.org/en/data | Dataset com compilado de dados obtidos de diversas fontes para desenvolvimento em termos de pesquisa e análise, debate econômico, opções de políticas e advocacy. Nessa base são fornecidas informações sobre saúde, economia, educação e índices como o idh de diversos países do mundo.
 
-Com essa base de dados, foi possível obter indicadores sociais e de saúde do Brasil para diferentes anos. Muitos dos indicadores escolhidos não possuem registros em todos os anos considerados pela base de dados, ou possuem somente resgistros periódicos (a cada 5 anos). Dos possíveis indicadores que poderiam estar relacionados com a cobertura vacinal e que possuíam registros no período 1994-2019, escolhemos para analisar os seguintes:
+Com essa base de dados, foi possível obter indicadores sociais e de saúde do Brasil para diferentes anos. Muitos dos indicadores escolhidos não possuem registros em todos os anos considerados pela base de dados, ou possuem somente registros periódicos (a cada 5 anos). Dos possíveis indicadores que poderiam estar relacionados com a cobertura vacinal e que possuíam registros no período 1994-2019, escolhemos para analisar os seguintes:
 
  * IDH : medida de desenvolvimento humano, em especial nos setores de educação (education index), renda (PIB per capita) e longevidade (expectativa de vida). Varia entre 0 e 1, sendo 1 correspondente a um país bastante desenvolvido. 
  * Education index: leva em conta o número médio de anos escolares de pessoas com mais de 25 anos. Varia entre 0 e 1, sendo que um índice 1 indicaria que todos os adultos acima de 25 anos receberam 18 ou mais anos de educação formal.
@@ -162,6 +162,8 @@ A análie exploratória foi feita integrada com os dados do DATASUS (item Integr
 
 
 ### Integração entre Bases
+
+ * Integração entre a base GLOBAL HEALTH OBSERVATORY e DATASUS: nessa etapa da análise, integramos as médias de cobertura vacinal dos continentes às coberturas vacinais do Brasil e regiões do Brasil (Sul, Norte, Sudeste, ...), criando datasets 'imuno_mundo_br' com todos os dados de 1994 a 2019.
 
 
 # Metodologia
