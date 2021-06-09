@@ -227,7 +227,7 @@ Python 3.8.3 	 | https://www.python.org            | Linguagem de programação 
 
 
 
-# Conclusões / Lições aprendidas
+# Conclusões e Lições aprendidas
 
 
 
