@@ -191,20 +191,7 @@ A descrição de todas as operações realizadas nesta etapa também podem ser c
     
    O projeto será elaborado a partir do modelo CRISP-DM. Com a utilização de dados fornecidos pelas bases de dados, a modelagem será realizada por meio de gráficos, correlação entre os dados e séries temporais. Também serão utilizadas Árvore de Decisão e Métodos de Regressão para a predição de informações, ambas utilizando a linguagem de programação Python.
 
-
-# Abordagem adotada
-
-
-
-# Dificuldades enfrentadas
-
-
-
-# Possíveis mudanças de percurso
-
-
-
-# Ferramentas utilizadas
+# Ferramentas
 
    
    O projeto será elaborado com auxílio de gráficos, séries temporais e da linguagem de programação Python.
@@ -219,32 +206,16 @@ Pandas      	 | https://pandas.pydata.org         | Biblioteca do _Python_ orien
 Python 3.8.3 	 | https://www.python.org            | Linguagem de programação de propósito geral. Utilizada para a predição dos dados.
 
 
-# Resultados obtidos
-
-
-
-# Discussão dos resultados
-
-
-
-# Conclusões / Lições aprendidas
-
-
-
-# Trabalhos futuros
-
-
-
 # Cronograma
+
     
 Tarefas | março | abril | maio | junho | julho
 ----- | ----- | ----- | ----- | ----- | -----
-Descrição inicial do projeto            | X |   |   |   
-Levantamento dos dados                  | X | X | X |   
-Análise dos dados                       |   | X | X |   
-Digitalização do projeto                |   |   | X | X 
-Entrega e apresentação final do projeto |   |   |   | X 
-
+Descrição inicial do projeto            | X |   |   |   |
+Levantamento dos dados                  | X | X | X |   |
+Análise dos dados                       |   | X | X |  |
+Digitalização do projeto                |   |   | X | X | X
+Entrega e apresentação final do projeto |   |   |   |   | X
 
 # Referências
 
