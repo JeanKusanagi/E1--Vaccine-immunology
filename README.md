@@ -66,11 +66,38 @@ Por meio da vacinação, doenças como a varíola, a poliomielite, o sarampo e a
 > Link para slides da apresentação final do projeto.
 
 
+# Introdução e Referenciais de Teóricos
+> Contextualização do projeto
+>
+> Caracterização do problema
+>
+> Motivação
+>
+> Relevância
+>
+> Trabalhos relacionados
+>
+> Indicação (bastante resumida) da análise proposta
+>
+> Indicação (bastante resumida) dos resultados alcançados
+
+
 # Perguntas de Pesquisa
 
- 
 Qual a cobertura vacinal das vacinas obrigatórias, ao longo dos anos e regiões do Brasil? 
 Quais fatores regionais ou sociais podem estar associados ao aumento ou diminuição da cobertura vacinal?
+
+# Objetivos do Projeto
+> Como seu projeto propôs abordar o problema apresentado.
+
+
+# Metodologia
+> Abordagem adotada pelo projeto na busca pela resposta às perguntas de pesquisa.
+> Justificar teoricamente, sempre que possível, a metodologia adotada.
+<!--    Proposta de metodologia incluindo especificação de quais técnicas pretende-se explorar, tais como: aprendizagem de máquina, análise de redes, análise estatística, ou integração de uma ou mais técnicas. Para a primeira entrega, descreva de maneira mais genérica que tipo de abordagem seu grupo pretende realizar. -->
+    
+   O projeto será elaborado a partir do modelo CRISP-DM. Com a utilização de dados fornecidos pelas bases de dados, a modelagem será realizada por meio de gráficos, correlação entre os dados e séries temporais. Também serão utilizadas Árvore de Decisão e Métodos de Regressão para a predição de informações, ambas utilizando a linguagem de programação Python.
+
 
 
 # Bases de Dados e Evolução
@@ -196,12 +223,6 @@ A análie exploratória foi feita integrada com os dados do DATASUS (item Integr
    </figure>
    
 A descrição de todas as operações realizadas nesta etapa também podem ser conferidas no notebook gerador dos agrupamentos ([ver aqui](notebooks/E2_vaccine_immunology.ipynb)).   
-
-# Metodologia
-
-<!--    Proposta de metodologia incluindo especificação de quais técnicas pretende-se explorar, tais como: aprendizagem de máquina, análise de redes, análise estatística, ou integração de uma ou mais técnicas. Para a primeira entrega, descreva de maneira mais genérica que tipo de abordagem seu grupo pretende realizar. -->
-    
-   O projeto será elaborado a partir do modelo CRISP-DM. Com a utilização de dados fornecidos pelas bases de dados, a modelagem será realizada por meio de gráficos, correlação entre os dados e séries temporais. Também serão utilizadas Árvore de Decisão e Métodos de Regressão para a predição de informações, ambas utilizando a linguagem de programação Python.
 
 
 # Abordagem adotada
