@@ -243,7 +243,7 @@ Descrição inicial do projeto            | X |   |   |   |
 Levantamento dos dados                  | X | X | X |   |
 Análise dos dados                       |   | X | X |   |
 Digitalização do projeto                |   |   | X | X | 
-Entrega e apresentação final do projeto |   |   |   | X | 
+Entrega e apresentação final do projeto |   |   | X | X | 
 
 
 # Referências
