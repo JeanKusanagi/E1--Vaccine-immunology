@@ -204,6 +204,39 @@ A descrição de todas as operações realizadas nesta etapa também podem ser c
 
 
 
+### Integração entre Bases e Análise Exploratória
+
+> Descreva etapas de integração de fontes de dados e apresente a seguir uma análise exploratória que envolva ambas.
+>
+>
+>
+> Resultados de Análise Exploratória
+> * use estatística descritiva e gráficos;
+> * inclua gráficos de sobre a distribuição dos dados (e.g., histogramas e boxplots);
+> * analise correlação e use gráficos de dispersão;
+> * descreva os resultados/gráficos, os analise e contextualize com o tema definido.
+
+# Análises Realizadas
+> Descrição detalhada das análises realizadas.
+>
+>
+>
+>Relate aqui também a evolução do projeto: possíveis problemas enfrentados e possíveis mudanças de trajetória. Relatar o processo para se alcançar os resultados é tão importante quanto os resultados.
+>
+>
+>
+> Nesta seção ou na seção de Resultados podem aparecer destaques de código como indicado a seguir. Note que foi usada uma técnica de highlight de código, que envolve colocar o nome da linguagem na abertura de um trecho com `~~~`, tal como `~~~python`.
+>
+> Os destaques de código devem ser trechos pequenos de poucas linhas, que estejam diretamente ligados a alguma explicação. Não utilize trechos extensos de código. Se algum código funcionar online (tal como um Jupyter Notebook), aqui pode haver links. No caso do Jupyter, preferencialmente para o Binder abrindo diretamente o notebook em questão.
+
+~~~python
+df = pd.read_excel("/content/drive/My Drive/Colab Notebooks/dataset.xlsx");
+sns.set(color_codes=True);
+sns.distplot(df.Hemoglobin);
+plt.show();
+~~~
+
+
 # Ferramentas utilizadas
 
    
@@ -219,20 +252,30 @@ Pandas      	 | https://pandas.pydata.org         | Biblioteca do _Python_ orien
 Python 3.8.3 	 | https://www.python.org            | Linguagem de programação de propósito geral. Utilizada para a predição dos dados.
 
 
-# Resultados obtidos
+# Resultados
+> Descrição dos resultados mais importantes obtidos.
+>
+> Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de Análises Realizadas (o que for mais pertinente).
 
 
 
 # Discussão dos resultados
+> Discussão dos resultados. Relacionar os resultados com as perguntas de pesquisa ou hipóteses avaliadas.
+>
+> A discussão dos resultados também pode ser feita opcionalmente na seção de Resultados, na medida em que os resultados são apresentados. Aspectos importantes a serem discutidos: É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?
 
 
 
 # Conclusões e Lições aprendidas
-
+> Destacar as principais conclusões obtidas no desenvolvimento do projeto.
+>
+> Destacar os principais desafios enfrentados.
+>
+> Principais lições aprendidas.
 
 
 # Trabalhos futuros
-
+> O que poderia ser melhorado se houvesse mais tempo?
 
 
 # Cronograma
