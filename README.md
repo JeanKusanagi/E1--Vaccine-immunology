@@ -46,12 +46,24 @@ Por meio da vacinação, doenças como a varíola, a poliomielite, o sarampo e a
    
    <strong>Key words:</strong> 1. cobetura vacinal 2. imunização
     
-<!-- # Vídeo do Projeto
 
-    Link para vídeo de apresentação da proposta do projeto (máximo 3 minutos).
+# Vídeos do Projeto
 
-   https://youtu.be/riO6BU0K5MU -->
+## Vídeo da Proposta
+> Link para vídeo de apresentação da proposta do projeto (máximo 3 minutos).
 
+   https://youtu.be/riO6BU0K5MU
+
+## Vídeo da Apresentação Final
+> Link para vídeo da apresentação final do projeto (máximo 8 minutos). *TODOS OS MEMBROS DO GRUPO DEVEM APARECER NO VÍDEO*.
+
+# Slides do Projeto
+
+## Slides da Proposta
+> Link para slides de apresentação da proposta do projeto.
+
+## Slides da Apresentação Final
+> Link para slides da apresentação final do projeto.
 
 
 # Perguntas de Pesquisa
