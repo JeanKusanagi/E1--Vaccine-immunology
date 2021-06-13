@@ -237,8 +237,8 @@ Python 3.8.3 	 | https://www.python.org            | Linguagem de programação 
 
 # Cronograma
     
-Tarefas | março | abril | maio | junho | julho
------ | ----- | ----- | ----- | ----- | -----
+Tarefas | março | abril | maio | junho | 
+----- | ----- | ----- | ----- | ----- | 
 Descrição inicial do projeto            | X |   |   |   |
 Levantamento dos dados                  | X | X | X |   |
 Análise dos dados                       |   | X | X |   |
