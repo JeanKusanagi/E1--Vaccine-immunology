@@ -303,15 +303,7 @@ Python 3.8.3 	 | https://www.python.org            | Linguagem de programação 
 > O que poderia ser melhorado se houvesse mais tempo?
 
 
-# Cronograma
-    
-<!--Tarefas | março | abril | maio | junho | 
------ | ----- | ----- | ----- | ----- | 
-Descrição inicial do projeto            | X |   |   |   |
-Levantamento dos dados                  | X | X | X |   |
-Análise dos dados                       |   | X | X |   |
-Digitalização do projeto                |   |   | X | X | 
-Entrega e apresentação final do projeto |   |   | X | X | -->
+
 
 
 # Referências
