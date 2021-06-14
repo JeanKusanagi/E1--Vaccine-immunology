@@ -303,11 +303,6 @@ Python 3.8.3 	 | https://www.python.org            | Linguagem de programação 
 > O que poderia ser melhorado se houvesse mais tempo?
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> fc4de24323f30a5a563451b36be916077366dcf1
-
 
 # Referências
 
