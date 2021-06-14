@@ -170,6 +170,8 @@ Todas as tabelas, armazenadas em arquivos 'csv', possuíam a mesma quantidade de
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
    
+A partir destas análises exploratórias, foi possível identificar que há um movimento de queda das coberturas vacinais a partir dos anos de 2018-2019 para todos os imunizantes considerados. Essa queda ocorre logo depois de um grande movimento de ascensão entre os anos de 1994 e 2015-2016. Foi possível observar também que todas as regiões possuem médias maiores que 80 para todos os imunizantes, e a variação de valores das coberturas é maior nas regiões Norte, Nordeste, Amazônia Legal e municípios de extrema pobreza. Um comportamento similar entre essas regiões já era esperado, visto a proximidade geográfica e maior intersecção entre elas (Amazônia Legal e Norte, por exemplo).
+   
    
 
 
@@ -196,7 +198,7 @@ Com essa base de dados, foi possível obter indicadores sociais e de saúde do B
 A análie exploratória foi feita integrada com os dados do DATASUS (item Integração entre Bases)
 
 
-### Integração entre Bases
+### Integração entre Bases e Análise Exploratória
 
  * Integração entre a base GLOBAL HEALTH OBSERVATORY e DATASUS: nessa etapa da análise, integramos as médias de cobertura vacinal dos continentes às coberturas vacinais do Brasil e regiões do Brasil (Sul, Norte, Sudeste, ...), criando datasets 'imuno_mundo_br' com todos os dados de 1994 a 2019. Como a cobertua vacinal na base de dados internacional assume valores de 1 a 100, os valores de cobertura acima de 100 oriundos da base Brasileira foram redefinidos como 100. Na análise exploratória inicial, foram feitos gráficos de correlação, boxplot e evolução temporal, como exemplificado a seguir
 
@@ -225,30 +227,6 @@ A análie exploratória foi feita integrada com os dados do DATASUS (item Integr
 A descrição de todas as operações realizadas nesta etapa também podem ser conferidas no notebook gerador dos agrupamentos ([ver aqui](notebooks/E2_vaccine_immunology.ipynb)).   
 
 
-# Abordagem adotada
-
-
-
-# Dificuldades enfrentadas
-
-
-
-# Possíveis mudanças de percurso
-
-
-
-### Integração entre Bases e Análise Exploratória
-
-> Descreva etapas de integração de fontes de dados e apresente a seguir uma análise exploratória que envolva ambas.
->
->
->
-> Resultados de Análise Exploratória
-> * use estatística descritiva e gráficos;
-> * inclua gráficos de sobre a distribuição dos dados (e.g., histogramas e boxplots);
-> * analise correlação e use gráficos de dispersão;
-> * descreva os resultados/gráficos, os analise e contextualize com o tema definido.
-
 # Análises Realizadas
 > Descrição detalhada das análises realizadas.
 >
@@ -273,7 +251,7 @@ plt.show();
 # Ferramentas utilizadas
 
    
-   O projeto será elaborado com auxílio de gráficos, séries temporais e da linguagem de programação Python.
+   O projeto foi elaborado com auxílio de gráficos, séries temporais e da linguagem de programação Python.
     
 Ferramenta | Endereço na Web | Resumo descritivo e utilização
 ----- | ----- | -----
