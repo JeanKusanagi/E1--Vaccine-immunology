@@ -120,7 +120,7 @@ Todas as tabelas, armazenadas em arquivos 'csv', possuíam a mesma quantidade de
 
   Um formulário básico que deve ser capaz de orientar o leitor na estruturação de informações em etapas de entendimento dos dados são encontrados ([ver aqui](data/raw/vaccine-immunology/notatecnicaCobertura.pdf)) e ([ver aqui](data/raw/vaccine-immunology/info.txt)).
   
-  A descrição de todas as operações realizadas, para reestruturação, e analíses realizadas durante o desenvolvimento deste projeto, podem ser conferidas no notebook gerador dos agrupamentos ([ver aqui](notebooks/E2_vaccine_immunology.ipynb)).
+  A descrição de todas as operações realizadas, para reestruturação, e análises realizadas durante o desenvolvimento deste projeto, podem ser conferidas no notebook gerador dos agrupamentos ([ver aqui](notebooks/E2_vaccine_immunology.ipynb)).
   
   Na análise exploratória inicial, foram feitos gráficos de correlação, boxplot e evolução temporal: 
    
