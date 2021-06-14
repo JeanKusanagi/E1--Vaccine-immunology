@@ -342,5 +342,5 @@ de outras doenaças, especialmente o COVID-19.
 
 [6] **Barreto ML, Rodrigues LC, Cunha SS, Pereira S, Hijjar MA, Ichihara MY, de Brito SC, Dourado I.** Design of the Brazilian BCG-REVAC trial against tuberculosis: a large, simple randomized community trial to evaluate the impact on tuberculosis of BCG revaccination at school age. Control Clin Trials. 2002 Oct;23(5):540-53. doi: 10.1016/s0197-2456(02)00216-7. PMID: 12392870. https://pubmed.ncbi.nlm.nih.gov/12392870/
 
-[7] **Clem, Angela S.** Fundamentals of vaccine immunology. Journal of global infectious diseases vol. 3,1 (2011): 73-8. https://doi:10.4103/0974-777X.77299 
+[7] **Clem, Angela S.** Fundamentals of vaccine immunology. Journal of global infectious diseases. vol. 3,1 (2011): 73-8. doi:10.4103/0974-777X.77299 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3068582/
 
