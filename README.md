@@ -90,6 +90,10 @@ Quais fatores regionais ou sociais podem estar associados ao aumento ou diminui�
 # Objetivos do Projeto
 O objetivo do projeto foi de realizar primeiramente uma análise exploratória para identificar se a cobertura vacinal dos principais imunizantes realmente diminuiu ao longo dos últimos anos, e se esse comportamento é o mesmo entre as regiões do Brasil. Essa análise também foi estendida para comparar a evolução da cobertura vacinal no Brasil com demais continentes. Também tivemos como objetivo analisar a relevância da cobertura vacinal de certos imunizantes para a redução da mortalidade infantil e aumento da expectativa de vida, além de comparar a evolução do IDH brasileiro com a cobertura vacinal dos mesmos imunizantes. 
 
+   * Analisar a cobertura das vacinas obrigatórias ao longo dos anos no Brasil e e alguns outros paises do exterior.
+   * Analisar a associação entre algumas regiões do Brasil com fdiversas doenças infecciosas.
+   * Encontrar particularidades no Brasil que permitam identificar quais a regiões mais afetadas pela falta de imunização.
+
 
 # Metodologia
 > Abordagem adotada pelo projeto na busca pela resposta às perguntas de pesquisa.
