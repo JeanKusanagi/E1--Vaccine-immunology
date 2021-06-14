@@ -215,18 +215,24 @@ A análie exploratória foi feita integrada com os dados do DATASUS (item Integr
    O gráfico de boxplot para a poliomielite permite identificar que as médias de cobertura vacinal são similares entre Europa, Americas e Brasil sendo que a África possue a menor média e o Brasil, a maior. Entretanto, a variação de valores para o Brasil é alta comparada com as variações de Europa e Americas, e similar à varição da África. Essa variação maior já era esperada visto que os dados dos continentes representam médias sobre os países, mas ainda assim o continente Africano apresentou grande variação. Esse comportamento é refletido nas correlações, onde temos que o Brasil possue correlações altas com Europa e Americas, e correlação baixa com a África. No gráfico de evolução temporal, é interessante observar o comportamento de ascensão da cobertura vacinal no Brasil entre 1995-2000 em comparação com os demais. A variação para esse período é de mais de 40 para o Brasil, enquanto que para os continentes não passa de 10. Podemos ver também que o comportamento de queda dos últimos anos ocorre com maior força somente no Brasil.
   
    
- * Integração entre a base HDR e DATASUS: nessa etapa da análise, integramos os índices IDH e Education Index (obtidos da base HDR) aos dados de número total de óbitos de crianças abaixo de 1 ano, expectativa de vida (em anos) e cobertura vacinal dos imunizantes BCG, Poliomielite, Hepatie B, DTP e Febre Amarela (obtidos do DATASUS) no período de 1994-2019. Na base HDR, as linhas representam os países e as colunas, os anos. Para manter a formatação utilizada dos demais dataframes, invertemos as matrizes de dados oriundas da HDR para o formato ano x país e, em sequência, selecionamos somente a coluna com os dados do Brasil. Na análise exploratória inicial, foram feitos gráficos de correlação e evolução temporal como exemplificado a seguir
+ * Integração entre a base HDR e DATASUS: nessa etapa da análise, integramos o índice IDH(obtido da base HDR) aos dados de número total de óbitos de crianças abaixo de 1 ano, número de nascidos vivos, expectativa de vida (em anos) e cobertura vacinal dos imunizantes BCG, Poliomielite, Hepatie B, DTP e Febre Amarela (obtidos do DATASUS) no período de 1994-2019. Na base HDR, as linhas representam os países e as colunas, os anos. Para manter a formatação utilizada dos demais dataframes, invertemos as matrizes de dados oriundas da HDR para o formato ano x país e, em sequência, selecionamos somente a coluna com os dados do Brasil. Na análise exploratória inicial, foram feitos gráficos de correlação e evolução temporal como exemplificado a seguir
 
    <figure>
 	<img src="images/polio_indices.png" alt="Doenças no Brasil", height="400" width="600">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
    
-      <figure>
+   <figure>
 	<img src="images/br_indices.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
    
+   <figure>
+	<img src="images/mortalidade_idh_polio.png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+
+
 A descrição de todas as operações realizadas nesta etapa também podem ser conferidas no notebook gerador dos agrupamentos ([ver aqui](notebooks/E2_vaccine_immunology.ipynb)).   
 
 
