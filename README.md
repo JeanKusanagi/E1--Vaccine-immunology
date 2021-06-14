@@ -302,11 +302,6 @@ Python 3.8.3 	 | https://www.python.org            | Linguagem de programação 
 >
 > Principais lições aprendidas.
 
-
-# Trabalhos futuros
-> O que poderia ser melhorado se houvesse mais tempo?
-
-
 A imunização protege a população de doenças que, anteriormente, atingiu e tirou a vida de milhões de indivíduos, 
 principalmente crianças. De acordo a Convenção das Nações Unidas sobre os Direitos da Criança, toda criança tem o 
 direito à melhor saúde possível e ao direito de ser vacinada.
@@ -317,12 +312,20 @@ buscar o envolvimento da comunidade é essencial para melhorar isso. Além disso
 que é contra a vacinação e exigen uma resposta da comunidade científica, para fornecer transparência sobre os efeitos 
 colaterais envolvendo tais vacianas. 
 
+
+# Trabalhos futuros
+> O que poderia ser melhorado se houvesse mais tempo?
+
 Uma análise sobre novas doenças como o  COVID-19, pode ajudar em um melhor controle sobre tais doenças. A pandemia COVID-19 
 realmente mostrou que, em caso de emergência, partes com diferentes incentivos podem caminhar juntas para garantir que as 
 vacinas estejam sendo desenvolvidas em um curto período de tempo, mas também destacou alguns dos desafios interesses nacionais 
 e comerciais. Dessa forma, essa abordagem pode facilitar o trabalho dos agentes de saúde no combate a essas doenças e outras 
-que possivelmente podem aparecer no futuro. Por fim, entende-se que é essencial um ambiente em que a imunização é normal, a 
+que possivelmente podem aparecer no futuro. Entende-se que é essencial um ambiente em que a imunização é normal, a 
 ciência é o acesso viável para conbate a pandemias, e o acesso à vacinação é um direito de todos.
+
+Para melhorar a análise realizada nesse projeto, um esforço maior deve ser despendido na avaliação da qualidade dos dados utilizados.
+Essa análise pode ser realizada por especialista da saúde na. Além disso, a cobertura vacinal deve ser expandida, analizando dados
+de outras doenaças, especialmente o COVID-19.
 
 
 # Referências
