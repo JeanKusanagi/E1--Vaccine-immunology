@@ -349,15 +349,15 @@ de outras doenaças, especialmente o COVID-19.
 
 [8] **Fonseca, Keila Rodrigues da e Buenafuente, Sandra Maria Franco.** Análise das coberturas vacinais de crianças menores de um ano em Roraima, 2013-2017 Epidemiologia e Serviços de Saúde [online]. v.30, n.2 https://doi.org/10.1590/S1679-49742021000200010.
 
-[8] **Garcia ÉM, Nery Teixeira Palombo C, Waldman EA, Sato APS.** Factors associated with the completeness of the vaccination schedule of children at 12 and 24 months of age in a Brazilian medium-size municipality. J Pediatr Nurs. 2021 Mar 17:S0882-5963(21)00070-1. doi: 10.1016/j.pedn.2021.02.028. ahead of print. PMID: 33744058. https://pubmed.ncbi.nlm.nih.gov/33744058/
+[9] **Garcia ÉM, Nery Teixeira Palombo C, Waldman EA, Sato APS.** Factors associated with the completeness of the vaccination schedule of children at 12 and 24 months of age in a Brazilian medium-size municipality. J Pediatr Nurs. 2021 Mar 17:S0882-5963(21)00070-1. doi: 10.1016/j.pedn.2021.02.028. ahead of print. PMID: 33744058. https://pubmed.ncbi.nlm.nih.gov/33744058/
 
-[9] **Pollard, A.J., Bijker, E.M.** A guide to vaccinology: from basic principles to new developments. Nat Rev Immunol 21, 83–100 (2021). https://doi.org/10.1038/s41577-020-00479-7
+[10] **Pollard, A.J., Bijker, E.M.** A guide to vaccinology: from basic principles to new developments. Nat Rev Immunol 21, 83–100 (2021). https://doi.org/10.1038/s41577-020-00479-7
 
-[10] **Silveira MF, Buffarini R, Bertoldi AD, Santos IS, Barros AJD, Matijasevich A, Menezes AMB, Gonçalves H, Horta BL, Barros FC, Barata RB, Victora CG.** The emergence of vaccine hesitancy among upper-class Brazilians: Results from four birth cohorts, 1982-2015. Vaccine. 2020 Jan 16;38(3):482-488. doi: 10.1016/j.vaccine.2019.10.070. 2019 Nov 9. PMID: 31718899. https://pubmed.ncbi.nlm.nih.gov/31718899/
+[11] **Silveira MF, Buffarini R, Bertoldi AD, Santos IS, Barros AJD, Matijasevich A, Menezes AMB, Gonçalves H, Horta BL, Barros FC, Barata RB, Victora CG.** The emergence of vaccine hesitancy among upper-class Brazilians: Results from four birth cohorts, 1982-2015. Vaccine. 2020 Jan 16;38(3):482-488. doi: 10.1016/j.vaccine.2019.10.070. 2019 Nov 9. PMID: 31718899. https://pubmed.ncbi.nlm.nih.gov/31718899/
 
-[11] **Silveira MF, Tonial CT, Goretti K Maranhão A, Teixeira AMS, Hallal PC, Maria B Menezes A, Horta BL, Hartwig FP, Barros AJD, Victora CG.** Missed childhood immunizations during the COVID-19 pandemic in Brazil: Analyses of routine statistics and of a national household survey. Vaccine. 2021 Jun 8;39(25):3404-3409. doi: 10.1016/j.vaccine.2021.04.046. 2021 Apr 27. PMID: 33941406. https://pubmed.ncbi.nlm.nih.gov/33941406/
+[12] **Silveira MF, Tonial CT, Goretti K Maranhão A, Teixeira AMS, Hallal PC, Maria B Menezes A, Horta BL, Hartwig FP, Barros AJD, Victora CG.** Missed childhood immunizations during the COVID-19 pandemic in Brazil: Analyses of routine statistics and of a national household survey. Vaccine. 2021 Jun 8;39(25):3404-3409. doi: 10.1016/j.vaccine.2021.04.046. 2021 Apr 27. PMID: 33941406. https://pubmed.ncbi.nlm.nih.gov/33941406/
 
-[] **Verani, José Fernando de Souza e Laender, Fernando.** A erradicação da poliomielite em quatro tempos. Cadernos de Saúde Pública [online]. 2020, v. 36, n. Suppl 2 [Acessado 15 Junho 2021] , e00145720. Disponível em: <https://doi.org/10.1590/0102-311X00145720>. Epub 02 Nov 2020. ISSN 1678-4464. https://doi.org/10.1590/0102-311X00145720.
+[13] **Verani, José Fernando de Souza e Laender, Fernando.** A erradicação da poliomielite em quatro tempos. Cadernos de Saúde Pública [online]. 2020, v. 36, n. Suppl 2 [Acessado 15 Junho 2021] , e00145720. Disponível em: <https://doi.org/10.1590/0102-311X00145720>. Epub 02 Nov 2020. ISSN 1678-4464. https://doi.org/10.1590/0102-311X00145720.
 
-[12] **Yunes J, Ronchezel VS.** Evolução da mortalidade geral, infantil e proporcional no Brasil. Rev. Saúde Pública 8 (suppl) Jun 1974. doi: 10.1590/S0034-89101974000500002. https://www.scielo.br/j/rsp/a/xrSd7kCyTCB9yrpT6FmJ9Kf/?lang=pt|
+[14] **Yunes J, Ronchezel VS.** Evolução da mortalidade geral, infantil e proporcional no Brasil. Rev. Saúde Pública 8 (suppl) Jun 1974. doi: 10.1590/S0034-89101974000500002. https://www.scielo.br/j/rsp/a/xrSd7kCyTCB9yrpT6FmJ9Kf/?lang=pt|
 
