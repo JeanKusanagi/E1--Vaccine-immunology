@@ -111,11 +111,6 @@ O objetivo do projeto foi de realizar primeiramente uma análise exploratória p
 	<!--<figcaption>Modelo CRISP-DM</figcaption>-->
    </figure>
    <small>Fonte: https://www.datascience-pm.com/crisp-dm-2/</small>
-   <p>
-     <font size="3" face="Times">
-	 Fonte: https://www.datascience-pm.com/crisp-dm-2/
-    </font>
-  </p>
 
 
 
