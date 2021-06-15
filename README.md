@@ -219,7 +219,7 @@ A análie exploratória foi feita integrada com os dados do DATASUS (item Integr
    O gráfico de boxplot para a poliomielite permite identificar que as médias de cobertura vacinal são similares entre Europa, Americas e Brasil sendo que a África possue a menor média e o Brasil, a maior. Entretanto, a variação de valores para o Brasil é alta comparada com as variações de Europa e Américas, e similar à varição da África. Essa variação maior já era esperada visto que os dados dos continentes representam médias sobre os países, mas ainda assim o continente Africano apresentou grande variação. Esse comportamento é refletido nas correlações, onde temos que o Brasil com correlações altas entre Europa e Américas, e correlação baixa com a África. No gráfico de evolução temporal, é interessante observar o comportamento de ascensão da cobertura vacinal no Brasil entre 1995-2000 em comparação com os demais. A variação para esse período é de mais de 40 para o Brasil, enquanto que para os continentes não passa de 10. Podemos ver também que o comportamento de queda dos últimos anos ocorre com maior força somente no Brasil.
   
    
- * Integração entre a base HDR e DATASUS: nessa etapa da análise, integramos o índice IDH(obtido da base HDR) aos dados de número total de óbitos de crianças abaixo de 1 ano, número de nascidos vivos, expectativa de vida (em anos) e cobertura vacinal dos imunizantes BCG, Poliomielite, Hepatie B, DTP e Febre Amarela (obtidos do DATASUS) no período de 1994-2019. Na base HDR, as linhas representam os países e as colunas, os anos. Para manter a formatação utilizada dos demais dataframes, invertemos as matrizes de dados oriundas da HDR para o formato ano x país e, em sequência, selecionamos somente a coluna com os dados do Brasil. Para gerar os dados de mortalidade infantil realizamos o seguinte cálculo para cada ano, de acordo com a referência: (https://www.scielo.br/j/rsp/a/xrSd7kCyTCB9yrpT6FmJ9Kf/?lang=pt|)
+ * Integração entre a base HDR e DATASUS: nessa etapa da análise, integramos o índice IDH(obtido da base HDR) aos dados de número total de óbitos de crianças abaixo de 1 ano, número de nascidos vivos, expectativa de vida (em anos) e cobertura vacinal dos imunizantes BCG, Poliomielite, Hepatie B, DTP e Febre Amarela (obtidos do DATASUS) no período de 1994-2019. Na base HDR, as linhas representam os países e as colunas, os anos. Para manter a formatação utilizada dos demais dataframes, invertemos as matrizes de dados oriundas da HDR para o formato ano x país e, em sequência, selecionamos somente a coluna com os dados do Brasil. Para gerar os dados de mortalidade infantil realizamos o seguinte cálculo para cada ano, de acordo com (Yunes J., Ronchezel V. S., 1974)
  Mortalidade (de crianças abaixo de 1 ano) = Número total de óbitos (de crianças abaixo de 1 ano) / Número de nascidos vivos. 
  
  Na análise exploratória inicial, foram feitos gráficos de correlação, evolução temporal e scatter como exemplificado a seguir:
@@ -264,7 +264,7 @@ Com as análises via regressão linear, o objetivo era de inicialmente identific
 Ferramenta | Endereço na Web | Resumo descritivo e utilização
 ----- | ----- | -----
 Google Colab 	 | https://colab.research.google.com | Lista de células que podem conter textos explicativos ou códigos executáveis e suas respectivas saídas.
-Jupyter Notebook | https://jupyter.org/ | Documento que permite execução de rotinas usuais de programação e documentação de todo o processo de produção do código.
+Jupyter Notebook | https://jupyter.org/              | Documento que permite execução de rotinas usuais de programação e documentação de todo o processo de produção do código.
 Matplotlib   	 | https://matplotlib.org            | Biblioteca do _Python_ para criação de gráficos e visualizações de dados.
 Numpy        	 | https://numpy.org                 | Biblioteca do _Python_ orientada a operação de vetores e matrizes multidimensionais.
 Pandas      	 | https://pandas.pydata.org         | Biblioteca do _Python_ orientada a manipulação e análise de dados.
@@ -289,8 +289,8 @@ Conforme é possível observar na tabela acima e também nos gráficos de boxplo
 
 Regiões | Valor p
 ----- | -----
-Sul - Sudeste | 0.23805499904407643
-Sul - Centro-Oeste | 0.8178347725642913
+Sul - Sudeste | 0.238
+Sul - Centro-Oeste | 0.818
 Sul - Norte | 0.168
 Sul - Nordeste | 0.630
 Sudeste - Centro-Oeste | 0.691
@@ -301,7 +301,7 @@ Centro-Oeste - Nordeste | 0.608
 Norte - Nordeste | 0.347
 Capitais - Extrema pobreza | 0.591
 
-   
+Como podemos observar, a distribuição de cobertura vacinal de nenhuma região é de fato estatisticamente independente. Os valores de comparação entre a região Norte e as demais são os menores, indicando que a cobertura nessa região parece ser a mais distinta (mas ainda assim nenhum valor é menor do que 0.05). Esses resultados indicam que  
    
   * Índices sociais e Cobertura Vacinal
  * Brasil e Mundo
