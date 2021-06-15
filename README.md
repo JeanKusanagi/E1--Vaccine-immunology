@@ -19,7 +19,7 @@ Trabalho final da disciplina Ciência e Visualização de Dados em Saúde.
 │
 ├── notebooks          <- Jupyter notebooks
 │
-├── images             <- iamgens geradas durante o desenvolvimento do projeto
+└── images             <- iamgens geradas durante o desenvolvimento do projeto
     └── README.md      <- instruções básicas de instalação/execução
 ~~~
 
