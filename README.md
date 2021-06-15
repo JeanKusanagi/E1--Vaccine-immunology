@@ -307,8 +307,8 @@ principalmente crianças. De acordo a Convenção das Nações Unidas sobre os D
 direito à melhor saúde possível e ao direito de ser vacinada.
 
 Além dos desafios científicos, as barreiras sociopolíticas impedem uma vacinação segura e eficaz para toda a população. 
-O acesso às vacinas é um dos grandes obstáculos que se enfrenta pelo agentes de saúde, e melhorar a infraestrutura e 
-buscar o envolvimento da comunidade é essencial para melhorar isso. Além disso, existe uma grande parte da população 
+O acesso às vacinas é um dos grandes obstáculos que se enfrenta pelo agentes de saúde. Melhorar a infraestrutura e 
+buscar o envolvimento da comunidade é essencial para progredir nesse aspecto. Além disso, existe uma grande parte da população 
 que é contra a vacinação e exigem uma resposta da comunidade científica, para fornecer transparência sobre os efeitos 
 colaterais envolvendo tais vacinas. 
 
@@ -321,10 +321,10 @@ realmente mostrou que, em caso de emergência, partes com diferentes incentivos 
 vacinas estejam sendo desenvolvidas em um curto período de tempo, mas também destacou alguns dos desafios interesses nacionais 
 e comerciais. Dessa forma, essa abordagem pode facilitar o trabalho dos agentes de saúde no combate a essas doenças e outras 
 que possivelmente podem aparecer no futuro. Entende-se que é essencial um ambiente em que a imunização é normal, a 
-ciência é o acesso viável para conbate a pandemias, e o acesso à vacinação é um direito de todos.
+ciência é o acesso viável para combate a pandemias, e o acesso à vacinação é um direito de todos.
 
 Para melhorar a análise realizada nesse projeto, um esforço maior deve ser despendido na avaliação da qualidade dos dados utilizados.
-Essa análise pode ser realizada por especialista da saúde na. Além disso, a cobertura vacinal deve ser expandida, analizando dados
+Essa análise pode ser realizada por especialista da saúde. Diante disso, a cobertura vacinal deve ser expandida, analisando dados
 de outras doenaças, especialmente o COVID-19.
 
 
