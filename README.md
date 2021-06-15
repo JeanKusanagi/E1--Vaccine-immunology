@@ -278,9 +278,10 @@ SciPy            | https://www.scipy.org/            | Biblioteca/Ecossistema do
 
  * Brasil por região
    Abaixo, apresentamos uma tabela com as médias e desvio padrão (em parênteses) de cobertura vacinal durante o período 1994 - 2019 para as diferentes regiões do país
-      | Norte | Nordeste | Sudeste | Sul | Centro-Oeste | Municípios de Extrema Pobreza | Capitais | Brasil
+Região/Imunizante | Norte | Nordeste | Sudeste | Sul | Centro-Oeste | Municípios de Extrema Pobreza | Capitais | Brasil
 ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | -----
 BCG | 109.2 (14.6) | 107.0 (11.6) | 104.5 (10.4) | 102.0 (6.7) | 107.3 (13.0) | 95.6 (9.6) | 117.6 (14.7) | 105.5 (10.0)
+
 DTP
 81.3 (23.6)
 85.7 (24.3)
