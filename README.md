@@ -279,47 +279,27 @@ SciPy            | https://www.scipy.org/            | Biblioteca/Ecossistema do
  * Brasil por região
    Abaixo, apresentamos uma tabela com as médias e desvio padrão (em parênteses) de cobertura vacinal durante o período 1994 - 2019 para as diferentes regiões do país
 
-
 Região/Imunizante | Norte | Nordeste | Sudeste | Sul | Centro-Oeste | Municípios de Extrema Pobreza | Capitais | Brasil
 ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | -----
 BCG | 109.2 (14.6) | 107.0 (11.6) | 104.5 (10.4) | 102.0 (6.7) | 107.3 (13.0) | 95.6 (9.6) | 117.6 (14.7) | 105.5 (10.0)
+Hepatite B | 75.8 (25.6) | 74.8 (37.3) | 81.6 (33.5) | 84.8 (24.5) | 78.8 (35.1) | 78.2 (37.1) | 75.9 (32.0) | 78.0 (33.5)
+Poliomielite | 88.8 (19.8) | 93.2 (12.8) | 96.7 (8.2) | 95.0 (5.6) | 95.4 (16.0) | 94.9 (13.6) | 93.1 (10.7) | 94.1 (11.4)
 
-DTP
-81.3 (23.6)
-85.7 (24.3)
-90.8 (23.4)
-89.6 (22.8)
-88.6 (25.6)
-87.6 (25.6)
-86.2 (22.5)
-87.4 (23.4)
-Hepatite B
-75.8 (25.6)
-74.8 (37.3)
-81.6 (33.5)
-84.8 (24.5)
-78.8 (35.1)
-78.2 (37.1)
-75.9 (32.0)
-78.0 (33.5)
-Poliomielite
-88.8 (19.8)
-93.2 (12.8)
-96.7 (8.2)
-95.0 (5.6)
-95.4 (16.0)
-94.9 (13.6)
-93.1 (10.7)
-94.1 (11.4)
-Febre Amarela
-79.1 (25.8)
-34.4 (15.3)
-28.1 (18.8)
-30 (28.1)
-72.7 (26.7)
-40.1 (18.0)
-31.9 (13)
-39.2 (16.7)
+Conforme é possível observar na tabela acima e também nos gráficos de boxplot da análise exploratória, as médias de cobertura vacinal não variam significativamente para as diferentes regiões do país. As médias das regiões norte, nordeste e municípios de extrema pobreza apresentam as menores médias, enquanto as demais regiões apresentam médias maiores e similares. A imunização contra a Hepatite B é a que apresenta menor cobertura dentre os imunizantes considerados. Apesar de não parecerem distintas, ainda assim realizamos os testes de hipóteses para verificar a proximidade das distribuições de cobertura vacinal entre as regiões do País. A tabela abaixo apresenta os valores p para a hipótese de que as distribuições da cobertura vacinal da poliomielite no par de regiões considerada são estatisticamente indistinguíveis.
+
+Regiões | Valor p
+----- | -----
+Sul - Sudeste | 0.23805499904407643
+Sul - Centro-Oeste | 0.8178347725642913
+Sul - Norte | 0.168
+Sul - Nordeste | 0.630
+Sudeste - Centro-Oeste | 0.691
+Sudeste - Norte | 0.0658
+Sudeste - Nordeste | 0.228
+Centro-Oeste - Norte | 0.208
+Centro-Oeste - Nordeste | 0.608
+Norte - Nordeste | 0.347
+Capitais - Extrema pobreza | 0.591
 
    
    
