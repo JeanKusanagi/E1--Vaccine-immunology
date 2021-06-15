@@ -309,8 +309,8 @@ direito à melhor saúde possível e ao direito de ser vacinada.
 Além dos desafios científicos, as barreiras sociopolíticas impedem uma vacinação segura e eficaz para toda a população. 
 O acesso às vacinas é um dos grandes obstáculos que se enfrenta pelo agentes de saúde, e melhorar a infraestrutura e 
 buscar o envolvimento da comunidade é essencial para melhorar isso. Além disso, existe uma grande parte da população 
-que é contra a vacinação e exigen uma resposta da comunidade científica, para fornecer transparência sobre os efeitos 
-colaterais envolvendo tais vacianas. 
+que é contra a vacinação e exigem uma resposta da comunidade científica, para fornecer transparência sobre os efeitos 
+colaterais envolvendo tais vacinas. 
 
 
 # Trabalhos futuros
