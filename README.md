@@ -109,7 +109,7 @@ O objetivo do projeto foi de realizar primeiramente uma análise exploratória p
    <figure>
 	<img src="images/CRISP-DM.png.png" alt="CRISP-DM.png", height="400" width="1200">
 	<!--<figcaption>Modelo CRISP-DM</figcaption>-->
-	<small>https://www.datascience-pm.com/crisp-dm-2/<\small>
+	<small>https://www.datascience-pm.com/crisp-dm-2/</small>
    </figure>
    
 
