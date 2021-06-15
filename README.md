@@ -331,7 +331,9 @@ Este projeto foi baseado na execução de um ciclo completo da metodologia CRISP
 A imunização protege a população de doenças que, anteriormente, atingiu e tirou a vida de milhões de indivíduos, principalmente crianças. De acordo a Convenção das Nações Unidas sobre os Direitos da Criança, toda criança tem o direito à melhor saúde possível e ao direito de ser vacinada.
 
 Além dos desafios científicos, as barreiras sociopolíticas impedem uma vacinação segura e eficaz para toda a população. O acesso às vacinas é um dos grandes obstáculos que se enfrenta pelo agentes de saúde. Melhorar a infraestrutura e buscar o envolvimento da comunidade é essencial para progredir nesse aspecto. Além disso, existe uma grande parte da população que é contra a vacinação e exigem uma resposta da comunidade científica, para fornecer transparência sobre os efeitos 
-colaterais envolvendo tais vacinas. 
+colaterais envolvendo tais vacinas.
+
+De forma geral, com a análise dos dados foi possível obter as informações necessárias para responder as perguntas de pesquisa, tornando possível a construção de uma mapa de pontos de atenção que podem ser permitem identificar quais regiões tiveram uma quantidade maior de pessoas vacinadas, como ocorreu a evolução da cobertura vacinal das vacinas obrigatórias, ao longo dos anos em regiões do Brasil e, também, identificar os fatores regionais ou sociais que podem estar associados ao aumento ou diminuição da cobertura vacinal.
 
 
 # Trabalhos futuros
