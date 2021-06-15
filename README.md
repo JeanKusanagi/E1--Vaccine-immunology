@@ -246,11 +246,13 @@ A descrição de todas as operações realizadas nesta etapa também podem ser c
 
 
 # Análises Realizadas
-> Descrição detalhada das análises realizadas.
->
->
->
->Relate aqui também a evolução do projeto: possíveis problemas enfrentados e possíveis mudanças de trajetória. Relatar o processo para se alcançar os resultados é tão importante quanto os resultados.
+
+As análises realizadas consistiram em 3 categorias: análise exploratória (elaboração de gráficos de boxplot, correlação e de evolução temporal, cálculo de médias e desvio padrão), teste de hipóteses e regressão linear. A análise exploratória foi realizada utilizando as bibliotecas da linguagem _Python_ Numpy e Pandas (para manejo dos dados e cálculos de média, desvio padrão e correlação) e Matplotlib e Seaborn (para resultados gráficos). Para os testes de hipóteses e regressão linear, utilizamos as bibliotecas SciPy e Scikit-Learn, respectivamente, e as mesmas bibliotecas para geração de gráficos da análise exploratória. Todas as análises foram feitas no notebook gerador de agrupamentos ([ver aqui](notebooks/E2_vaccine_immunology.ipynb)).
+
+
+As análises via teste de hipóteses consistiram em testar se diferentes regiões do Brasil e do mundo possuíam distribuições estatisticamente distintas de cobertura vacinal dos imunizantes considerados. Para todos os imunizantes testados os resultados foram similares, e por isso mostramos somente os resultados para a Poliomielite na seção a seguir. Um segundo teste de hipóteses seria para identificar se os municípios de extrema pobreza possuíam distribuição de coberturas diferente dos municípios sem extrema pobreza. Entretanto, ao manipular os dados percebemos que os dados gerados com o filtro 'Municípios de extrema pobreza = não' na plataforma do DATASUS eram idênticos aos dados de todo o Brasil (sem aplicação do filtro), e não foi possível fazer uma comparação direta (com/sem extrema pobreza). Por conta disso fizemos o teste de hipóteses comparando os municípios de extrema pobreza com as capitais do país.
+
+
 >
 >
 >
