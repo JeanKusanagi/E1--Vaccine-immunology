@@ -314,7 +314,9 @@ Capitais - Extrema pobreza | 0.591
 Como podemos observar, a distribuição de cobertura vacinal de nenhuma região é de fato estatisticamente independente. Os valores de comparação entre a região Norte e as demais são os menores, indicando que a cobertura nessa região parece ser a mais distinta (mas ainda assim nenhum valor é menor do que 0.05). Esses resultados indicam que o acesso à vacinas obrigatórias e de extrema importância no Brasil é bastante homogêneo (em média), mesmo em regiões de maior vulnerabilidade. **Discussão sobre SUS/outros artigos**
    
   * Índices sociais e Cobertura Vacinal
-A comparação da evolução da cobertura vacinal da Poliomielite, Hepatite B e BCG com a mortalidade infantil através do método de regressão linear produziu os resultados da tabel abaixo, que contém os valores de R^2 (erro residual quadrático) e o coeficiente linear encontrado em parênteses considerando dois períodos distintos.
+A comparação da evolução da cobertura vacinal da Poliomielite, Hepatite B e BCG com a mortalidade infantil através do método de regressão linear produziu os resultados da tabel abaixo, que contém os valores de R^2 e o coeficiente angular (em parênteses) encontrados considerando dois períodos distintos. O coeficiente R^2 (R quadrado) representa a proporção de variância da variável independente (nesse caso, a mortalidade) que é explicada pela variável preditora (cobertura vacinal) em um modelo de regressão, sendo que R^2 = 1 indica que toda a variância da variável independente é explicada pela preditora, e R^2 = 0 indica que nenhuma porção da variância é explicável pela predição.
+
+
 Imunizante | 1994-2019 | 1994-2014
 ----- | ----- | -----
 Poliomielite | 0.296 (-0.000279) | 0.694 (-0.000405)
@@ -327,7 +329,15 @@ Abaixo, apresentamos os gráficos gerados após as regressões lineares, contend
 	<img src="images/polio_mort.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
-
+ <figure>
+	<img src="images/bcg_mort.png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+  <figure>
+	<img src="images/hepb_mort.png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+Conforme observado já na análise exploratória, a cobertura vacinal dos principais imunizantes parece ter entrado em queda a partir dos anos de 2014 e 2015. Observando os resultados das regressões considerando todo o período de 1994 a 2019 e comparando com a evolução da mortalidade infantel, foi possível diagnosticar mais uma vez essa queda. É possível notar que valores de R quadrado ao final da regressão e os coeficientes lineares são menores para o período 1994-2014, indicando que há uma tendência mais forte de aumento na cobertura vacinal associada à diminuição da mortalidade infantil.
 
  * Brasil e Mundo
 
