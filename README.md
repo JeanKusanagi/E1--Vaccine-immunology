@@ -324,30 +324,22 @@ Como podemos observar, a distribuição de cobertura vacinal de nenhuma região 
 >
 > Principais lições aprendidas.
 
-A imunização protege a população de doenças que, anteriormente, atingiu e tirou a vida de milhões de indivíduos, 
-principalmente crianças. De acordo a Convenção das Nações Unidas sobre os Direitos da Criança, toda criança tem o 
-direito à melhor saúde possível e ao direito de ser vacinada.
+Durante o desenvolvimento deste projeto, percebeu-se que uma das grandes dificuldades encontradas foi à respeito da fase de entendimento do contexto em que os dados foram aplicados, como por exemplo, as característcas de cada uma das regiões em ouve a cobertura vacinal. Posteriormente, outra dificuldade foi a utilização deste conhecimento que foi cuidadosamente transcrito em uma preparação de dados e engenharia de features adequadas.
 
-Além dos desafios científicos, as barreiras sociopolíticas impedem uma vacinação segura e eficaz para toda a população. 
-O acesso às vacinas é um dos grandes obstáculos que se enfrenta pelo agentes de saúde. Melhorar a infraestrutura e 
-buscar o envolvimento da comunidade é essencial para progredir nesse aspecto. Além disso, existe uma grande parte da população 
-que é contra a vacinação e exigem uma resposta da comunidade científica, para fornecer transparência sobre os efeitos 
+Este projeto foi baseado na execução de um ciclo completo da metodologia CRISP-DM, e portanto, se tratando de um ciclo, em interações posteriores foram captadas informações não percebidas em fasea anteriores. Outro ponto de atenção neste processo é a existência de features com dados possuindo o valor 0 (zero). Alpem disso, os valores decimais originais de cada tabela são rerpesentados com carácter ',', então tiveram que ser substituídos pelo carácter '.' (Ex: 1,32 por 1.32). 
+
+A imunização protege a população de doenças que, anteriormente, atingiu e tirou a vida de milhões de indivíduos, principalmente crianças. De acordo a Convenção das Nações Unidas sobre os Direitos da Criança, toda criança tem o direito à melhor saúde possível e ao direito de ser vacinada.
+
+Além dos desafios científicos, as barreiras sociopolíticas impedem uma vacinação segura e eficaz para toda a população. O acesso às vacinas é um dos grandes obstáculos que se enfrenta pelo agentes de saúde. Melhorar a infraestrutura e buscar o envolvimento da comunidade é essencial para progredir nesse aspecto. Além disso, existe uma grande parte da população que é contra a vacinação e exigem uma resposta da comunidade científica, para fornecer transparência sobre os efeitos 
 colaterais envolvendo tais vacinas. 
 
 
 # Trabalhos futuros
 > O que poderia ser melhorado se houvesse mais tempo?
 
-Uma análise sobre novas doenças como o  COVID-19, pode ajudar em um melhor controle sobre tais doenças. A pandemia COVID-19 
-realmente mostrou que, em caso de emergência, partes com diferentes incentivos podem caminhar juntas para garantir que as 
-vacinas estejam sendo desenvolvidas em um curto período de tempo, mas também destacou alguns dos desafios interesses nacionais 
-e comerciais. Dessa forma, essa abordagem pode facilitar o trabalho dos agentes de saúde no combate a essas doenças e outras 
-que possivelmente podem aparecer no futuro. Entende-se que é essencial um ambiente em que a imunização é normal, a 
-ciência é o acesso viável para combate a pandemias, e o acesso à vacinação é um direito de todos.
+Uma análise sobre novas doenças como o  COVID-19, pode ajudar em um melhor controle sobre tais doenças. A pandemia COVID-19 realmente mostrou que, em caso de emergência, partes com diferentes incentivos podem caminhar juntas para garantir que as vacinas estejam sendo desenvolvidas em um curto período de tempo, mas também destacou alguns dos desafios interesses nacionais e comerciais. Dessa forma, essa abordagem pode facilitar o trabalho dos agentes de saúde no combate a essas doenças e outras que possivelmente podem aparecer no futuro. Entende-se que é essencial um ambiente em que a imunização é normal, a ciência é o acesso viável para combate a pandemias, e o acesso à vacinação é um direito de todos.
 
-Para melhorar a análise realizada nesse projeto, um esforço maior deve ser despendido na avaliação da qualidade dos dados utilizados.
-Essa análise pode ser realizada por especialista da saúde. Diante disso, a cobertura vacinal deve ser expandida, analisando dados
-de outras doenaças, especialmente o COVID-19.
+Para melhorar a análise realizada nesse projeto, um esforço maior deve ser despendido na avaliação da qualidade dos dados utilizados. Essa análise pode ser realizada por especialista da saúde. Diante disso, a cobertura vacinal deve ser expandida, analisando dados de outras doenaças, especialmente o COVID-19.
 
 
 # Referências
