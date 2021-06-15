@@ -253,21 +253,7 @@ As análises realizadas consistiram em 3 categorias: análise exploratória (ela
 As análises via teste de hipóteses consistiram em testar se diferentes regiões do Brasil e do mundo possuem distribuições estatisticamente distintas de cobertura vacinal dos imunizantes considerados no período de 1994 a 2019. Para todos os imunizantes testados os resultados foram similares, e por isso mostramos somente os resultados para a Poliomielite na seção a seguir. Um segundo tipo de teste de hipóteses seria feito para identificar se os municípios de extrema pobreza possuíam distribuição de coberturas diferente dos municípios sem extrema pobreza. Entretanto, ao manipular os dados percebemos que os dados gerados com o filtro 'Municípios de extrema pobreza = não' na plataforma do DATASUS eram idênticos aos dados de todo o Brasil (sem aplicação do filtro), e não foi possível fazer uma comparação direta (com/sem extrema pobreza). Por conta disso fizemos o teste de hipóteses comparando os municípios de extrema pobreza com as capitais do país.
 
 
-Com as análises via regressão linear, o objetivo era de inicialmente identificar relações de dependência de diversos fatores sociais e econômicos com a cobertura vacinal dos principais imunizantes. Fatores que consideramos relevantes para essa análise seriam o IDH, mortalidade infantil, expectativa de vida, gastos em saúde pública, índices de educação e PIB. O índice de educação obtido pela base HDR, mortalidade infantil, expectativa de vida e PIB estão diretamente ligados ao cálculo do IDH, tornando a análise com mais de um desses fatores (ao mesmo tempo) redundante. Para o índice restante, gastos em saúde pública, que consideramos ser de extrema importância para análise, não foi possível obter dados coerentes para o período considerado. Encontramos dados de somente alguns anos na base HDR e dados também de somente alguns anos em resumos/reports do IBGE e outros órgãos governamentais, porém o cálculo dos gastos foi feito de forma distinta em cada arquivo e não foi possível utilizá-los. Realizamos então a análise por regressão linear em dois formatos: cobertura vacinal como preditor para a mortalidade infantil e IDH como preditor da cobertua vacinal, para os imunizantes da poliomielite, BCG e Hepatite B. Sabemos que a mortalidade infantil e a cobertura vacinal dependem de inúmeros fatores e portanto não é possível prever o comportamento desses dados na forma analisada, mas sim analisar tendências de comportamento entre os fatores de predição e os preditos.
-
-
->
->
->
->
-> Os destaques de código devem ser trechos pequenos de poucas linhas, que estejam diretamente ligados a alguma explicação. Não utilize trechos extensos de código. Se algum código funcionar online (tal como um Jupyter Notebook), aqui pode haver links. No caso do Jupyter, preferencialmente para o Binder abrindo diretamente o notebook em questão.
-
-~~~python
-df = pd.read_excel("/content/drive/My Drive/Colab Notebooks/dataset.xlsx");
-sns.set(color_codes=True);
-sns.distplot(df.Hemoglobin);
-plt.show();
-~~~
+Com as análises via regressão linear, o objetivo era de inicialmente identificar relações de dependência de diversos fatores sociais e econômicos com a cobertura vacinal dos principais imunizantes. Fatores que consideramos relevantes para essa análise seriam o IDH, mortalidade infantil, expectativa de vida, gastos em saúde pública, índices de educação e PIB. O índice de educação obtido pela base HDR, mortalidade infantil, expectativa de vida e PIB estão diretamente ligados ao cálculo do IDH, tornando a análise com mais de um desses fatores (ao mesmo tempo) redundante. Para o índice restante, gastos em saúde pública, que consideramos ser de extrema importância para análise, não foi possível obter dados coerentes para o período considerado. Encontramos dados de somente alguns anos na base HDR e dados também de somente alguns anos em resumos/reports do IBGE e outros órgãos governamentais, porém o cálculo dos gastos foi feito de forma distinta em cada arquivo e não foi possível utilizá-los. Realizamos então a análise por regressão linear em dois formatos: cobertura vacinal como preditor para a mortalidade infantil e IDH como preditor da cobertua vacinal, para os imunizantes da poliomielite, BCG e Hepatite B. Sabemos que a mortalidade infantil e a cobertura vacinal dependem de inúmeros fatores e portanto não é possível prever o comportamento desses dados na forma analisada, mas foi possível analisar tendências de comportamento entre os fatores de predição e os preditos.
 
 
 # Ferramentas utilizadas
@@ -288,16 +274,54 @@ SciPy            | https://www.scipy.org/            | Biblioteca/Ecossistema do
 
 
 # Resultados e Discussão
-> Descrição dos resultados mais importantes obtidos.
->
-> Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de Análises Realizadas (o que for mais pertinente).
 
 
+ * Brasil por região
+   Abaixo, apresentamos uma tabela com as médias e desvio padrão (em parênteses) de cobertura vacinal durante o período 1994 - 2019 para as diferentes regiões do país
+      | Norte | Nordeste | Sudeste | Sul | Centro-Oeste | Municípios de Extrema Pobreza | Capitais | Brasil
+----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | -----
+BCG | 109.2 (14.6) | 107.0 (11.6) | 104.5 (10.4) | 102.0 (6.7) | 107.3 (13.0) | 95.6 (9.6) | 117.6 (14.7) | 105.5 (10.0)
+DTP
+81.3 (23.6)
+85.7 (24.3)
+90.8 (23.4)
+89.6 (22.8)
+88.6 (25.6)
+87.6 (25.6)
+86.2 (22.5)
+87.4 (23.4)
+Hepatite B
+75.8 (25.6)
+74.8 (37.3)
+81.6 (33.5)
+84.8 (24.5)
+78.8 (35.1)
+78.2 (37.1)
+75.9 (32.0)
+78.0 (33.5)
+Poliomielite
+88.8 (19.8)
+93.2 (12.8)
+96.7 (8.2)
+95.0 (5.6)
+95.4 (16.0)
+94.9 (13.6)
+93.1 (10.7)
+94.1 (11.4)
+Febre Amarela
+79.1 (25.8)
+34.4 (15.3)
+28.1 (18.8)
+30 (28.1)
+72.7 (26.7)
+40.1 (18.0)
+31.9 (13)
+39.2 (16.7)
 
-> Discussão dos resultados. Relacionar os resultados com as perguntas de pesquisa ou hipóteses avaliadas.
->
-> A discussão dos resultados também pode ser feita opcionalmente na seção de Resultados, na medida em que os resultados são apresentados. Aspectos importantes a serem discutidos: É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?
-
+   
+   
+  * Índices sociais e Cobertura Vacinal
+ * Brasil e Mundo
 
 
 # Conclusões e Lições aprendidas
