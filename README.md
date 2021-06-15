@@ -107,11 +107,15 @@ O objetivo do projeto foi de realizar primeiramente uma análise exploratória p
    O projeto será elaborado a partir do modelo CRISP-DM. Com a utilização de dados fornecidos pelas bases de dados, a modelagem será realizada por meio de gráficos, correlação entre os dados e séries temporais. Também serão utilizadas Árvore de Decisão e Métodos de Regressão para a predição de informações, ambas utilizando a linguagem de programação Python. As setas apresentadas, na figura abaixo, indicam o caminho mais comum durante a realização das tarefas em cada uma das etapas do modelo CRISP, contudo em teoria a qualquer momento do ciclo é possível voltar para quaisquer uma das etapas anteriores, como ocorreu neste projeto.
    
    <figure>
-	<img src="images/CRISP-DM.png" alt="Modelo CRISP-DM", height="200" width="600">
+	<img src="images/CRISP-DM.png" alt="Modelo CRISP-DM", height="200" width="500">
 	<!--<figcaption>Modelo CRISP-DM</figcaption>-->
    </figure>
-   <small>https://www.datascience-pm.com/crisp-dm-2/</small>
-   
+   <small>Fonte: https://www.datascience-pm.com/crisp-dm-2/</small>
+   <p>
+     <font size="3" face="Times">
+	 Fonte: https://www.datascience-pm.com/crisp-dm-2/
+    </font>
+  </p>
 
 
 
