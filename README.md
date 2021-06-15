@@ -107,8 +107,8 @@ O objetivo do projeto foi de realizar primeiramente uma análise exploratória p
    O projeto será elaborado a partir do modelo CRISP-DM. Com a utilização de dados fornecidos pelas bases de dados, a modelagem será realizada por meio de gráficos, correlação entre os dados e séries temporais. Também serão utilizadas Árvore de Decisão e Métodos de Regressão para a predição de informações, ambas utilizando a linguagem de programação Python.
    
    <figure>
-	<img src="images/CRISP-DM.png.png" alt="Doenças no Brasil", height="400" width="1200">
-	<figcaption>Modelo CRISP-DM</figcaption>
+	<img src="images/CRISP-DM.png.png" alt="CRISP-DM.png", height="400" width="1200">
+	<!--<figcaption>Modelo CRISP-DM</figcaption>-->
    </figure>
    
 
