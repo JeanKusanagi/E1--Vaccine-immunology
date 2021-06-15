@@ -280,7 +280,7 @@ Jupyter Notebook | https://jupyter.org/ | Documento que permite execução de ro
 Matplotlib   	 | https://matplotlib.org            | Biblioteca do _Python_ para criação de gráficos e visualizações de dados.
 Numpy        	 | https://numpy.org                 | Biblioteca do _Python_ orientada a operação de vetores e matrizes multidimensionais.
 Pandas      	 | https://pandas.pydata.org         | Biblioteca do _Python_ orientada a manipulação e análise de dados.
-Python 3.8.3 	 | https://www.python.org            | Linguagem de programação de propósito geral. 
+Python 2.7.17 	 | https://www.python.org            | Linguagem de programação de propósito geral. 
 Scikit-Learn     | https://scikit-learn.org/stable/  | Biblioteca do _Python_ para aprendizado de máquina. Utilizada para regressão linear.
 SciPy            | https://www.scipy.org/            | Biblioteca/Ecossistema do _Python_ para análises científicas e estatísticas em geral. Utilizada para o teste de hipóteses.
 
