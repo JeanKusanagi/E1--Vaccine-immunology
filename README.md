@@ -341,16 +341,19 @@ de outras doenaças, especialmente o COVID-19.
 
 [4] **Cassocera M, Chissaque A, Martins MRO, Deus N.** 40 years of immunization in Mozambique: a narrative review of literature, accomplishments, and perspectives. Cad Saude Publica. 2020 Oct 7;36. doi: 10.1590/0102-311X00038320. PMID: 33053042. https://pubmed.ncbi.nlm.nih.gov/33053042/
 
-[5] **Clem, Angela S.** Fundamentals of vaccine immunology. Journal of global infectious diseases. vol. 3,1 (2011): 73-8. doi:10.4103/0974-777X.77299 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3068582/
+[5] **CATA-PRETA, B. O. et al.** Zero-dose children and the immunisation cascade: Understanding immunisation pathways in low and middle-income countries. Vaccine, 2021. https://www.sciencedirect.com/science/article/pii/S0264410X21002632
 
-[6] **Garcia ÉM, Nery Teixeira Palombo C, Waldman EA, Sato APS.** Factors associated with the completeness of the vaccination schedule of children at 12 and 24 months of age in a Brazilian medium-size municipality. J Pediatr Nurs. 2021 Mar 17:S0882-5963(21)00070-1. doi: 10.1016/j.pedn.2021.02.028. ahead of print. PMID: 33744058. https://pubmed.ncbi.nlm.nih.gov/33744058/
+[6] **Césare N, Mota TF, Lopes FFL, et al.** Longitudinal profiling of the vaccination coverage in Brazil reveals a recent change in the patterns hallmarked by differential reduction across regions. International Journal of Infectious Diseases : IJID : Official Publication of the International Society for Infectious Diseases. 2020 Sep;98:275-280. DOI: 10.1016/j.ijid.2020.06.092.CéSARE, N. et al.** Longitudinal profiling of the vaccination coverage in brazil reveals a recent change in the patterns hallmarked by differential reduction across regions. International Journal of Infectious Diseases, v. 98, p. 275–280, 2020. https://www.sciencedirect.com/science/article/pii/S1201971220305270
 
-[7] **Pollard, A.J., Bijker, E.M.** A guide to vaccinology: from basic principles to new developments. Nat Rev Immunol 21, 83–100 (2021). https://doi.org/10.1038/s41577-020-00479-7
+[7] **Clem, Angela S.** Fundamentals of vaccine immunology. Journal of global infectious diseases. vol. 3,1 (2011): 73-8. doi:10.4103/0974-777X.77299 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3068582/
 
-[8] **Silveira MF, Buffarini R, Bertoldi AD, Santos IS, Barros AJD, Matijasevich A, Menezes AMB, Gonçalves H, Horta BL, Barros FC, Barata RB, Victora CG.** The emergence of vaccine hesitancy among upper-class Brazilians: Results from four birth cohorts, 1982-2015. Vaccine. 2020 Jan 16;38(3):482-488. doi: 10.1016/j.vaccine.2019.10.070. 2019 Nov 9. PMID: 31718899. https://pubmed.ncbi.nlm.nih.gov/31718899/
+[8] **Garcia ÉM, Nery Teixeira Palombo C, Waldman EA, Sato APS.** Factors associated with the completeness of the vaccination schedule of children at 12 and 24 months of age in a Brazilian medium-size municipality. J Pediatr Nurs. 2021 Mar 17:S0882-5963(21)00070-1. doi: 10.1016/j.pedn.2021.02.028. ahead of print. PMID: 33744058. https://pubmed.ncbi.nlm.nih.gov/33744058/
 
-[9] **Silveira MF, Tonial CT, Goretti K Maranhão A, Teixeira AMS, Hallal PC, Maria B Menezes A, Horta BL, Hartwig FP, Barros AJD, Victora CG.** Missed childhood immunizations during the COVID-19 pandemic in Brazil: Analyses of routine statistics and of a national household survey. Vaccine. 2021 Jun 8;39(25):3404-3409. doi: 10.1016/j.vaccine.2021.04.046. 2021 Apr 27. PMID: 33941406. https://pubmed.ncbi.nlm.nih.gov/33941406/
+[9] **Pollard, A.J., Bijker, E.M.** A guide to vaccinology: from basic principles to new developments. Nat Rev Immunol 21, 83–100 (2021). https://doi.org/10.1038/s41577-020-00479-7
 
-[10] **Yunes J, Ronchezel VS.** Evolução da mortalidade geral, infantil e proporcional no Brasil. Rev. Saúde Pública 8 (suppl) Jun 1974. doi: 10.1590/S0034-89101974000500002.
- https://www.scielo.br/j/rsp/a/xrSd7kCyTCB9yrpT6FmJ9Kf/?lang=pt|
+[10] **Silveira MF, Buffarini R, Bertoldi AD, Santos IS, Barros AJD, Matijasevich A, Menezes AMB, Gonçalves H, Horta BL, Barros FC, Barata RB, Victora CG.** The emergence of vaccine hesitancy among upper-class Brazilians: Results from four birth cohorts, 1982-2015. Vaccine. 2020 Jan 16;38(3):482-488. doi: 10.1016/j.vaccine.2019.10.070. 2019 Nov 9. PMID: 31718899. https://pubmed.ncbi.nlm.nih.gov/31718899/
+
+[11] **Silveira MF, Tonial CT, Goretti K Maranhão A, Teixeira AMS, Hallal PC, Maria B Menezes A, Horta BL, Hartwig FP, Barros AJD, Victora CG.** Missed childhood immunizations during the COVID-19 pandemic in Brazil: Analyses of routine statistics and of a national household survey. Vaccine. 2021 Jun 8;39(25):3404-3409. doi: 10.1016/j.vaccine.2021.04.046. 2021 Apr 27. PMID: 33941406. https://pubmed.ncbi.nlm.nih.gov/33941406/
+
+[12] **Yunes J, Ronchezel VS.** Evolução da mortalidade geral, infantil e proporcional no Brasil. Rev. Saúde Pública 8 (suppl) Jun 1974. doi: 10.1590/S0034-89101974000500002. https://www.scielo.br/j/rsp/a/xrSd7kCyTCB9yrpT6FmJ9Kf/?lang=pt|
 
