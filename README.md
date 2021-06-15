@@ -184,7 +184,7 @@ Todas as tabelas, armazenadas em arquivos 'csv', possuíam a mesma quantidade de
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
    
-A partir destas análises exploratórias, foi possível identificar que há um movimento de queda das coberturas vacinais a partir dos anos de 2018-2019 para todos os imunizantes considerados. Essa queda ocorre logo depois de um grande movimento de ascensão entre os anos de 1994 e 2015-2016. Foi possível observar também que todas as regiões possuem médias maiores que 80 para todos os imunizantes, sendo que os municípios de extrema pobreza possuem em geral as menores médias e a região de maior média varia entre os imunizantes. A variação de valores das coberturas é maior nas regiões Norte, Nordeste, Amazônia Legal e municípios de extrema pobreza. Um comportamento similar entre essas regiões já era esperado, visto a proximidade geográfica e maior intersecção entre elas (Amazônia Legal e Norte, por exemplo). A partir dos gráficos de correlação foi possível identificar melhor as tendências de similaridade obtidas com os gráficos de boxplot. Novamente temos uma forte correlação entre Norte, Nordeste, Amazônia Legal, municípios de extrema pobreza e também o Semiárido. As regiões com menores correlações foram Sul e Norte, Sul e Centro-Oeste e Sul e Amazônia Legal para o imunizante BCG. Para os demais imunizantes, não houve nenhuma correlação abaixo de 0.5, e as tendências foram similares.
+A partir destas análises exploratórias, foi possível identificar que há um movimento de queda das coberturas vacinais a partir de 2014-2015 para todos os imunizantes considerados. Essa queda ocorre logo depois de um grande movimento de ascensão entre os anos de 1994 e 2014-2015. Foi possível observar também que todas as regiões possuem médias maiores que 80 para todos os imunizantes, sendo que os municípios de extrema pobreza possuem em geral as menores médias e a região de maior média varia entre os imunizantes. A variação de valores das coberturas é maior nas regiões Norte, Nordeste, Amazônia Legal e municípios de extrema pobreza. Um comportamento similar entre essas regiões já era esperado, visto a proximidade geográfica e maior intersecção entre elas (Amazônia Legal e Norte, por exemplo). A partir dos gráficos de correlação foi possível identificar melhor as tendências de similaridade obtidas com os gráficos de boxplot. Novamente temos uma forte correlação entre Norte, Nordeste, Amazônia Legal, municípios de extrema pobreza e também o Semiárido. As regiões com menores correlações foram Sul e Norte, Sul e Centro-Oeste e Sul e Amazônia Legal para o imunizante BCG. Para os demais imunizantes, não houve nenhuma correlação abaixo de 0.5, e as tendências foram similares.
    
    
 
@@ -311,9 +311,24 @@ Centro-Oeste - Nordeste | 0.608
 Norte - Nordeste | 0.347
 Capitais - Extrema pobreza | 0.591
 
-Como podemos observar, a distribuição de cobertura vacinal de nenhuma região é de fato estatisticamente independente. Os valores de comparação entre a região Norte e as demais são os menores, indicando que a cobertura nessa região parece ser a mais distinta (mas ainda assim nenhum valor é menor do que 0.05). Esses resultados indicam que  
+Como podemos observar, a distribuição de cobertura vacinal de nenhuma região é de fato estatisticamente independente. Os valores de comparação entre a região Norte e as demais são os menores, indicando que a cobertura nessa região parece ser a mais distinta (mas ainda assim nenhum valor é menor do que 0.05). Esses resultados indicam que o acesso à vacinas obrigatórias e de extrema importância no Brasil é bastante homogêneo (em média), mesmo em regiões de maior vulnerabilidade. **Discussão sobre SUS/outros artigos**
    
   * Índices sociais e Cobertura Vacinal
+A comparação da evolução da cobertura vacinal da Poliomielite, Hepatite B e BCG com a mortalidade infantil através do método de regressão linear produziu os resultados da tabel abaixo, que contém os valores de R^2 (erro residual quadrático) e o coeficiente linear encontrado em parênteses considerando dois períodos distintos.
+Imunizante | 1994-2019 | 1994-2014
+----- | ----- | -----
+Poliomielite | 0.296 (-0.000279) | 0.694 (-0.000405)
+BCG| 0.000570 (1.736e-05) | 0.190 (-0.000340)
+Hepatite B | 0.649 (-0.000133) | 0.720 (-0.000127)
+
+Abaixo, apresentamos os gráficos gerados após as regressões lineares, contendo os dados originais e preditos.
+
+<figure>
+	<img src="images/polio_mort.png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+
+
  * Brasil e Mundo
 
 
