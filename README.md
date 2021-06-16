@@ -7,11 +7,11 @@ Trabalho final da disciplina Ciência e Visualização de Dados em Saúde.
 
 
 ~~~
-├── README.md          <- apresentação do projeto
+├── README.md          			<- apresentação do projeto
 │
 ├── assets
-│   ├── artigos        <- artigos utilizados como referência para o projeto
-│   └── slides         <- slides utilizados na apresentação do projeto
+│   ├── artigos        			<- artigos utilizados como referência para o projeto
+│   └── slides         			<- slides utilizados na apresentação do projeto
 |
 ├── data
 │   ├── processed      			<- dados finais usados para a modelagem
