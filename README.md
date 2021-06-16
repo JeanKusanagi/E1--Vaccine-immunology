@@ -373,7 +373,12 @@ Durante o desenvolvimento deste projeto, percebeu-se que uma das grandes dificul
 
 Este projeto foi baseado na execução de um ciclo completo da metodologia CRISP-DM, e portanto, se tratando de um ciclo, em interações posteriores foram captadas informações não percebidas em fasea anteriores. Outro ponto de atenção neste processo é a existência de features com dados possuindo o valor 0 (zero). Além disso, os valores decimais originais de cada tabela estão representados pelo carácter ',', então tiveram que ser substituídos pelo carácter '.' (Ex: 1,32 por 1.32). 
 
-A imunização protege a população de doenças que, anteriormente, atingiu e tirou a vida de milhões de indivíduos, principalmente crianças. De acordo a Convenção das Nações Unidas sobre os Direitos da Criança, toda criança tem o direito à melhor saúde possível e ao direito de ser vacinada.
+A imunização protege a população de doenças que, anteriormente, atingiu e tirou a vida de milhões de indivíduos, 
+principalmente crianças. De acordo a Convenção das Nações Unidas sobre os Direitos da Criança, toda criança tem o direito à
+melhor saúde possível e ao direito de ser vacinada. Na análise exploratória, foi possível perceber que a cobertura vacinal dos 
+principais imunizantes entrou em queda a partir dos anos de 2014 e 2015. Com os resultados das regressões, considerando todo o 
+período de 1994 a 2019 e comparando com a evolução da mortalidade infantil, é foi possível diagnosticar mais uma vez essa queda. 
+Dessa forma, percebe-se que a imunização de doenças, paralelo à divulgação de informações destacanda a importância na vacinação, é efetiva no combate a disseminação de doenças contagiosas.
 
 Além dos desafios científicos, as barreiras sociopolíticas impedem uma vacinação segura e eficaz para toda a população. O acesso às vacinas é um dos grandes obstáculos que se enfrenta pelo agentes de saúde. Melhorar a infraestrutura e buscar o envolvimento da comunidade é essencial para progredir nesse aspecto. Além disso, existe uma grande parte da população que é contra a vacinação e exigem uma resposta da comunidade científica, para fornecer transparência sobre os efeitos 
 colaterais envolvendo tais vacinas.
