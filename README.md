@@ -289,11 +289,11 @@ SciPy            | https://www.scipy.org/            | Biblioteca/Ecossistema do
 
 
  * Brasil por região
-   Abaixo, apresentamos uma tabela com as médias e desvio padrão (em parênteses) de cobertura vacinal durante o período 1994 - 2019 para as diferentes regiões do país
+   Abaixo, apresentamos uma tabela com as médias e desvio padrão (em parênteses) de cobertura vacinal durante o período 1994 - 2020 para as diferentes regiões do país
 
 Região/Imunizante | Norte | Nordeste | Sudeste | Sul | Centro-Oeste | Municípios de Extrema Pobreza | Capitais | Brasil
 ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | -----
-BCG | 109.2 (14.6) | 107.0 (11.6) | 104.5 (10.4) | 102.0 (6.7) | 107.3 (13.0) | 95.6 (9.6) | 117.6 (14.7) | 105.5 (10.0)
+BCG | 109.2 (14.6) | 107.0 (11.6) | 104.5 (10.4) | 102.0 (6.7) | 107.3 (13.0) | 95.6 (9.6) | 117.6 (14.7) | 106.7 (7.76)
 Hepatite B | 75.8 (25.6) | 74.8 (37.3) | 81.6 (33.5) | 84.8 (24.5) | 78.8 (35.1) | 78.2 (37.1) | 75.9 (32.0) | 78.0 (33.5)
 Poliomielite | 88.8 (19.8) | 93.2 (12.8) | 96.7 (8.2) | 95.0 (5.6) | 95.4 (16.0) | 94.9 (13.6) | 93.1 (10.7) | 94.1 (11.4)
 
@@ -341,7 +341,6 @@ Abaixo, apresentamos os gráficos gerados após as regressões lineares, contend
 	<img src="images/hep_mort.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
-   
 Conforme observado já na análise exploratória, a cobertura vacinal dos principais imunizantes parece ter entrado em queda a partir dos anos de 2014 e 2015. Observando os resultados das regressões considerando todo o período de 1994 a 2019 e comparando com a evolução da mortalidade infantil, foi possível diagnosticar mais uma vez essa queda. É possível notar que valores de R quadrado ao final da regressão e os coeficientes lineares são menores para o período 1994-2014, indicando que nesse período há uma tendência mais forte de aumento na cobertura vacinal associada à diminuição da mortalidade infantil. O gráfico para a cobertura da BCG é o que possuí os dados mais dispersos, e isso é explicado ao analisar a evolução temporal desse parâmetro, onde vemos que esse imunizante apresenta uma boa cobertura (maior que 100) por quase todo o período analisado, não havendo uma tendência tão grande de crescimento em comparação com as demais. **Discussão**
 
 As regressões lineares utilizando o IDH como preditor da cobertura vacinal apresentaram resultados similares, no sentido de indicarem também a tendência de decrescimento das coberturas vacinais a partir do ano de 2014. Abaixo, apresentamos uma tabela com os valores de R quadrado e coeficiente angular da reta (em parênteses) para cada imunizante considerado, em dois períodos de tempo.
@@ -352,14 +351,50 @@ Poliomielite | 0.0584 (0.0707) | 0.399 (0.228)
 BCG| 0.110 (-0.0683) | 0.0282 (0.0322)
 Hepatite B | 0.466 (0.619) | 0.624 (0.928)
 
-Abaixo apresentamos o gráfico de IDH versus cobertura vacinal da polimielite, com os valores reais e preditos. 
+Abaixo apresentamos os gráficos de IDH versus cobertura vacinal, com os valores reais e preditos. 
 <figure>
 	<img src="images/polio_idh.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
-
+   
+ <figure>
+	<img src="images/bcg_idh.png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+   
+   <figure>
+	<img src="images/hep_idh.png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
+   
+  A partir dos resultados obtidos para o imunizante BCG fica bastante clara essa tendência de diminuição, visto que o coeficiente linear encontrado, por mais que o erro associado seja grande, é negativo. Esses resultados podem indicar que em um futuro próximo poderemos ver os índices de mortalidade infantil e IDH desviarem de suas tendências otimistas devido à diminuição das coberturas vacinais, dentre outros diversos fatores relacionados à saúde e políticas públicas. 
+   
 
  * Brasil e Mundo
+Abaixo, apresentamos uma tabela com as médias e desvio padrão (em parênteses) de cobertura vacinal durante o período 1994 - 2019 para o Brasil e os continentes América, Europa e África. Para essa análise em específico, estabelecemos um máximo de 100 para os valores de cobertura vacinal no Brasil, visto que os dados da base THO possuem dados somente entre 0 e 100.
+
+Região/Imunizante | América | Europa | África | Brasil 
+----- | ----- | ----- | ----- | ----- 
+BCG | 94.1 (1.08) | 91.8 (1.50) | 84.6 (3.91) | 98.8 (3.46) 
+Hepatite B | 83.9 (11.1) | 85.9 (9.63) | 77.7 (7.83) | 77.8 (34.0) 
+Poliomielite | 89.6 (2.17) | 94.1 (1.01) | 73.5 (7.05) | 93.6 (10.1)
+
+Conforme é possível observar na tabela acima e também nos gráficos de boxplot da análise exploratória, as médias de cobertura vacinal do continente Africano são as mais baixas e parecem estar mais deslocadas em relação às demais regiões. As médias de Brasil, América e Europa são similares, e os desvios padrões dos continentes é reduzido devido ao cálculo ser baseado na média da cobertura vacinal em cada país, como já comentado anteriormente. Também realizamos teste de hipóteses sobre estes dados, para verificar se a distribuição das coberturas vacinais ao longo dos anos é estatisticamente distinta entre as regiões consideradas. Os valores p encontrados para cobertura da poliomielite estão apresentados na tabela abaixo
+
+Regiões | Valor p
+----- | -----
+Brasil - América | 0.0501
+Brasil - Europa | 0.824
+Brasil - África | 5.18e-11
+América - Europa | 5.67e-13
+América - África | 4.42e-15
+África - Europa | 8.52e-20
+
+Na figura abaixo apresentamos um gráfico scatter das coberturas vacinais de poliomielite do Brasil comparadas com as demais regiões.
+<figure>
+	<img src="images/polio_mundo.png" alt="Doenças no Brasil", height="400" width="1200">
+	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
+   </figure>
 
 
 # Conclusões e Lições aprendidas
