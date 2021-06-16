@@ -63,9 +63,10 @@ Roberto Junio de Almeida Candian | 214572 | Saúde
 ## Slides da Proposta
 > Link para slides de apresentação da proposta do projeto.
 
-também [implementado no Gephi](https://github.com/gephi/gephi/wiki/PageRank)
+https://github.com/JeanKusanagi/E1--Vaccine-immunology/tree/main/assets/slides/
 
-por meio do Gephi <sup>[12](https://gephi.org/)</sup>.
+<!-- também [implementado no Gephi](https://github.com/gephi/gephi/wiki/PageRank) -->
+<!-- por meio do Gephi <sup>[12](https://gephi.org/)</sup>. -->
 
 ## Slides da Apresentação Final
 > Link para slides da apresentação final do projeto.
