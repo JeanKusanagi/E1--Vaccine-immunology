@@ -107,7 +107,7 @@ O objetivo do projeto foi de realizar primeiramente uma análise exploratória p
    O projeto será elaborado a partir do modelo CRISP-DM. Com a utilização de dados fornecidos pelas bases de dados, a modelagem será realizada por meio de gráficos, correlação entre os dados e séries temporais. Também serão utilizadas Árvore de Decisão e Métodos de Regressão para a predição de informações, ambas utilizando a linguagem de programação Python. As setas apresentadas, na figura abaixo, indicam o caminho mais comum durante a realização das tarefas em cada uma das etapas do modelo CRISP, contudo em teoria a qualquer momento do ciclo é possível voltar para quaisquer uma das etapas anteriores, como ocorreu neste projeto.
    
    <figure>
-	<img src="images/CRISP-DM.png" alt="Modelo CRISP-DM", height="200" width="500">
+	<img src="images/CRISP-DM.png" alt="Modelo CRISP-DM", height="200" width="300">
 	<!--<figcaption>Modelo CRISP-DM</figcaption>-->
    </figure>
    <small>Fonte: https://www.datascience-pm.com/crisp-dm-2/</small>
@@ -329,15 +329,17 @@ Abaixo, apresentamos os gráficos gerados após as regressões lineares, contend
 	<img src="images/polio_mort.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
+   
  <figure>
 	<img src="images/bcg_mort.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
+   
   <figure>
-	<img src="images/hepb_mort.png" alt="Doenças no Brasil", height="400" width="1200">
+	<img src="images/hep_mort.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
-Conforme observado já na análise exploratória, a cobertura vacinal dos principais imunizantes parece ter entrado em queda a partir dos anos de 2014 e 2015. Observando os resultados das regressões considerando todo o período de 1994 a 2019 e comparando com a evolução da mortalidade infantel, foi possível diagnosticar mais uma vez essa queda. É possível notar que valores de R quadrado ao final da regressão e os coeficientes lineares são menores para o período 1994-2014, indicando que há uma tendência mais forte de aumento na cobertura vacinal associada à diminuição da mortalidade infantil.
+Conforme observado já na análise exploratória, a cobertura vacinal dos principais imunizantes parece ter entrado em queda a partir dos anos de 2014 e 2015. Observando os resultados das regressões considerando todo o período de 1994 a 2019 e comparando com a evolução da mortalidade infantil, foi possível diagnosticar mais uma vez essa queda. É possível notar que valores de R quadrado ao final da regressão e os coeficientes lineares são menores para o período 1994-2014, indicando que nesse período há uma tendência mais forte de aumento na cobertura vacinal associada à diminuição da mortalidade infantil. O gráfico para a cobertura da BCG é o que possuí os dados mais dispersos, e isso é explicado ao analisar a evolução temporal desse parâmetro, onde vemos que esse imunizante apresenta uma boa cobertura (maior que 100) por quase todo o período analisado, não havendo uma tendência tão grande de crescimento em comparação com as demais. **Discussão**
 
  * Brasil e Mundo
 
