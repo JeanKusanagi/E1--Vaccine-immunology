@@ -14,13 +14,15 @@ Trabalho final da disciplina Ciência e Visualização de Dados em Saúde.
 │   └── slides         <- slides utilizados na apresentação do projeto
 |
 ├── data
-│   ├── processed      <- dados finais usados para a modelagem
-│   └── raw            <- dados originais sem modificações
+│   ├── processed      			<- dados finais usados para a modelagem
+│   └── raw            			<- dados originais sem modificações
 │
-├── notebooks          <- Jupyter notebooks
+├── notebooks          			<- Jupyter notebooks
+|   ├── old				<- Arquivos antigos feitos no Colab (python)
+|   └── E3_vaccine_immunology.ipynb
 │
-└── images             <- iamgens geradas durante o desenvolvimento do projeto
-    └── README.md      <- instruções básicas de instalação/execução
+└── images             			<- iamgens geradas durante o desenvolvimento do projeto
+    └── README.md      			<- instruções básicas de instalação/execução
 ~~~
 
 
