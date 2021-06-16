@@ -384,7 +384,12 @@ De forma geral, com a análise dos dados foi possível obter as informações ne
 # Trabalhos futuros
 > O que poderia ser melhorado se houvesse mais tempo?
 
-Uma análise sobre novas doenças como o  COVID-19, pode ajudar em um melhor controle sobre tais doenças. A pandemia COVID-19 realmente mostrou que, em caso de emergência, partes com diferentes incentivos podem caminhar juntas para garantir que as vacinas estejam sendo desenvolvidas em um curto período de tempo, mas também destacou alguns dos desafios interesses nacionais e comerciais. Dessa forma, essa abordagem pode facilitar o trabalho dos agentes de saúde no combate a essas doenças e outras que possivelmente podem aparecer no futuro. Entende-se que é essencial um ambiente em que a imunização é normal, a ciência é o acesso viável para combate a pandemias, e o acesso à vacinação é um direito de todos.
+Uma análise sobre novas doenças como o  COVID-19, pode ajudar em um melhor controle sobre tais doenças. A pandemia COVID-19 realmente mostrou que, em caso de emergência, partes com diferentes incentivos podem caminhar juntas para garantir que as vacinas estejam sendo desenvolvidas em um curto período de tempo, mas também destacou alguns dos desafios interesses nacionais e comerciais. 
+Dessa forma, essa abordagem pode facilitar o trabalho dos agentes de saúde no combate as doenças estudadas e outras que, 
+possivelmente, podem aparecer no futuro. Entende-se que é essencial um ambiente em que a imunização é normal, 
+a ciência é o acesso viável para combate a pandemias, e o acesso à vacinação é um direito de todos. Com isso, 
+este projeto mostra como a análise de dados, envolvendo uma grande variadade de doenças e regiões de diferentes classes sociais, 
+é uma ferramenta poderosa para o entendimento de sistemas complexos e que ajuda no combate ao avanço de doenças infecciosas.
 
 Para melhorar a análise realizada nesse projeto, um esforço maior deve ser despendido na avaliação da qualidade dos dados utilizados. Essa análise pode ser realizada por especialista da saúde. Diante disso, a cobertura vacinal deve ser expandida, analisando dados de outras doenças, especialmente o COVID-19 e outras doenças semelhantes que atiingem o pulmão.
 
