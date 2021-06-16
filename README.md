@@ -370,7 +370,9 @@ Abaixo apresentamos os gráficos de IDH versus cobertura vacinal, com os valores
   A partir dos resultados obtidos para o imunizante BCG fica bastante clara essa tendência de diminuição, visto que o coeficiente linear encontrado, por mais que o erro associado seja grande, é negativo. Esses resultados podem indicar que em um futuro próximo poderemos ver os índices de mortalidade infantil e IDH desviarem de suas tendências otimistas devido à diminuição das coberturas vacinais, dentre outros diversos fatores relacionados à saúde e políticas públicas. 
    
 
+
  * Brasil e Mundo
+ 
 Abaixo, apresentamos uma tabela com as médias e desvio padrão (em parênteses) de cobertura vacinal durante o período 1994 - 2019 para o Brasil e os continentes América, Europa e África. Para essa análise em específico, estabelecemos um máximo de 100 para os valores de cobertura vacinal no Brasil, visto que os dados da base THO possuem dados somente entre 0 e 100.
 
 Região/Imunizante | América | Europa | África | Brasil 
@@ -392,9 +394,11 @@ América - África | 4.42e-15
 
 Na figura abaixo apresentamos um gráfico scatter das coberturas vacinais de poliomielite do Brasil comparadas com as demais regiões.
 <figure>
-	<img src="images/polio_mundo.png" alt="Doenças no Brasil", height="400" width="1200">
+	<img src="images/polio_mundo.png" alt="Doenças no Brasil", height="400" width="600">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
+   
+Conforme é possível observar através dos gráficos, médias e valores p encontrados, as coberturas vacinais entre todos os continentes são estatisticamente distintas entre si. Esse resultado reflete as diferentes estratégias de saúde, economia e índices sociais associados a cada continente. É interessante notar que o Brasil parece possuir conexão mais forte com o continente Europeu, ao invés do continente Americano como esperado. A partir do gráfico de evolução temporal na seção de análise exploratória, é possível perceber que, partindo de uma cobertura vacinal muito baixa, o Brasil superou a média Europeia em um intervalo de 5 anos, permanecendo acima da média de todos os continentes até o ano de 2015. As médias Europeias e Americanas permaneceram aproximadamente constantes, em torno de 85 a 95, e as do continente africano apresentaram crescimento entre 1994 - 2010, e após permaneceram aproximadamente constantes em 80.
 
 
 # Conclusões e Lições aprendidas
