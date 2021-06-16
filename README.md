@@ -421,6 +421,8 @@ colaterais envolvendo tais vacinas.
 De forma geral, com a análise dos dados foi possível obter as informações necessárias para responder as perguntas de pesquisa, tornando possível a construção de uma mapa de pontos de atenção que podem ser permitem identificar quais regiões tiveram uma quantidade maior de pessoas vacinadas, como ocorreu a evolução da cobertura vacinal das vacinas obrigatórias, ao longo dos anos em regiões do Brasil e, também, identificar os fatores regionais ou sociais que podem estar associados ao aumento ou diminuição da cobertura vacinal.
 
 
+
+
 # Trabalhos futuros
 > O que poderia ser melhorado se houvesse mais tempo?
 
