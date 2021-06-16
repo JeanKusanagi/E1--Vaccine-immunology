@@ -65,7 +65,7 @@ Roberto Junio de Almeida Candian | 214572 | Saúde
 
 também [implementado no Gephi](https://github.com/gephi/gephi/wiki/PageRank)
 
-através do Gephi <sup>[12](https://gephi.org/)</sup>
+por meio do Gephi [12](https://gephi.org/).
 
 ## Slides da Apresentação Final
 > Link para slides da apresentação final do projeto.
