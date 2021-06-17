@@ -1,9 +1,9 @@
 # Vaccine-immunology
 Trabalho final da disciplina Ciência e Visualização de Dados em Saúde.
 
-<strong>Projeto</strong> - Estudo da evolução da cobertura vacinal para imunização e erradicação de doenças infecciosas.
+<strong>Projeto</strong> - Estudo da evolução de cobertura vacinal no Brasil.
 
-<strong>Project</strong> - Study of the evolution of the vaccine coverage for immunization and eradication infectious diseases.
+<strong>Project</strong> - Study of the evolution of the vaccine coverage in Brazil.
 
 
 ~~~
