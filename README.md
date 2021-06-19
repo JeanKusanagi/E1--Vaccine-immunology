@@ -73,6 +73,8 @@ https://github.com/JeanKusanagi/E1--Vaccine-immunology/tree/main/assets/slides/v
 ## Slides da Apresentação Final
 > Link para slides da apresentação final do projeto.
 
+https://github.com/JeanKusanagi/E1--Vaccine-immunology/tree/main/assets/slides/vacina_final.pdf
+
 
 # Introdução e Referenciais de Teóricos
 > Contextualização do projeto
