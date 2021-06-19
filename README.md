@@ -7,22 +7,22 @@ Trabalho final da disciplina Ciência e Visualização de Dados em Saúde.
 
 
 ~~~
-├── README.md          			<- apresentação do projeto
+├── README.md          			<- Apresentação do projeto.
 │
 ├── assets
-│   ├── artigos        			<- artigos utilizados como referência para o projeto
-│   └── slides         			<- slides utilizados na apresentação do projeto
+│   ├── artigos        			<- Artigos utilizados como referência para o projeto.
+│   └── slides         			<- Slides utilizados na apresentação do projeto.
 |
 ├── data
-│   ├── processed      			<- dados finais usados para a modelagem
-│   └── raw            			<- dados originais sem modificações
+│   ├── processed      			<- Dados finais usados para a modelagem.
+│   └── raw            			<- Dados originais sem modificações.
 │
-├── notebooks          			<- Jupyter notebooks
-|   ├── old				<- Arquivos antigos feitos no Colab (python)
+├── notebooks          			<- Jupyter notebooks.
+|   ├── old				<- Arquivos antigos feitos no Colab (Python).
 |   └── E3_vaccine_immunology.ipynb
 │
-└── images             			<- iamgens geradas durante o desenvolvimento do projeto
-    └── README.md      			<- instruções básicas de instalação/execução
+└── images             			<- Imagens geradas durante o desenvolvimento do projeto.
+    └── README.md      			<- Instruções básicas de instalação/execução.
 ~~~
 
 
