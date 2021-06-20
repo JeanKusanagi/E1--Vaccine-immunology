@@ -361,7 +361,7 @@ Abaixo, apresentamos os gráficos gerados após as regressões lineares, contend
    </figure>
 Conforme observado já na análise exploratória, a cobertura vacinal dos principais imunizantes parece ter entrado em queda a partir dos anos de 2014 e 2015. Observando os resultados das regressões considerando todo o período de 1994 a 2019 e comparando com a evolução da mortalidade infantil, foi possível diagnosticar mais uma vez essa queda. É possível notar que valores de R quadrado ao final da regressão e os coeficientes lineares são menores para o período 1994-2014, indicando que nesse período há uma tendência mais forte de aumento na cobertura vacinal associada à diminuição da mortalidade infantil. O gráfico para a cobertura da BCG é o que possuí os dados mais dispersos, e isso é explicado ao analisar a evolução temporal desse parâmetro, onde vemos que esse imunizante apresenta uma boa cobertura (maior que 100) por quase todo o período analisado, não havendo uma tendência tão grande de crescimento em comparação com as demais. **Discussão**
 
-As regressões lineares utilizando o IDH como preditor da cobertura vacinal apresentaram resultados similares, no sentido de indicarem também a tendência de decrescimento das coberturas vacinais a partir do ano de 2014. Abaixo, apresentamos uma tabela com os valores de R quadrado e coeficiente angular da reta (em parênteses) para cada imunizante considerado, em dois períodos de tempo. 
+As regressões lineares utilizando o IDH como preditor da cobertura vacinal apresentaram resultados similares, no sentido de indicarem também a tendência de decrescimento das coberturas vacinais a partir do ano de 2014. Abaixo, apresentamos uma tabela com os valores de R<sup>2</sup> e coeficiente angular da reta (em parênteses) para cada imunizante considerado, em dois períodos de tempo. 
 
 Imunizante | 1994-2019 | 1994-2014
 ----- | ----- | -----
@@ -412,6 +412,7 @@ América - África | 4.42e-15
 África - Europa | 8.52e-20
 
 Na figura abaixo apresentamos um gráfico scatter das coberturas vacinais de poliomielite do Brasil comparadas com as demais regiões.
+
    <figure>
 	<img src="images/polio_mundo.png" alt="Doenças no Brasil", height="400" width="600">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
