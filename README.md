@@ -123,6 +123,10 @@ O objetivo do projeto foi de realizar primeiramente uma análise exploratória p
    </figure>
    <small>Fonte: https://www.datascience-pm.com/crisp-dm-2/</small>
 
+
+
+
+
 Este trabalho foi desenvolvido sobre as seguintes bases de dados:
 
    * DATASUS é o departamento de informática do Sistema Único de Saúde do Brasil. Esse órgão administra informações de saúde como indicadores de saúde, assistência à saúde, informações epidemiológicas e de morbidade, informações sobre a rede de assistência à saúde, estatísticas vitais, informações demográficas e socioeconômicas. Também administra informações financeiras referentes aos recursos do Fundo Nacional de Saúde transferidos aos municípios, aos créditos aos prestadores de serviços de saúde, aos orçamentos públicos de saúde declarados pelos Estados, pelo Distrito Federal e pelos Municípios. Também é responsável pelos sistemas e aplicativos necessários para registrar e processar as informações de saúde. Os sistemas de saúde administrados pelo Datasus ainda não são integrados entre si. 
