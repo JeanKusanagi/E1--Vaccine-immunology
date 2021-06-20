@@ -334,7 +334,7 @@ Como podemos observar, a distribuição de cobertura vacinal de nenhuma região 
    
   * Índices sociais e Cobertura Vacinal
   
-A comparação da evolução da cobertura vacinal da Poliomielite, Hepatite B e BCG com a mortalidade infantil através do método de regressão linear produziu os resultados da tabela abaixo, que contém os valores de R<sup>2</sup> e o coeficiente angular (em parênteses) encontrados considerando dois períodos distintos. O coeficiente R^2 (R quadrado) representa a proporção de variância da variável independente (nesse caso, a mortalidade) que é explicada pela variável preditora (cobertura vacinal) em um modelo de regressão, sendo que R^2 = 1 indica que toda a variância da variável independente é explicada pela preditora, e R^2 = 0 indica que nenhuma porção da variância é explicável pela predição.
+A comparação da evolução da cobertura vacinal da Poliomielite, Hepatite B e BCG com a mortalidade infantil através do método de regressão linear produziu os resultados da tabela abaixo, que contém os valores de R<sup>2</sup> e o coeficiente angular (em parênteses) encontrados considerando dois períodos distintos. O coeficiente R<sup>2</sup> representa a proporção de variância da variável independente (nesse caso, a mortalidade) que é explicada pela variável preditora (cobertura vacinal) em um modelo de regressão, sendo que R^2 = 1 indica que toda a variância da variável independente é explicada pela preditora, e R<sup>2</sup> = 0 indica que nenhuma porção da variância é explicável pela predição.
 
 
 Imunizante | 1994-2019 | 1994-2014
