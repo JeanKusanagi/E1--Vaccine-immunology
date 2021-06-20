@@ -115,6 +115,14 @@ O objetivo do projeto foi de realizar primeiramente uma análise exploratória p
 > Justificar teoricamente, sempre que possível, a metodologia adotada.
 <!--    Proposta de metodologia incluindo especificação de quais técnicas pretende-se explorar, tais como: aprendizagem de máquina, análise de redes, análise estatística, ou integração de uma ou mais técnicas. Para a primeira entrega, descreva de maneira mais genérica que tipo de abordagem seu grupo pretende realizar. -->
     
+   Este trabalho foi desenvolvido sobre as seguintes bases de dados:
+
+   * DATASUS é o departamento de informática do Sistema Único de Saúde do Brasil. Esse órgão administra informações de saúde como indicadores de saúde, assistência à saúde, informações epidemiológicas e de morbidade, informações sobre a rede de assistência à saúde, estatísticas vitais, informações demográficas e socioeconômicas. Também administra informações financeiras referentes aos recursos do Fundo Nacional de Saúde transferidos aos municípios, aos créditos aos prestadores de serviços de saúde, aos orçamentos públicos de saúde declarados pelos Estados, pelo Distrito Federal e pelos Municípios. Também é responsável pelos sistemas e aplicativos necessários para registrar e processar as informações de saúde. Os sistemas de saúde administrados pelo Datasus ainda não são integrados entre si. 
+
+   * O Global Health Observatory (GHO) é uma iniciativa da Organização Mundial da Saúde para compartilhar dados online sobre saúde, incluindo estatísticas por país e informações sobre doenças específicas e medidas de saúde. Os temas, apresentados no site da organização, incluem objetivos de Desenvolvimento do Milênio, estimativas de mortalidade e saúde global, sistemas de saúde, saúde pública e meio ambiente, Health Equity Monitor, estrutura de monitoramento do Regulamento Sanitário Internacional, saúde urbana, mulheres e saúde, doenças não transmissíveis,uso de substâncias e saúde mental, doenças infecciosas e lesões e violência.
+
+   * O Relatório do Desenvolvimento Humano (RDH) é uma publicação anual realizada pelo Programa das Nações Unidas para o Desenvolvimento (PNUD). O objetivo desse órgão é colocar as pessoas no centro do processo de desenvolvimento em termos de debate econômico, político e jurídico. O desenvolvimento foi caracterizado pela prestação de escolhas e liberdades resultando em ampla resultados.  Entre os índices presentes na base, destacam-se Índice de Desenvolvimento Humano, o Índice de Desenvolvimento em relação ao gênero, a Medida de Capacidade de Gênero e o Índice de Pobreza Humana. Cada um tem o seu próprio relatório tendo por base debates contemporâneos. O Relatório do Desenvolvimento Humano é um relatório independente, encomendado pelo PNUD, elaborada por líderes acadêmicos, profissionais e membros do Gabinete do Relatório do Desenvolvimento Humano do PNUD.
+   
    O projeto será elaborado a partir do modelo CRISP-DM. Com a utilização de dados fornecidos pelas bases de dados, a modelagem será realizada por meio de gráficos, correlação entre os dados e séries temporais. Também serão utilizados Métodos de Regressão para a predição de informações, utilizando a linguagem de programação Python. As setas apresentadas, na figura abaixo, indicam o caminho mais comum durante a realização das tarefas em cada uma das etapas do modelo CRISP, contudo em teoria a qualquer momento do ciclo é possível voltar para quaisquer uma das etapas anteriores, como ocorreu neste projeto.
    
    <figure>
@@ -123,18 +131,7 @@ O objetivo do projeto foi de realizar primeiramente uma análise exploratória p
    </figure>
    <small>Fonte: https://www.datascience-pm.com/crisp-dm-2/</small>
 
-
-
-
-
-Este trabalho foi desenvolvido sobre as seguintes bases de dados:
-
-   * DATASUS é o departamento de informática do Sistema Único de Saúde do Brasil. Esse órgão administra informações de saúde como indicadores de saúde, assistência à saúde, informações epidemiológicas e de morbidade, informações sobre a rede de assistência à saúde, estatísticas vitais, informações demográficas e socioeconômicas. Também administra informações financeiras referentes aos recursos do Fundo Nacional de Saúde transferidos aos municípios, aos créditos aos prestadores de serviços de saúde, aos orçamentos públicos de saúde declarados pelos Estados, pelo Distrito Federal e pelos Municípios. Também é responsável pelos sistemas e aplicativos necessários para registrar e processar as informações de saúde. Os sistemas de saúde administrados pelo Datasus ainda não são integrados entre si. 
-
-   * O Global Health Observatory (GHO) é uma iniciativa da Organização Mundial da Saúde para compartilhar dados online sobre saúde, incluindo estatísticas por país e informações sobre doenças específicas e medidas de saúde. Os temas, apresentados no site da organização, incluem objetivos de Desenvolvimento do Milênio, estimativas de mortalidade e saúde global, sistemas de saúde, saúde pública e meio ambiente, Health Equity Monitor, estrutura de monitoramento do Regulamento Sanitário Internacional, saúde urbana, mulheres e saúde, doenças não transmissíveis,uso de substâncias e saúde mental, doenças infecciosas e lesões e violência.
-
-   * O Relatório do Desenvolvimento Humano (RDH) é uma publicação anual realizada pelo Programa das Nações Unidas para o Desenvolvimento (PNUD). O objetivo desse órgão é colocar as pessoas no centro do processo de desenvolvimento em termos de debate econômico, político e jurídico. O desenvolvimento foi caracterizado pela prestação de escolhas e liberdades resultando em ampla resultados.  Entre os índices presentes na base, destacam-se Índice de Desenvolvimento Humano, o Índice de Desenvolvimento em relação ao gênero, a Medida de Capacidade de Gênero e o Índice de Pobreza Humana. Cada um tem o seu próprio relatório tendo por base debates contemporâneos. O Relatório do Desenvolvimento Humano é um relatório independente, encomendado pelo PNUD, elaborada por líderes acadêmicos, profissionais e membros do Gabinete do Relatório do Desenvolvimento Humano do PNUD.
-   
+ 
 
 # Bases de Dados e Evolução
 
