@@ -104,7 +104,7 @@ Por meio da vacinação, doenças como a varíola, a poliomielite, o sarampo e a
    * Quais fatores regionais ou sociais podem estar associados ao aumento ou diminuição da cobertura vacinal?
 
 # Objetivos do Projeto
-O objetivo do projeto foi de realizar primeiramente uma análise exploratória para identificar se a cobertura vacinal dos principais imunizantes realmente diminuiu ao longo dos últimos anos, e se esse comportamento é o mesmo entre as regiões do Brasil. Essa análise também foi estendida para comparar a evolução da cobertura vacinal no Brasil com demais continentes. Também tivemos como objetivo analisar a relevância da cobertura vacinal de certos imunizantes para a redução da mortalidade infantil e aumento da expectativa de vida, além de comparar a evolução do IDH brasileiro com a cobertura vacinal dos mesmos imunizantes. 
+O objetivo do projeto foi de realizar primeiramente uma análise exploratória para identificar se a cobertura vacinal dos principais imunizantes realmente diminuiu ao longo dos últimos anos, e se esse comportamento é o mesmo entre as regiões do Brasil. Essa análise também foi estendida para comparar a evolução da cobertura vacinal no Brasil com demais continentes. Também tivemos como objetivo analisar a relevância da cobertura vacinal de certos imunizantes para a redução da mortalidade infantil e aumento da expectativa de vida, além de comparar a evolução do Índice de Desenvolvimento Humano (IDH) brasileiro com a cobertura vacinal dos mesmos imunizantes. 
 
 <!--  * Analisar a cobertura das vacinas obrigatórias ao longo dos anos no Brasil e e alguns outros países do exterior. -->
 <!--   * Analisar a associação entre algumas regiões do Brasil com diversas doenças infecciosas. -->
