@@ -19,7 +19,8 @@ Trabalho final da disciplina Ciência e Visualização de Dados em Saúde.
 │
 ├── notebooks          			<- Jupyter notebooks.
 |   ├── old				<- Arquivos antigos feitos no Colab (Python).
-|   └── E3_vaccine_immunology.ipynb
+|   ├── E2_vaccine_immunology.ipynb	<- Versão anterior do projeto
+|   └── E3_vaccine_immunology.ipynb	<- Versão Final do projeto
 │
 └── images             			<- Imagens geradas durante o desenvolvimento do projeto.
     └── README.md      			<- Instruções básicas de instalação/execução.
