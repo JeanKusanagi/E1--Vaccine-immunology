@@ -59,6 +59,8 @@ Roberto Junio de Almeida Candian | 214572 | Saúde
 ## Vídeo da Apresentação Final
 > Link para vídeo da apresentação final do projeto (máximo 8 minutos).
 
+https://www.youtube.com/watch?v=zz68e45D-SY&t=335s
+
 # Slides do Projeto
 
 ## Slides da Proposta
