@@ -319,8 +319,6 @@ Poliomielite | 88.8 (19.8) | 93.2 (12.8) | 96.7 (8.2) | 95.0 (5.6) | 95.4 (16.0)
 
 Conforme é possível observar na tabela acima e também nos gráficos de boxplot da análise exploratória, as médias de cobertura vacinal não variam significativamente para as diferentes regiões do país. As médias das regiões norte, nordeste e municípios de extrema pobreza apresentam as menores médias, enquanto as demais regiões apresentam médias maiores e similares. A imunização contra a Hepatite B é a que apresenta menor cobertura dentre os imunizantes considerados. Apesar de não parecerem distintas, ainda assim realizamos os testes de hipóteses para verificar a proximidade das distribuições de cobertura vacinal entre as regiões do País. A tabela abaixo apresenta os valores p para a hipótese de que as distribuições da cobertura vacinal da poliomielite no par de regiões consideradas são estatisticamente indistinguíveis.
 
-Como podemos observar, a distribuição de cobertura vacinal de nenhuma região é de fato estatisticamente independente. Os valores de comparação entre a região Norte e as demais são os menores, indicando que a cobertura nessa região parece ser a mais distinta (mas ainda assim nenhum valor é menor do que 0.05). Esses resultados indicam que o acesso às vacinas obrigatórias e de extrema importância no Brasil é bastante homogêneo (em média), mesmo em regiões de maior vulnerabilidade.
-
 Brasil é considerado um dos países que possuem o maior calendário vacinal do mundo e possui o Programa Nacional de Imunização (PNI) desde 1975, que tem como objetivo coordenar as ações de imunizações no país (LIMA & PINTO, 2017). Atualmente o PNI é patrocinado pelo Sistema Único de Saúde (SUS), o SUS oferece cobertura de saúde para cerca de 75% da população, garantindo acesso gratuito a medicamentos, tecnologia em saúde, exames de saúde, imunizações e tratamentos (BRASIL, 2021)
 
 Regiões | Valor p
@@ -339,6 +337,7 @@ Capitais - Extrema pobreza | 0.591
 
 Como podemos observar, a distribuição de cobertura vacinal de nenhuma região é de fato estatisticamente independente. Os valores de comparação entre a região Norte e as demais são os menores, indicando que a cobertura nessa região parece ser a mais distinta (mas ainda assim nenhum valor é menor do que 0.05). Esses resultados indicam que o acesso à vacinas obrigatórias e de extrema importância no Brasil é bastante homogêneo (em média), mesmo em regiões de maior vulnerabilidade.
    
+
   * Índices sociais e Cobertura Vacinal
   
 A comparação da evolução da cobertura vacinal da Poliomielite, Hepatite B e BCG com a mortalidade infantil através do método de regressão linear produziu os resultados da tabela abaixo, que contém os valores de R<sup>2</sup> e o coeficiente angular (em parênteses) encontrados considerando dois períodos distintos. O coeficiente R<sup>2</sup> representa a proporção de variância da variável independente (nesse caso, a mortalidade) que é explicada pela variável preditora (cobertura vacinal) em um modelo de regressão, sendo que R<sup>2</sup> = 1 indica que toda a variância da variável independente é explicada pela preditora, e R<sup>2</sup> = 0 indica que nenhuma porção da variância é explicável pela predição.
@@ -472,40 +471,45 @@ Para melhorar a análise realizada nesse projeto, um esforço maior deve ser des
 
 # Referências
 
-[1] **Arroyo, L. H., Ramos, A. C. V., Yamamura, M., Weiller, T. H., Crispim, J. D. A., Cartagena-Ramos, D., Fuentealba-Torres, M., Santos, D. T. D., Palha, P. F., & Arcêncio, R. A. (2020).** Áreas com queda da cobertura vacinal para BCG, poliomielite e tríplice viral no Brasil (2006-2016): mapas da heterogeneidade regional. Cadernos de Saude Publica, 36(4), e00015619. https://doi.org/10.1590/0102-311X00015619
+[1] **A. Kennedy, M. Basket, K. Sheedy.** Vaccine attitudes, concerns, and information sources reported by parents of young children: Results from the 2009 HealthStyles survey Pediatrics, 127 (Suppl. 1) (2011), pp. 92-99 https://doi.org/10.1542/peds.2010-1722N
 
-[2] **Barreto ML, Rodrigues LC, Cunha SS, Pereira S, Hijjar MA, Ichihara MY, de Brito SC, Dourado I.** Design of the Brazilian BCG-REVAC trial against tuberculosis: a large, simple randomized community trial to evaluate the impact on tuberculosis of BCG revaccination at school age. Control Clin Trials. 2002 Oct;23(5):540-53. doi: 10.1016/s0197-2456(02)00216-7. PMID: 12392870. https://pubmed.ncbi.nlm.nih.gov/12392870/
+[2] **Arroyo, L. H., Ramos, A. C. V., Yamamura, M., Weiller, T. H., Crispim, J. D. A., Cartagena-Ramos, D., Fuentealba-Torres, M., Santos, D. T. D., Palha, P. F., & Arcêncio, R. A. (2020).** Áreas com queda da cobertura vacinal para BCG, poliomielite e tríplice viral no Brasil (2006-2016): mapas da heterogeneidade regional. Cadernos de Saude Publica, 36(4), e00015619. https://doi.org/10.1590/0102-311X00015619
 
-[3] **Brito WI, Souto FJD.** Universal hepatitis A vaccination in Brazil: analysis of vaccination coverage and incidence five years after program implementation. Revista Brasileira de Epidemiologia = Brazilian Journal of Epidemiology. 2020;23:e200073. DOI: 10.1590/1980-549720200073. https://www.scielo.br/j/rbepid/a/KhgLqWW78SL4mzwqT3tJHLn/?lang=en
+[3] **Barreto ML, Rodrigues LC, Cunha SS, Pereira S, Hijjar MA, Ichihara MY, de Brito SC, Dourado I.** Design of the Brazilian BCG-REVAC trial against tuberculosis: a large, simple randomized community trial to evaluate the impact on tuberculosis of BCG revaccination at school age. Control Clin Trials. 2002 Oct;23(5):540-53. doi: 10.1016/s0197-2456(02)00216-7. PMID: 12392870. https://pubmed.ncbi.nlm.nih.gov/12392870/
 
-[4] **Cassocera M, Chissaque A, Martins MRO, Deus N.** 40 years of immunization in Mozambique: a narrative review of literature, accomplishments, and perspectives. Cad Saude Publica. 2020 Oct 7;36. doi: 10.1590/0102-311X00038320. PMID: 33053042. https://pubmed.ncbi.nlm.nih.gov/33053042/
+[4] **Brito WI, Souto FJD.** Universal hepatitis A vaccination in Brazil: analysis of vaccination coverage and incidence five years after program implementation. Revista Brasileira de Epidemiologia = Brazilian Journal of Epidemiology. 2020;23:e200073. DOI: 10.1590/1980-549720200073. https://www.scielo.br/j/rbepid/a/KhgLqWW78SL4mzwqT3tJHLn/?lang=en
 
-[5] **CATA-PRETA, B. O. et al.** Zero-dose children and the immunisation cascade: Understanding immunisation pathways in low and middle-income countries. Vaccine, 2021. https://www.sciencedirect.com/science/article/pii/S0264410X21002632
+[5] **Cassocera M, Chissaque A, Martins MRO, Deus N.** 40 years of immunization in Mozambique: a narrative review of literature, accomplishments, and perspectives. Cad Saude Publica. 2020 Oct 7;36. doi: 10.1590/0102-311X00038320. PMID: 33053042. https://pubmed.ncbi.nlm.nih.gov/33053042/
 
-[6] **Césare N, Mota TF, Lopes FFL, et al.** Longitudinal profiling of the vaccination coverage in Brazil reveals a recent change in the patterns hallmarked by differential reduction across regions. International Journal of Infectious Diseases : IJID : Official Publication of the International Society for Infectious Diseases. 2020 Sep;98:275-280. DOI: 10.1016/j.ijid.2020.06.092.CéSARE, N. et al.** Longitudinal profiling of the vaccination coverage in brazil reveals a recent change in the patterns hallmarked by differential reduction across regions. International Journal of Infectious Diseases, v. 98, p. 275–280, 2020. https://www.sciencedirect.com/science/article/pii/S1201971220305270
+[6] **CATA-PRETA, B. O. et al.** Zero-dose children and the immunisation cascade: Understanding immunisation pathways in low and middle-income countries. Vaccine, 2021. https://www.sciencedirect.com/science/article/pii/S0264410X21002632
 
-[7] **Clem, Angela S.** Fundamentals of vaccine immunology. Journal of global infectious diseases. vol. 3,1 (2011): 73-8. doi:10.4103/0974-777X.77299 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3068582/
+[7] **Césare N, Mota TF, Lopes FFL, et al.** Longitudinal profiling of the vaccination coverage in Brazil reveals a recent change in the patterns hallmarked by differential reduction across regions. International Journal of Infectious Diseases : IJID : Official Publication of the International Society for Infectious Diseases. 2020 Sep;98:275-280. DOI: 10.1016/j.ijid.2020.06.092.CéSARE, N. et al.** Longitudinal profiling of the vaccination coverage in brazil reveals a recent change in the patterns hallmarked by differential reduction across regions. International Journal of Infectious Diseases, v. 98, p. 275–280, 2020. https://www.sciencedirect.com/science/article/pii/S1201971220305270
 
-[8] **Fonseca, Keila Rodrigues da e Buenafuente, Sandra Maria Franco.** Análise das coberturas vacinais de crianças menores de um ano em Roraima, 2013-2017 Epidemiologia e Serviços de Saúde [online]. v.30, n.2 https://doi.org/10.1590/S1679-49742021000200010.
+[8] **Clem, Angela S.** Fundamentals of vaccine immunology. Journal of global infectious diseases. vol. 3,1 (2011): 73-8. doi:10.4103/0974-777X.77299 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3068582/
 
-[9] **LIMA, A. A.; PINTO, E. S.** O contexto histórico da implantação do Programa Nacional de Imunização (PNI) e sua importância para o Sistema Único de Saúde (SUS). Scire Salutis, v.7, n.1, p.53-62, 2017. 
-DOI: http://doi.org/10.6008/SPC2236-9600.2017.001.0005 
+[9] **Fonseca, Keila Rodrigues da e Buenafuente, Sandra Maria Franco.** Análise das coberturas vacinais de crianças menores de um ano em Roraima, 2013-2017 Epidemiologia e Serviços de Saúde [online]. v.30, n.2 https://doi.org/10.1590/S1679-49742021000200010.
 
-[9] **Meghan Bridgid Moran, Melissa Lucas, Kristen Everhart, Ashley Morgan, Erin Prickett** What makes anti-vaccine websites persuasive? A content analysis of techniques used by anti-vaccine websites to engender anti-vaccine sentiment. Journal of Communication in Healthcar 2016 VOL. 9 NO. 3 https://doi.org/10.1080/17538068.2016.1235531
+[10] **LIMA, A. A.; PINTO, E. S.** O contexto histórico da implantação do Programa Nacional de Imunização (PNI) e sua importância para o Sistema Único de Saúde (SUS). Scire Salutis, v.7, n.1, p.53-62, 2017. DOI: http://doi.org/10.6008/SPC2236-9600.2017.001.0005 
 
-[10] **Peter J Hotez, Tasmiah Nuzhath, Brian Colwell.** Combating vaccine hesitancy and other 21st century social determinants in the global fight against measles. Current Opinion in Virology, Volume 41, 2020, Pages 1-7, ISSN 1879-6257, https://doi.org/10.1016/j.coviro.2020.01.001.
+[11] **M.d.C. Tauil, A.P.S. Sato, E.A.** Waldman Factors associated with incomplete or delayed vaccination across countries: A systematic review Vaccine, 34 (24) (2016), pp. 2635-2643 https://doi.org/10.1016/j.vaccine.2016.04.016
 
-[11] **Pollard, A.J., Bijker, E.M.** A guide to vaccinology: from basic principles to new developments. Nat Rev Immunol 21, 83–100 (2021). https://doi.org/10.1038/s41577-020-00479-7
+[12] **Meghan Bridgid Moran, Melissa Lucas, Kristen Everhart, Ashley Morgan, Erin Prickett** What makes anti-vaccine websites persuasive? A content analysis of techniques used by anti-vaccine websites to engender anti-vaccine sentiment. Journal of Communication in Healthcar 2016 VOL. 9 NO. 3 https://doi.org/10.1080/17538068.2016.1235531
 
-[12] **Riedel S.** Edward Jenner and the history of smallpox and vaccination. Proc (Bayl Univ Med Cent). 2005;18(1):21-25. doi:10.1080/08998280.2005.11928028
+[13] **Peter J Hotez, Tasmiah Nuzhath, Brian Colwell.** Combating vaccine hesitancy and other 21st century social determinants in the global fight against measles. Current Opinion in Virology, Volume 41, 2020, Pages 1-7, ISSN 1879-6257, https://doi.org/10.1016/j.coviro.2020.01.001.
 
-[13] **Silveira MF, Buffarini R, Bertoldi AD, Santos IS, Barros AJD, Matijasevich A, Menezes AMB, Gonçalves H, Horta BL, Barros FC, Barata RB, Victora CG.** The emergence of vaccine hesitancy among upper-class Brazilians: Results from four birth cohorts, 1982-2015. Vaccine. 2020 Jan 16;38(3):482-488. doi: 10.1016/j.vaccine.2019.10.070. 2019 Nov 9. PMID: 31718899. https://pubmed.ncbi.nlm.nih.gov/31718899/
+[14] **Pollard, A.J., Bijker, E.M.** A guide to vaccinology: from basic principles to new developments. Nat Rev Immunol 21, 83–100 (2021). https://doi.org/10.1038/s41577-020-00479-7
 
-[14] **Silveira MF, Tonial CT, Goretti K Maranhão A, Teixeira AMS, Hallal PC, Maria B Menezes A, Horta BL, Hartwig FP, Barros AJD, Victora CG.** Missed childhood immunizations during the COVID-19 pandemic in Brazil: Analyses of routine statistics and of a national household survey. Vaccine. 2021 Jun 8;39(25):3404-3409. doi: 10.1016/j.vaccine.2021.04.046. 2021 Apr 27. PMID: 33941406. https://pubmed.ncbi.nlm.nih.gov/33941406/
+[15] **Riedel S.** Edward Jenner and the history of smallpox and vaccination. Proc (Bayl Univ Med Cent). 2005;18(1):21-25. doi:10.1080/08998280.2005.11928028
 
-[15] Sistema de Informação do Programa Nacional de Imunizações (SI-PNI), "Sistema de Informação do PNI". [Conectados]. Disponível: http://pni.datasus.gov.br/index.asp . 
+[16] **Silveira MF, Buffarini R, Bertoldi AD, Santos IS, Barros AJD, Matijasevich A, Menezes AMB, Gonçalves H, Horta BL, Barros FC, Barata RB, Victora CG.** The emergence of vaccine hesitancy among upper-class Brazilians: Results from four birth cohorts, 1982-2015. Vaccine. 2020 Jan 16;38(3):482-488. doi: 10.1016/j.vaccine.2019.10.070. 2019 Nov 9. PMID: 31718899. https://pubmed.ncbi.nlm.nih.gov/31718899/
 
-[15] **Verani, José Fernando de Souza e Laender, Fernando.** A erradicação da poliomielite em quatro tempos. Cadernos de Saúde Pública [online]. 2020, v. 36, n. Suppl 2 [Acessado 15 Junho 2021] , e00145720. Disponível em: <https://doi.org/10.1590/0102-311X00145720>. Epub 02 Nov 2020. ISSN 1678-4464. https://doi.org/10.1590/0102-311X00145720.
+[17] **Silveira MF, Tonial CT, Goretti K Maranhão A, Teixeira AMS, Hallal PC, Maria B Menezes A, Horta BL, Hartwig FP, Barros AJD, Victora CG.** Missed childhood immunizations during the COVID-19 pandemic in Brazil: Analyses of routine statistics and of a national household survey. Vaccine. 2021 Jun 8;39(25):3404-3409. doi: 10.1016/j.vaccine.2021.04.046. 2021 Apr 27. PMID: 33941406. https://pubmed.ncbi.nlm.nih.gov/33941406/
 
-[16] **Yunes J, Ronchezel VS.** Evolução da mortalidade geral, infantil e proporcional no Brasil. Rev. Saúde Pública 8 (suppl) Jun 1974. doi: 10.1590/S0034-89101974000500002. https://www.scielo.br/j/rsp/a/xrSd7kCyTCB9yrpT6FmJ9Kf/?lang=pt|
+[18] **Sistema de Informação do Programa Nacional de Imunizações (SI-PNI),** "Sistema de Informação do PNI". [Conectados]. Disponível: http://pni.datasus.gov.br/index.asp . 
+
+[19] **Verani, José Fernando de Souza e Laender, Fernando.** A erradicação da poliomielite em quatro tempos. Cadernos de Saúde Pública [online]. 2020, v. 36, n. Suppl 2 [Acessado 15 Junho 2021] , e00145720. Disponível em: <https://doi.org/10.1590/0102-311X00145720>. Epub 02 Nov 2020. ISSN 1678-4464. https://doi.org/10.1590/0102-311X00145720.
+
+[20] **World Health Organization.** WHO and UNICEF warn of a decline in vaccinations during COVID-19 https://www.who.int/news-room/detail/15-07-2020-who-and-unicef-warn-of-a-decline-in-vaccinations-during-covid-19 (2020)
+
+[21] **Yunes J, Ronchezel VS.** Evolução da mortalidade geral, infantil e proporcional no Brasil. Rev. Saúde Pública 8 (suppl) Jun 1974. doi: 10.1590/S0034-89101974000500002. https://www.scielo.br/j/rsp/a/xrSd7kCyTCB9yrpT6FmJ9Kf/?lang=pt|
 
