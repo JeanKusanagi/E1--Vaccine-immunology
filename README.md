@@ -336,11 +336,13 @@ Centro-Oeste - Nordeste | 0.608
 Norte - Nordeste | 0.347
 Capitais - Extrema pobreza | 0.591
 
-Como podemos observar, a distribuição de cobertura vacinal de nenhuma região é de fato estatisticamente independente. Os valores de comparação entre a região Norte e as demais são os menores, indicando que a cobertura nessa região parece ser a mais distinta (mas ainda assim nenhum valor é menor do que 0.05). Esses resultados indicam que o acesso à vacinas obrigatórias e de extrema importância no Brasil é bastante homogêneo (em média), mesmo em regiões de maior vulnerabilidade. **Discussão sobre SUS/outros artigos**
+Como podemos observar, a distribuição de cobertura vacinal de nenhuma região é de fato estatisticamente independente. Os valores de comparação entre a região Norte e as demais são os menores, indicando que a cobertura nessa região parece ser a mais distinta (mas ainda assim nenhum valor é menor do que 0.05). Esses resultados indicam que o acesso à vacinas obrigatórias e de extrema importância no Brasil é bastante homogêneo (em média), mesmo em regiões de maior vulnerabilidade.
    
   * Índices sociais e Cobertura Vacinal
   
 A comparação da evolução da cobertura vacinal da Poliomielite, Hepatite B e BCG com a mortalidade infantil através do método de regressão linear produziu os resultados da tabela abaixo, que contém os valores de R<sup>2</sup> e o coeficiente angular (em parênteses) encontrados considerando dois períodos distintos. O coeficiente R<sup>2</sup> representa a proporção de variância da variável independente (nesse caso, a mortalidade) que é explicada pela variável preditora (cobertura vacinal) em um modelo de regressão, sendo que R<sup>2</sup> = 1 indica que toda a variância da variável independente é explicada pela preditora, e R<sup>2</sup> = 0 indica que nenhuma porção da variância é explicável pela predição.
+
+Conforme observado já na análise exploratória, a cobertura vacinal dos principais imunizantes parece ter entrado em queda a partir dos anos de 2014 e 2015. Observando os resultados das regressões considerando todo o período de 1994 a 2019 e comparando com a evolução da mortalidade infantil, foi possível diagnosticar mais uma vez essa queda. É possível notar que valores de R quadrado ao final da regressão e os coeficientes lineares são menores para o período 1994-2014, indicando que nesse período há uma tendência mais forte de aumento na cobertura vacinal associada à diminuição da mortalidade infantil. O gráfico para a cobertura da BCG é o que possuí os dados mais dispersos, e isso é explicado ao analisar a evolução temporal desse parâmetro, onde vemos que esse imunizante apresenta uma boa cobertura (maior que 100) por quase todo o período analisado, não havendo uma tendência tão grande de crescimento em comparação com as demais. 
 
 
 Imunizante | 1994-2019 | 1994-2014
