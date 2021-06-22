@@ -106,6 +106,7 @@ Por meio da vacinação, doenças como a varíola, a poliomielite, o sarampo e a
    * Quais fatores regionais ou sociais podem estar associados ao aumento ou diminuição da cobertura vacinal?
 
 # Objetivos do Projeto
+
 O objetivo do projeto foi de realizar primeiramente uma análise exploratória para identificar se a cobertura vacinal dos principais imunizantes realmente diminuiu ao longo dos últimos anos, e se esse comportamento é o mesmo entre as regiões do Brasil. Essa análise também foi estendida para comparar a evolução da cobertura vacinal no Brasil com demais continentes. Também tivemos como objetivo analisar a relevância da cobertura vacinal de certos imunizantes para a redução da mortalidade infantil e aumento da expectativa de vida, além de comparar a evolução do Índice de Desenvolvimento Humano (IDH) brasileiro com a cobertura vacinal dos mesmos imunizantes. 
 
 <!--  * Analisar a cobertura das vacinas obrigatórias ao longo dos anos no Brasil e e alguns outros países do exterior. -->
@@ -353,24 +354,27 @@ Hepatite B | 0.649 (-0.000133) | 0.720 (-0.000127)
 
 Abaixo, apresentamos os gráficos gerados após as regressões lineares, contendo os dados originais e preditos.
 
-<figure>
+ <figure>
 	<img src="images/polio_mort.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
-   </figure>
+  </figure>
    
  <figure>
 	<img src="images/bcg_mort.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
-   </figure>
+  </figure>
    
   <figure>
 	<img src="images/hep_mort.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
   </figure>
    
-Conforme observado já na análise exploratória, a cobertura vacinal dos principais imunizantes parece ter entrado em queda a partir dos anos de 2014 e 2015. Observando os resultados das regressões considerando todo o período de 1994 a 2019 e comparando com a evolução da mortalidade infantil, foi possível diagnosticar mais uma vez essa queda. É possível notar que valores de R quadrado ao final da regressão e os coeficientes lineares são menores para o período 1994-2014, indicando que nesse período há uma tendência mais forte de aumento na cobertura vacinal associada à diminuição da mortalidade infantil. O gráfico para a cobertura da BCG é o que possuí os dados mais dispersos, e isso é explicado ao analisar a evolução temporal desse parâmetro, onde vemos que esse imunizante apresenta uma boa cobertura (maior que 100) por quase todo o período analisado, não havendo uma tendência tão grande de crescimento em comparação com as demais. **Discussão**
+Conforme observado já na análise exploratória, a cobertura vacinal dos principais imunizantes parece ter entrado em queda a partir dos anos de 2014 e 2015. Observando os resultados das regressões considerando todo o período de 1994 a 2019 e comparando com a evolução da mortalidade infantil, foi possível diagnosticar mais uma vez essa queda. É possível notar que valores de R quadrado ao final da regressão e os coeficientes lineares são menores para o período 1994-2014, indicando que nesse período há uma tendência mais forte de aumento na cobertura vacinal associada à diminuição da mortalidade infantil. O gráfico para a cobertura da BCG é o que possuí os dados mais dispersos, e isso é explicado ao analisar a evolução temporal desse parâmetro, onde vemos que esse imunizante apresenta uma boa cobertura (maior que 100) por quase todo o período analisado, não havendo uma tendência tão grande de crescimento em comparação com as demais.
+
+Arroyo e colaboradores (2020) observaram resultados semelhantes, eles analisaram a cobertura vacinal para BCG, poliomielite e tríplice viral no Brasil no período de 2006 a 2016, e constaram uma tendência na redução do número de imunizações no Brasil no decorrer dos anos. A diminuição da cobertura vacinal pode estar associada a vários fatores desde aspectos socioeconômicos e demográficos, conhecimento e a atitude da mãe ou responsável em relação à vacinação, até as crenças religiosas (TAUIL et al., 2016; Kennedy et al., 2016). Além desses desafios, o surgimento da pandemia causada pelo novo coronavírus (COVID-19), atualmente torna a vacinação de rotina um grande desafio para a saúde pública, a própria OMS e a UNICEF alertaram sobre o declínio alarmante no número de crianças que recebem as doses recomendadas da vacina (WORLD HEALTH ORGANIZATION, 2020). 
 
 As regressões lineares utilizando o IDH como preditor da cobertura vacinal apresentaram resultados similares, no sentido de indicarem também a tendência de decrescimento das coberturas vacinais a partir do ano de 2014. Abaixo, apresentamos uma tabela com os valores de R<sup>2</sup> e coeficiente angular da reta (em parênteses) para cada imunizante considerado, em dois períodos de tempo. 
+
 
 Imunizante | 1994-2019 | 1994-2014
 ----- | ----- | -----
@@ -380,12 +384,12 @@ Hepatite B | 0.466 (0.619) | 0.624 (0.928)
 
 Abaixo apresentamos os gráficos de IDH versus cobertura vacinal, com os valores reais e preditos. 
 
- <figure>
+   <figure>
 	<img src="images/polio_idh.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
    
-  <figure>
+   <figure>
 	<img src="images/bcg_idh.png" alt="Doenças no Brasil", height="400" width="1200">
 	<!--<figcaption>Legenda para a imagem impressionante</figcaption>-->
    </figure>
@@ -397,7 +401,6 @@ Abaixo apresentamos os gráficos de IDH versus cobertura vacinal, com os valores
    
   A partir dos resultados obtidos para o imunizante BCG fica bastante clara essa tendência de diminuição, visto que o coeficiente linear encontrado, por mais que o erro associado seja grande, é negativo. Esses resultados podem indicar que em um futuro próximo poderemos ver os índices de mortalidade infantil e IDH desviarem de suas tendências otimistas devido à diminuição das coberturas vacinais, dentre outros diversos fatores relacionados à saúde e políticas públicas. 
    
-
 
  * Brasil e Mundo
  
@@ -428,6 +431,7 @@ Na figura abaixo apresentamos um gráfico scatter das coberturas vacinais de pol
    </figure>
    
 Conforme é possível observar através dos gráficos, médias e valores p encontrados, as coberturas vacinais entre todos os continentes são estatisticamente distintas entre si. Esse resultado reflete as diferentes estratégias de saúde, economia e índices sociais associados a cada continente. É interessante notar que o Brasil parece possuir conexão mais forte com o continente Europeu, ao invés do continente Americano como esperado. A partir do gráfico de evolução temporal na seção de análise exploratória, é possível perceber que, partindo de uma cobertura vacinal muito baixa, o Brasil superou a média Europeia em um intervalo de 5 anos, permanecendo acima da média de todos os continentes até o ano de 2015. As médias Europeias e Americanas permaneceram aproximadamente constantes, em torno de 85 a 95, e as do continente africano apresentaram crescimento entre 1994 - 2010, e após permaneceram aproximadamente constantes em 80.
+
 
 
 # Conclusões e Lições aprendidas
