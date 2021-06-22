@@ -284,7 +284,6 @@ As análises realizadas consistiram em 3 categorias: análise exploratória (ela
 
 As análises via teste de hipóteses consistiram em testar se diferentes regiões do Brasil e do mundo possuem distribuições estatisticamente distintas de cobertura vacinal dos imunizantes considerados nos períodos de 1994 a 2019 e 1994 a 2020. Um segundo tipo de teste de hipóteses seria feito para identificar se os municípios de extrema pobreza possuíam distribuição de coberturas diferente dos municípios sem extrema pobreza. Entretanto, ao manipular os dados percebemos que os dados gerados com o filtro 'Municípios de extrema pobreza = não' na plataforma do DATASUS eram idênticos aos dados de todo o Brasil (sem aplicação do filtro), e não foi possível fazer uma comparação direta (com/sem extrema pobreza). Por conta disso, fizemos o teste de hipóteses, comparando os municípios de extrema pobreza com as capitais do país.
 
-
 Com as análises via regressão linear, o objetivo era de inicialmente identificar relações de dependência de diversos fatores sociais e econômicos com a cobertura vacinal dos principais imunizantes. Fatores que consideramos relevantes para essa análise seriam o IDH, mortalidade infantil, expectativa de vida, gastos em saúde pública, índices de educação e PIB. O índice de educação obtido pela base HDR, mortalidade infantil, expectativa de vida e PIB estão diretamente ligados ao cálculo do IDH, tornando a análise com mais de um desses fatores (ao mesmo tempo) redundante. Para o índice restante, gastos em saúde pública, que consideramos ser de extrema importância para análise, não foi possível obter dados coerentes para o período considerado. Encontramos dados de somente alguns anos na base HDR e dados também de somente alguns anos em resumos/reports do IBGE e outros órgãos governamentais, porém o cálculo dos gastos foi feito de forma distinta em cada arquivo e não foi possível utilizá-los. Realizamos então a análise por regressão linear em dois formatos: cobertura vacinal como preditor para a mortalidade infantil e IDH como preditor da cobertura vacinal, para os imunizantes da poliomielite, BCG e Hepatite B. Sabemos que a mortalidade infantil e a cobertura vacinal dependem de inúmeros fatores e portanto não é possível prever o comportamento desses dados na forma analisada, mas foi possível analisar tendências de comportamento entre os fatores de predição e os preditos.
 
 
@@ -318,6 +317,10 @@ Hepatite B | 75.8 (25.6) | 74.8 (37.3) | 81.6 (33.5) | 84.8 (24.5) | 78.8 (35.1)
 Poliomielite | 88.8 (19.8) | 93.2 (12.8) | 96.7 (8.2) | 95.0 (5.6) | 95.4 (16.0) | 94.9 (13.6) | 93.1 (10.7) | 94.1 (11.4)
 
 Conforme é possível observar na tabela acima e também nos gráficos de boxplot da análise exploratória, as médias de cobertura vacinal não variam significativamente para as diferentes regiões do país. As médias das regiões norte, nordeste e municípios de extrema pobreza apresentam as menores médias, enquanto as demais regiões apresentam médias maiores e similares. A imunização contra a Hepatite B é a que apresenta menor cobertura dentre os imunizantes considerados. Apesar de não parecerem distintas, ainda assim realizamos os testes de hipóteses para verificar a proximidade das distribuições de cobertura vacinal entre as regiões do País. A tabela abaixo apresenta os valores p para a hipótese de que as distribuições da cobertura vacinal da poliomielite no par de regiões consideradas são estatisticamente indistinguíveis.
+
+Como podemos observar, a distribuição de cobertura vacinal de nenhuma região é de fato estatisticamente independente. Os valores de comparação entre a região Norte e as demais são os menores, indicando que a cobertura nessa região parece ser a mais distinta (mas ainda assim nenhum valor é menor do que 0.05). Esses resultados indicam que o acesso às vacinas obrigatórias e de extrema importância no Brasil é bastante homogêneo (em média), mesmo em regiões de maior vulnerabilidade.
+
+Brasil é considerado um dos países que possuem o maior calendário vacinal do mundo e possui o Programa Nacional de Imunização (PNI) desde 1975, que tem como objetivo coordenar as ações de imunizações no país (LIMA & PINTO, 2017). Atualmente o PNI é patrocinado pelo Sistema Único de Saúde (SUS), o SUS oferece cobertura de saúde para cerca de 75% da população, garantindo acesso gratuito a medicamentos, tecnologia em saúde, exames de saúde, imunizações e tratamentos (BRASIL, 2021)
 
 Regiões | Valor p
 ----- | -----
@@ -479,6 +482,9 @@ Para melhorar a análise realizada nesse projeto, um esforço maior deve ser des
 
 [8] **Fonseca, Keila Rodrigues da e Buenafuente, Sandra Maria Franco.** Análise das coberturas vacinais de crianças menores de um ano em Roraima, 2013-2017 Epidemiologia e Serviços de Saúde [online]. v.30, n.2 https://doi.org/10.1590/S1679-49742021000200010.
 
+[9] **LIMA, A. A.; PINTO, E. S.** O contexto histórico da implantação do Programa Nacional de Imunização (PNI) e sua importância para o Sistema Único de Saúde (SUS). Scire Salutis, v.7, n.1, p.53-62, 2017. 
+DOI: http://doi.org/10.6008/SPC2236-9600.2017.001.0005 
+
 [9] **Meghan Bridgid Moran, Melissa Lucas, Kristen Everhart, Ashley Morgan, Erin Prickett** What makes anti-vaccine websites persuasive? A content analysis of techniques used by anti-vaccine websites to engender anti-vaccine sentiment. Journal of Communication in Healthcar 2016 VOL. 9 NO. 3 https://doi.org/10.1080/17538068.2016.1235531
 
 [10] **Peter J Hotez, Tasmiah Nuzhath, Brian Colwell.** Combating vaccine hesitancy and other 21st century social determinants in the global fight against measles. Current Opinion in Virology, Volume 41, 2020, Pages 1-7, ISSN 1879-6257, https://doi.org/10.1016/j.coviro.2020.01.001.
@@ -490,6 +496,8 @@ Para melhorar a análise realizada nesse projeto, um esforço maior deve ser des
 [13] **Silveira MF, Buffarini R, Bertoldi AD, Santos IS, Barros AJD, Matijasevich A, Menezes AMB, Gonçalves H, Horta BL, Barros FC, Barata RB, Victora CG.** The emergence of vaccine hesitancy among upper-class Brazilians: Results from four birth cohorts, 1982-2015. Vaccine. 2020 Jan 16;38(3):482-488. doi: 10.1016/j.vaccine.2019.10.070. 2019 Nov 9. PMID: 31718899. https://pubmed.ncbi.nlm.nih.gov/31718899/
 
 [14] **Silveira MF, Tonial CT, Goretti K Maranhão A, Teixeira AMS, Hallal PC, Maria B Menezes A, Horta BL, Hartwig FP, Barros AJD, Victora CG.** Missed childhood immunizations during the COVID-19 pandemic in Brazil: Analyses of routine statistics and of a national household survey. Vaccine. 2021 Jun 8;39(25):3404-3409. doi: 10.1016/j.vaccine.2021.04.046. 2021 Apr 27. PMID: 33941406. https://pubmed.ncbi.nlm.nih.gov/33941406/
+
+[15] Sistema de Informação do Programa Nacional de Imunizações (SI-PNI), "Sistema de Informação do PNI". [Conectados]. Disponível: http://pni.datasus.gov.br/index.asp . 
 
 [15] **Verani, José Fernando de Souza e Laender, Fernando.** A erradicação da poliomielite em quatro tempos. Cadernos de Saúde Pública [online]. 2020, v. 36, n. Suppl 2 [Acessado 15 Junho 2021] , e00145720. Disponível em: <https://doi.org/10.1590/0102-311X00145720>. Epub 02 Nov 2020. ISSN 1678-4464. https://doi.org/10.1590/0102-311X00145720.
 
