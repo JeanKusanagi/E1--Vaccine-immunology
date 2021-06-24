@@ -18,7 +18,7 @@ Trabalho final da disciplina Ciência e Visualização de Dados em Saúde.
 │   └── raw            			<- Dados originais sem modificações.
 │
 ├── notebooks          			<- Jupyter notebooks.
-|   ├── old				<- Arquivos antigos feitos no Colab (Python).
+|   ├── old				<- Arquivos antigos implementados via Colab (Python).
 |   ├── E2_vaccine_immunology.ipynb	<- Versão anterior do projeto
 |   └── E3_vaccine_immunology.ipynb	<- Versão Final do projeto
 │
