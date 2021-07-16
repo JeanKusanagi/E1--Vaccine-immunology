@@ -101,9 +101,9 @@ O tipo de vacina mais comum é a utilização da versão atenuada do vírus ou b
 
 Por meio da vacinação, doenças como a varíola, a poliomielite, o sarampo e a rubéola foram erradicadas nas últimas décadas no Brasil (CASSOCERA, 2020). Contudo, o sucesso das campanhas de vacinação está ameaçado com o surgimento e crescente onda de movimento antivacina (MORAN et al., 2016). Além disso, um colapso socioeconômico, como ocorrido na Venezuela, em associação com mudanças climáticas, falhas agrícolas, insegurança alimentar e urbanização, também pode estar relacionado ao surgimento de doenças já erradicadas, como o surto de sarampo ocorrido durante os anos de 2018 e 2019 no Brasil e em outros países (HOTEZ, 2020). Além desses fatores, a pandemia do COVID-19 pode estar contribuindo para essa queda na cobertura de imunização, tendo em vista o risco de contrair o coronavírus SARS-CoV-2, pelas pessoas ficarem reclusas em casa, além de postos de vacinação com horários reduzidos ou até mesmo fechados (SILVEIRA et al., 2021). Sendo assim, o país pode voltar a ser acometido por doenças imunopreveníveis que estavam controladas diante do comprometimento da cobertura vacinal. Portanto, a vacinação é um tema estratégico de extrema importância ao se tratar de saúde pública e bem estar da população, sendo uma das formas de prevenção mais seguras e eficazes para redução da incidência de doenças contagiosas, além de reduzir a utilização do sistema de saúde.   
 
-<bloquete>
-	Cobertura vacinal pode ser definida como a proporção de pessoas vacinadas que receberam o esquema completo de vacinação em relação a quantidade de pessoas 	existentes em uma determinada região, entendendo-se por esquema completo a aplicação de todas as vacinas preconizadas pelo PNI, cujas doses foram aplicadas 	 nas idades corretas (adequação epidemiológica) e com os intervalos corretos (adequação imunológica).
-</bloquete>
+
+> Cobertura vacinal pode ser definida como a proporção de pessoas vacinadas que receberam o esquema completo de vacinação em relação a quantidade de pessoas 	existentes em uma determinada região, entendendo-se por esquema completo a aplicação de todas as vacinas preconizadas pelo PNI, cujas doses foram aplicadas 	 nas idades corretas (adequação epidemiológica) e com os intervalos corretos (adequação imunológica).
+
 
 
 
