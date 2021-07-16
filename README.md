@@ -116,6 +116,10 @@ O objetivo do nosso projeto foi realizar primeiramente uma análise exploratóri
 <!--   * Encontrar particularidades no Brasil que permitam identificar quais a regiões mais afetadas pela falta de imunização. -->
 
 
+<bloquete>
+	Cobertura vacinal: 
+<\bloquete>
+
 # Metodologia
 <!-- Abordagem adotada pelo projeto na busca pela resposta às perguntas de pesquisa.
 > Justificar teoricamente, sempre que possível, a metodologia adotada. -->
