@@ -117,8 +117,8 @@ O objetivo do nosso projeto foi realizar primeiramente uma análise exploratóri
 
 
 <bloquete>
-	Cobertura vacinal: 
-<\bloquete>
+	Cobertura vacinal pode ser definida como a proporção de pessoas vacinadas que receberam o esquema completo de vacinação em relação a quantidade de pessoas existentes em uma determinada região, entendendo-se por esquema completo a aplicação de todas as vacinas preconizadas pelo PNI, cujas doses foram aplicadas nas idades corretas (adequação epidemiológica) e com os intervalos corretos (adequação imunológica).
+</bloquete>
 
 # Metodologia
 <!-- Abordagem adotada pelo projeto na busca pela resposta às perguntas de pesquisa.
